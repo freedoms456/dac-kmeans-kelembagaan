@@ -1,0 +1,2342 @@
+﻿pegawai_sertifikasi_id;pegawai_nama;sertifikasi_nama;pegawai_serti;Sertifikasi_akhir
+;Pegawai 1054;Certified Procurement Specialist;12/04/2021;31/12/2029
+;Pegawai 751;Certified Internal Control Auditor;26/06/2020;31/12/2029
+;Pegawai 856;Governance Risk Management and Compliance Professional;03/04/2018;31/12/2029
+;Pegawai 935;Certified Accounting Technician;24/03/2022;31/12/2029
+;Pegawai 476;Sertifikasi Change Management;28/02/2020;31/12/2029
+;Pegawai 1784;Certified Management Accountants;23/04/2020;31/12/2029
+;Pegawai 1960;Certified Sustainability Practitioner;03/10/2022;31/12/2029
+;Pegawai 1302;Associate Certified Public Accountant;02/02/2021;31/12/2029
+;Pegawai 589;Akuntan;25/11/2018;31/12/2029
+;Pegawai 1556;Chartered Accountant;12/03/2019;31/12/2029
+;Pegawai 943;Governance Risk Management and Compliance Professional;23/11/2022;31/12/2029
+;Pegawai 1360;Certified RIsk Associate;06/10/2021;31/12/2029
+;Pegawai 796;Cellebrite Certified Physical Analyst;10/04/2020;31/12/2029
+;Pegawai 1211;Certified Government Accounting Associate;17/03/2022;31/12/2029
+;Pegawai 441;Certified Risk Management Officer;04/05/2021;31/12/2029
+;Pegawai 905;Corporate Forensic Auditor;14/08/2019;31/12/2029
+;Pegawai 756;Certified RIsk Associate;03/01/2018;31/12/2029
+;Pegawai 1146;Certified Hacking Forensic Investigator;19/07/2019;31/12/2029
+;Pegawai 1316;Certified Financial Planner;04/05/2018;31/12/2029
+;Pegawai 587;Certified Government Accounting Associate;19/12/2018;31/12/2029
+;Pegawai 1260;Certified Professional Talent Management;27/07/2020;31/12/2029
+;Pegawai 839;Certified Human Resources Management Professional;04/11/2019;31/12/2029
+;Pegawai 1250;Certified Contract Management Specialist;22/04/2022;31/12/2029
+;Pegawai 1290;Certificate in Data Analytics;21/05/2018;31/12/2029
+;Pegawai 248;Certified Corporate Coach;15/04/2022;31/12/2029
+;Pegawai 622;Certified Government Chief Audit Executive;26/08/2019;31/12/2029
+;Pegawai 92;Certified Accounting Technician;08/01/2020;31/12/2029
+;Pegawai 370;Loop Certified Corporate Coach;04/10/2018;31/12/2029
+;Pegawai 189;Certified Management Accountants;24/03/2021;31/12/2029
+;Pegawai 782;Governance Risk Management and Compliance Professional;22/03/2020;31/12/2029
+;Pegawai 132;Certificate in International Public Sector Accounting Standards;30/08/2019;31/12/2029
+;Pegawai 895;Certificate in International Auditing;14/01/2022;31/12/2029
+;Pegawai 322;Certified Human Resources Specialist;19/04/2022;31/12/2029
+;Pegawai 304;Insinyur Professional Madya;25/05/2022;31/12/2029
+;Pegawai 1311;Advanced Diploma in Forensic Accounting - Level 5;11/04/2022;31/12/2029
+;Pegawai 1220;Cellebrite Certified Physical Analyst;14/03/2021;31/12/2029
+;Pegawai 1525;Certified Sustainability Practitioner;11/05/2022;31/12/2029
+;Pegawai 998;Certified State Finance Auditor;18/12/2021;31/12/2029
+;Pegawai 1819;Certificate in International Auditing;01/11/2021;31/12/2029
+;Pegawai 1933;Certified Legal Auditor;29/04/2021;31/12/2029
+;Pegawai 1128;Certified Professional Coach;16/03/2018;31/12/2029
+;Pegawai 1026;Certified Sustainability Reporting Specialist;15/05/2018;31/12/2029
+;Pegawai 1574;Certified Professional Management Accountant;08/07/2019;31/12/2029
+;Pegawai 1312;Asean Engineeer;19/03/2019;31/12/2029
+;Pegawai 649;Certified Forensic Auditor;21/12/2019;31/12/2029
+;Pegawai 1738;Certified Risk Management Professional;22/08/2020;31/12/2029
+;Pegawai 826;Certified Government Accounting Associate;25/01/2021;31/12/2029
+;Pegawai 26;Certified Secure Computer User;11/02/2022;31/12/2029
+;Pegawai 1821;Certified Legal Auditor;16/05/2022;31/12/2029
+;Pegawai 163;Certified Financial Planner;17/10/2019;31/12/2029
+;Pegawai 982;Certified Internal Control Auditor;30/01/2018;31/12/2029
+;Pegawai 1505;Certificate in International Auditing;19/02/2020;31/12/2029
+;Pegawai 6;Certified Ethical Hacker;04/01/2020;31/12/2029
+;Pegawai 291;Loop Certified Corporate Coach;02/06/2019;31/12/2029
+;Pegawai 98;Qualified Internal Auditor;18/10/2022;31/12/2029
+;Pegawai 1133;Certified Manpower Planner;27/03/2020;31/12/2029
+;Pegawai 867;Certified RIsk Associate;28/01/2020;31/12/2029
+;Pegawai 191;Certified Fraud Examiner;22/11/2018;31/12/2029
+;Pegawai 1591;Ahli Akuntansi Pemerintahan A;21/06/2022;31/12/2029
+;Pegawai 1885;Governance Risk Management and Compliance Professional;20/11/2020;31/12/2029
+;Pegawai 763;Certified Government Chief Audit Executive;15/10/2021;31/12/2029
+;Pegawai 1587;Certificate in International Auditing;21/06/2022;31/12/2029
+;Pegawai 608;Certificate in International Public Sector Accounting Standards;13/08/2019;31/12/2029
+;Pegawai 1116;Chartered Accountant;03/09/2018;31/12/2029
+;Pegawai 1977;Certificate in International Public Sector Accounting Standards;26/11/2021;31/12/2029
+;Pegawai 954;Sertifikasi Change Management;28/06/2019;31/12/2029
+;Pegawai 585;Certified Ethical Hacker;17/11/2021;31/12/2029
+;Pegawai 1529;Asean Engineeer;28/03/2021;31/12/2029
+;Pegawai 1881;Certified Financial Planner;07/09/2018;31/12/2029
+;Pegawai 1214;Sertifikasi Change Management;03/07/2020;31/12/2029
+;Pegawai 1995;Certified Sustainability Reporting Specialist;21/10/2018;31/12/2029
+;Pegawai 568;Cyber Security Foundation Professional;19/06/2019;31/12/2029
+;Pegawai 1163;Cellebrite Certified Officer;04/09/2021;31/12/2029
+;Pegawai 521;Certified Contract Management Specialist;06/12/2021;31/12/2029
+;Pegawai 954;Certificate in Data Analytics;02/08/2018;31/12/2029
+;Pegawai 700;Corporate Forensic Auditor;07/10/2019;31/12/2029
+;Pegawai 324;Certified IPSAS Specialist;14/11/2019;31/12/2029
+;Pegawai 1372;Insinyur Professional Madya;26/11/2022;31/12/2029
+;Pegawai 739;Certified Risk Management Officer;12/09/2018;31/12/2029
+;Pegawai 157;Certified Government Chief Audit Executive;27/10/2020;31/12/2029
+;Pegawai 237;Certified RIsk Associate;30/12/2019;31/12/2029
+;Pegawai 473;Certified Ethical Hacker;19/02/2021;31/12/2029
+;Pegawai 209;Certified Fraud Examiner;09/01/2019;31/12/2029
+;Pegawai 1772;Certified Government Auditing Professional;02/04/2018;31/12/2029
+;Pegawai 1790;Cellebrite Certified Physical Analyst;02/07/2021;31/12/2029
+;Pegawai 1739;Certified Corporate Coach;22/02/2018;31/12/2029
+;Pegawai 581;Ahli Akuntansi Pemerintahan A;17/07/2018;31/12/2029
+;Pegawai 116;Cyber Security Foundation Professional;10/06/2020;31/12/2029
+;Pegawai 908;Certified Public Accountant;22/07/2018;31/12/2029
+;Pegawai 517;Sertifikasi Change Management;15/09/2020;31/12/2029
+;Pegawai 267;Certified Management Accountants;18/01/2018;31/12/2029
+;Pegawai 404;Certified Secure Computer User;16/08/2018;31/12/2029
+;Pegawai 372;Certified Public Accountant;11/09/2022;31/12/2029
+;Pegawai 261;Certified Government Chief Audit Executive;23/07/2018;31/12/2029
+;Pegawai 232;Certificate in International Auditing;04/02/2020;31/12/2029
+;Pegawai 1725;Certified Human Resources Management Professional;14/05/2021;31/12/2029
+;Pegawai 592;Certified Grafologie Analyst;22/12/2021;31/12/2029
+;Pegawai 1985;Akuntan;09/12/2021;31/12/2029
+;Pegawai 938;Certified Ethical Hacker;09/06/2019;31/12/2029
+;Pegawai 519;Certified Government Auditing Professional;28/12/2022;31/12/2029
+;Pegawai 1994;Certificate in International Public Sector Accounting Standards;09/11/2020;31/12/2029
+;Pegawai 452;Loop Certified Corporate Coach;01/03/2021;31/12/2029
+;Pegawai 1105;Qualified Risk Management Officer;10/06/2018;31/12/2029
+;Pegawai 74;Cisco Certified Network Associate;04/07/2021;31/12/2029
+;Pegawai 899;Certificate in International Auditing;27/03/2018;31/12/2029
+;Pegawai 297;Certification in Risk Management Assurance;04/10/2019;31/12/2029
+;Pegawai 1866;Certified Pernyataan Standar Akuntansi Keuangan;25/11/2021;31/12/2029
+;Pegawai 1770;Certificate in Data Analytics;28/03/2018;31/12/2029
+;Pegawai 851;Certified State Finance Auditor;19/10/2019;31/12/2029
+;Pegawai 1181;ASEAN Chartered Professional Accountant;26/06/2018;31/12/2029
+;Pegawai 1640;Ahli Akuntansi Pemerintahan A;20/08/2018;31/12/2029
+;Pegawai 881;Certified Professional Coach;01/11/2020;31/12/2029
+;Pegawai 685;Governance  Risk Management and Compliance Audit;22/02/2019;31/12/2029
+;Pegawai 931;Certified Secure Computer User;26/09/2018;31/12/2029
+;Pegawai 1609;Qualified Risk Management Professional;20/02/2018;31/12/2029
+;Pegawai 1161;Advanced Diploma in Forensic Accounting - Level 5;08/09/2018;31/12/2029
+;Pegawai 1859;Certified Information System Auditors;05/06/2018;31/12/2029
+;Pegawai 818;Certificate in International Auditing;05/10/2022;31/12/2029
+;Pegawai 828;Certified Procurement Specialist;03/12/2018;31/12/2029
+;Pegawai 1894;Cerified Sustainability Reporting Assurer;20/12/2019;31/12/2029
+;Pegawai 1010;ASEAN Chartered Professional Accountant;19/09/2019;31/12/2029
+;Pegawai 74;Akuntan;25/03/2019;31/12/2029
+;Pegawai 822;Certified Internal Audit Officer;09/02/2021;31/12/2029
+;Pegawai 1190;Certified Ethical Hacker;12/07/2019;31/12/2029
+;Pegawai 959;Cellebrite Certified Physical Analyst;16/10/2020;31/12/2029
+;Pegawai 225;Certified Human Resources Management Professional;01/02/2021;31/12/2029
+;Pegawai 1464;Certified Data Centre Professional;14/08/2020;31/12/2029
+;Pegawai 730;Certified Sustainability Practitioner;11/07/2018;31/12/2029
+;Pegawai 1058;Certificate in International Auditing;18/07/2020;31/12/2029
+;Pegawai 1455;Certified Corporate Coach;22/05/2022;31/12/2029
+;Pegawai 1717;Qualified Government Internal Auditor;03/11/2019;31/12/2029
+;Pegawai 496;Ahli Akuntansi Pemerintahan;23/12/2022;31/12/2029
+;Pegawai 1804;Certified Professional Coach;08/07/2021;31/12/2029
+;Pegawai 1330;Certificate in International Auditing;11/07/2019;31/12/2029
+;Pegawai 332;Teknisi Akuntansi;05/06/2021;31/12/2029
+;Pegawai 811;Certified Public Accountant;02/12/2018;31/12/2029
+;Pegawai 977;Certified Professional Management Accountant;19/05/2019;31/12/2029
+;Pegawai 892;Certified Information System Auditors;21/12/2018;31/12/2029
+;Pegawai 451;Certified Professional Coach;04/04/2021;31/12/2029
+;Pegawai 332;Certified IPSAS Specialist;28/10/2022;31/12/2029
+;Pegawai 402;Certified Sustainability Reporting Specialist;20/02/2020;31/12/2029
+;Pegawai 1215;Certified Pernyataan Standar Akuntansi Keuangan;18/03/2021;31/12/2029
+;Pegawai 1198;Cisco Certified Network Associate;10/06/2022;31/12/2029
+;Pegawai 1700;Insinyur Professional Madya;23/11/2019;31/12/2029
+;Pegawai 545;Certified Financial Planner;08/08/2019;31/12/2029
+;Pegawai 307;Cyber Security Foundation Professional;16/11/2022;31/12/2029
+;Pegawai 1552;Oxygen Forensic Certified;02/08/2021;31/12/2029
+;Pegawai 1945;Certified Government Chief Audit Executive;07/02/2020;31/12/2029
+;Pegawai 899;Cellebrite Certified Officer;29/05/2018;31/12/2029
+;Pegawai 1516;Qualified Government Internal Auditor;26/12/2019;31/12/2029
+;Pegawai 276;Enterprise Risk Management Certified Professional;20/11/2019;31/12/2029
+;Pegawai 1867;Certified Human Resources Management Professional (CHRMP);27/03/2022;31/12/2029
+;Pegawai 987;Certified Hacking Forensic Investigator;13/10/2018;31/12/2029
+;Pegawai 1084;Cellebrite Certified Physical Analyst;21/06/2022;31/12/2029
+;Pegawai 1037;Certified Management Accountants;03/03/2019;31/12/2029
+;Pegawai 490;Certified Procurement Specialist;26/09/2019;31/12/2029
+;Pegawai 1466;Certificate in International Public Sector Accounting Standards;10/03/2022;31/12/2029
+;Pegawai 1821;Certified Corporate Coach;03/02/2022;31/12/2029
+;Pegawai 1888;Certificate in International Public Sector Accounting Standards;31/05/2018;31/12/2029
+;Pegawai 1548;Certified Government Chief Audit Executive;15/08/2019;31/12/2029
+;Pegawai 1404;Certified Human Resources Professional;24/04/2021;31/12/2029
+;Pegawai 1828;Enterprise Risk Management Associate Professional;15/09/2019;31/12/2029
+;Pegawai 1628;Certified Procurement Specialist;14/01/2018;31/12/2029
+;Pegawai 407;Qualified Risk Management Professional;22/09/2019;31/12/2029
+;Pegawai 1694;Certification in Risk Management Assurance;30/04/2018;31/12/2029
+;Pegawai 1793;Certified Human Resources Specialist;22/03/2022;31/12/2029
+;Pegawai 856;Corporate Forensic Auditor;14/02/2019;31/12/2029
+;Pegawai 1781;Qualified Government Internal Auditor;25/08/2019;31/12/2029
+;Pegawai 842;Chartered Accountant;11/09/2019;31/12/2029
+;Pegawai 686;Loop Certified Corporate Coach;01/06/2022;31/12/2029
+;Pegawai 219;Certificate in International Public Sector Accounting Standards;02/06/2020;31/12/2029
+;Pegawai 1844;Advanced Diploma in Forensic Accounting - Level 5;19/08/2020;31/12/2029
+;Pegawai 1142;Certified Risk Management Officer;21/03/2018;31/12/2029
+;Pegawai 1566;Qualified Risk Management Professional;31/07/2020;31/12/2029
+;Pegawai 451;Qualified Risk Management Officer;22/04/2022;31/12/2029
+;Pegawai 1491;Certified Sustainability Practitioner;07/09/2018;31/12/2029
+;Pegawai 1669;Cellebrite Certified Officer;02/08/2021;31/12/2029
+;Pegawai 1550;Certificate in International Public Sector Accounting Standards;01/04/2020;31/12/2029
+;Pegawai 1307;Certified Human Resources Management Professional;15/12/2021;31/12/2029
+;Pegawai 844;Certified Pernyataan Standar Akuntansi Keuangan;08/12/2020;31/12/2029
+;Pegawai 1971;Certified Fraud Examiner;11/10/2018;31/12/2029
+;Pegawai 613;Certified Contract Management Specialist;16/11/2021;31/12/2029
+;Pegawai 1019;Enterprise Risk Management Certified Professional;15/05/2019;31/12/2029
+;Pegawai 71;Certification in Control Self-Assessment;29/08/2022;31/12/2029
+;Pegawai 370;Certified Government Chief Audit Executive;20/11/2020;31/12/2029
+;Pegawai 1126;Certified Internal Audit Officer;25/10/2021;31/12/2029
+;Pegawai 617;Associate Certified Public Accountant;25/02/2019;31/12/2029
+;Pegawai 351;Certificate in International Auditing;07/11/2022;31/12/2029
+;Pegawai 215;Certified Grafologie Analyst;24/11/2019;31/12/2029
+;Pegawai 1364;Cellebrite Certified Officer;26/05/2020;31/12/2029
+;Pegawai 221;Certified Internal Audit Officer;07/09/2022;31/12/2029
+;Pegawai 1543;Certificate in International Auditing;21/12/2021;31/12/2029
+;Pegawai 213;Cellebrite Certified Physical Analyst;30/08/2022;31/12/2029
+;Pegawai 1078;Corporate Forensic Auditor;15/02/2022;31/12/2029
+;Pegawai 174;Certificate in International Auditing;20/11/2020;31/12/2029
+;Pegawai 680;Enterprise Risk Management Certified Professional;22/10/2022;31/12/2029
+;Pegawai 1188;Certified Sustainability Practitioner;24/05/2018;31/12/2029
+;Pegawai 1806;Cyber Security Foundation Professional;29/08/2022;31/12/2029
+;Pegawai 1577;Ahli Akuntansi Pemerintahan B;22/12/2019;31/12/2029
+;Pegawai 329;Certificate in International Public Sector Accounting Standards;27/09/2021;31/12/2029
+;Pegawai 1063;Certified Sustainability Reporting Specialist;09/11/2022;31/12/2029
+;Pegawai 1033;Certified Data Centre Professional;18/11/2021;31/12/2029
+;Pegawai 1585;Certified Internal Auditor;01/03/2018;31/12/2029
+;Pegawai 699;Certified Risk Management Professional;14/09/2019;31/12/2029
+;Pegawai 224;Certified Financial Planner;09/12/2020;31/12/2029
+;Pegawai 1083;Certified Financial Planner;27/06/2018;31/12/2029
+;Pegawai 779;Certified Ethical Hacker;28/07/2018;31/12/2029
+;Pegawai 332;Certified Financial Planner;14/09/2018;31/12/2029
+;Pegawai 1322;Ahli Akuntansi Pemerintahan A;22/02/2020;31/12/2029
+;Pegawai 1386;Oxygen Forensic Certified;13/06/2021;31/12/2029
+;Pegawai 1403;Corporate Forensic Auditor;14/11/2019;31/12/2029
+;Pegawai 876;Akuntan;06/06/2021;31/12/2029
+;Pegawai 848;Certified Fraud Examiner;14/09/2019;31/12/2029
+;Pegawai 1712;Certified State Finance Auditor;24/02/2021;31/12/2029
+;Pegawai 1414;Certified Human Resources Management Professional (CHRMP);05/09/2019;31/12/2029
+;Pegawai 1514;Certificate in International Auditing;29/01/2019;31/12/2029
+;Pegawai 773;Certified Contract Management Specialist;23/07/2019;31/12/2029
+;Pegawai 645;Certified Internal Audit Officer;18/06/2022;31/12/2029
+;Pegawai 1438;Certified Human Resources Analyst;11/06/2019;31/12/2029
+;Pegawai 170;Certified Information System Auditors;28/08/2018;31/12/2029
+;Pegawai 301;Certified Public Accountant;05/09/2021;31/12/2029
+;Pegawai 553;Certified Information System Auditors;01/05/2021;31/12/2029
+;Pegawai 1278;Teknisi Akuntansi;21/12/2018;31/12/2029
+;Pegawai 1502;Cisco Certified Network Associate;18/03/2022;31/12/2029
+;Pegawai 726;Certification in Control Self-Assessment;09/05/2018;31/12/2029
+;Pegawai 1630;Certification in Risk Management Assurance;13/01/2019;31/12/2029
+;Pegawai 1399;Certified Professional Management Accountant;18/01/2019;31/12/2029
+;Pegawai 837;Certified Ethical Hacker;24/06/2022;31/12/2029
+;Pegawai 726;Associate Certified Public Accountant;11/03/2022;31/12/2029
+;Pegawai 1591;Certified Risk Management Officer;23/02/2021;31/12/2029
+;Pegawai 275;Certified Information System Auditors;30/07/2021;31/12/2029
+;Pegawai 309;Certified Secure Computer User;23/05/2021;31/12/2029
+;Pegawai 324;Certified Professional Coach;06/05/2021;31/12/2029
+;Pegawai 1045;Corporate Forensic Auditor;29/12/2022;31/12/2029
+;Pegawai 1496;Qualified Risk Management Professional;08/12/2018;31/12/2029
+;Pegawai 983;Certified Professional Management Accountant;10/03/2018;31/12/2029
+;Pegawai 867;Ahli Akuntansi Pemerintahan B;10/11/2022;31/12/2029
+;Pegawai 236;Ahli Akuntansi Pemerintahan A;03/11/2022;31/12/2029
+;Pegawai 1804;Oxygen Forensic Certified;24/12/2018;31/12/2029
+;Pegawai 1529;Certified Procurement Specialist;30/09/2021;31/12/2029
+;Pegawai 1431;Certified Fraud Examiner;09/07/2019;31/12/2029
+;Pegawai 1943;Certified Internal Audit Officer;11/04/2020;31/12/2029
+;Pegawai 264;Teknisi Akuntansi;15/11/2019;31/12/2029
+;Pegawai 1363;Certified Risk Management Officer;12/08/2021;31/12/2029
+;Pegawai 1869;Advanced Diploma in Forensic Accounting - Level 5;26/06/2022;31/12/2029
+;Pegawai 1942;Ahli Akuntansi Pemerintahan A;07/10/2022;31/12/2029
+;Pegawai 1227;Certified Legal Auditor;08/07/2021;31/12/2029
+;Pegawai 491;Certified Human Resources Management Professional (CHRMP);12/10/2022;31/12/2029
+;Pegawai 38;Certified Risk Professional;15/12/2020;31/12/2029
+;Pegawai 1524;Ahli Akuntansi Pemerintahan;02/09/2022;31/12/2029
+;Pegawai 495;Advanced Diploma in Forensic Accounting - Level 5;18/08/2018;31/12/2029
+;Pegawai 537;Certified Pernyataan Standar Akuntansi Keuangan;13/12/2020;31/12/2029
+;Pegawai 1972;Corporate Forensic Auditor;05/10/2022;31/12/2029
+;Pegawai 577;Cisco Certified Network Associate;02/05/2022;31/12/2029
+;Pegawai 1075;Certified Sustainability Reporting Specialist;28/10/2021;31/12/2029
+;Pegawai 1608;Certified Government Chief Audit Executive;02/07/2022;31/12/2029
+;Pegawai 212;Certified Ethical Hacker;31/03/2020;31/12/2029
+;Pegawai 1713;Ahli Akuntansi Pemerintahan;21/04/2022;31/12/2029
+;Pegawai 783;Cellebrite Certified Operator;17/05/2018;31/12/2029
+;Pegawai 213;Governance  Risk Management and Compliance Audit;21/08/2020;31/12/2029
+;Pegawai 693;Qualified Internal Auditor;14/04/2019;31/12/2029
+;Pegawai 351;Certified Professional Talent Management;13/04/2019;31/12/2029
+;Pegawai 1100;Loop Certified Corporate Coach;05/11/2019;31/12/2029
+;Pegawai 486;Akuntan;06/03/2019;31/12/2029
+;Pegawai 1979;Certified RIsk Associate;06/11/2020;31/12/2029
+;Pegawai 141;Certified Human Resources Specialist;04/10/2021;31/12/2029
+;Pegawai 661;Certified Government Accounting Associate;14/10/2021;31/12/2029
+;Pegawai 1763;Ahli Akuntansi Pemerintahan;24/12/2021;31/12/2029
+;Pegawai 153;Certified Manpower Planner;10/01/2020;31/12/2029
+;Pegawai 1662;Cisco Certified Network Associate;16/10/2020;31/12/2029
+;Pegawai 1521;Certified Data Centre Professional;25/10/2021;31/12/2029
+;Pegawai 1717;Certified Management Accountants;05/03/2022;31/12/2029
+;Pegawai 281;Certificate in Data Analytics;14/09/2018;31/12/2029
+;Pegawai 858;Cellebrite Certified Physical Analyst;14/10/2019;31/12/2029
+;Pegawai 297;Cisco Certified Network Associate;07/02/2018;31/12/2029
+;Pegawai 131;Oxygen Forensic Certified;13/05/2020;31/12/2029
+;Pegawai 1803;Certified Sustainability Reporting Specialist;20/01/2021;31/12/2029
+;Pegawai 1150;Certified Professional Coach;12/08/2020;31/12/2029
+;Pegawai 519;Certified Human Resources Professional;07/10/2019;31/12/2029
+;Pegawai 489;Certificate in Data Analytics;02/11/2022;31/12/2029
+;Pegawai 831;Certificate in International Auditing;29/10/2019;31/12/2029
+;Pegawai 798;Certified Professional Management Accountant;27/06/2018;31/12/2029
+;Pegawai 1369;Ahli Akuntansi Pemerintahan;11/02/2018;31/12/2029
+;Pegawai 1781;Cellebrite Certified Operator;19/10/2021;31/12/2029
+;Pegawai 1282;Certified Internal Audit Officer;14/09/2019;31/12/2029
+;Pegawai 529;Ahli Akuntansi Pemerintahan A;17/01/2021;31/12/2029
+;Pegawai 1589;Certified RIsk Associate;13/05/2022;31/12/2029
+;Pegawai 651;Sertifikasi Change Management;02/10/2018;31/12/2029
+;Pegawai 1883;Certified State Finance Auditor;12/10/2019;31/12/2029
+;Pegawai 473;Certified Data Centre Professional;29/10/2020;31/12/2029
+;Pegawai 1625;Enterprise Risk Management Associate Professional;08/11/2021;31/12/2029
+;Pegawai 661;Certified Internal Control Auditor;24/07/2022;31/12/2029
+;Pegawai 710;AccessData Certified Examiner;24/12/2020;31/12/2029
+;Pegawai 1890;Qualified Risk Management Professional;12/12/2018;31/12/2029
+;Pegawai 230;Certified Data Centre Professional;25/04/2020;31/12/2029
+;Pegawai 1944;Enterprise Risk Management Associate Professional;03/01/2020;31/12/2029
+;Pegawai 411;Certified Financial Planner;05/10/2019;31/12/2029
+;Pegawai 1557;Ahli Akuntansi Pemerintahan;20/02/2018;31/12/2029
+;Pegawai 402;Cellebrite Certified Officer;18/02/2022;31/12/2029
+;Pegawai 1620;Certified State Finance Auditor;04/08/2020;31/12/2029
+;Pegawai 556;Certified Manpower Planner;30/04/2022;31/12/2029
+;Pegawai 1768;Cellebrite Certified Physical Analyst;22/01/2019;31/12/2029
+;Pegawai 1809;Certified Professional Coach;19/10/2020;31/12/2029
+;Pegawai 1659;Advanced Diploma in Forensic Accounting - Level 5;23/03/2020;31/12/2029
+;Pegawai 458;Cellebrite Certified Physical Analyst;12/12/2018;31/12/2029
+;Pegawai 1828;Certified Human Resources Management Professional (CHRMP);15/05/2019;31/12/2029
+;Pegawai 1821;Certified Public Accountant;09/05/2019;31/12/2029
+;Pegawai 1786;Certified Manpower Planner;20/02/2019;31/12/2029
+;Pegawai 1160;Certified Ethical Hacker;16/03/2018;31/12/2029
+;Pegawai 1520;Certified Legal Auditor;05/01/2020;31/12/2029
+;Pegawai 1648;Certified Internal Audit Officer;27/03/2020;31/12/2029
+;Pegawai 1346;Associate Certified Public Accountant;09/12/2019;31/12/2029
+;Pegawai 1226;Advanced Diploma in Forensic Accounting - Level 5;11/10/2020;31/12/2029
+;Pegawai 872;Ahli Akuntansi Pemerintahan;09/06/2019;31/12/2029
+;Pegawai 857;Certified Human Resources Professional;23/01/2022;31/12/2029
+;Pegawai 1511;Certified Professional Talent Management;03/02/2021;31/12/2029
+;Pegawai 1457;Certified Forensic Auditor;06/08/2019;31/12/2029
+;Pegawai 296;Certified Information System Auditors;25/06/2019;31/12/2029
+;Pegawai 821;Certified Human Resources Analyst;16/10/2018;31/12/2029
+;Pegawai 1572;Advanced Diploma in Forensic Accounting - Level 5;14/11/2021;31/12/2029
+;Pegawai 228;EnCase Certified Examiner;09/01/2021;31/12/2029
+;Pegawai 1058;Cerified Sustainability Reporting Assurer;18/06/2019;31/12/2029
+;Pegawai 85;Certified Management Accountants;01/05/2022;31/12/2029
+;Pegawai 736;Certified Sustainability Reporting Specialist;17/07/2019;31/12/2029
+;Pegawai 1050;Certified Human Resources Analyst;10/08/2019;31/12/2029
+;Pegawai 1582;Ahli Akuntansi Pemerintahan;01/03/2020;31/12/2029
+;Pegawai 1777;Certified Management Accountants;06/05/2019;31/12/2029
+;Pegawai 335;Certified Manpower Planner;03/09/2022;31/12/2029
+;Pegawai 504;Certified Professional Talent Management;13/06/2021;31/12/2029
+;Pegawai 1512;ASEAN Chartered Professional Accountant;20/03/2020;31/12/2029
+;Pegawai 559;Certified Pernyataan Standar Akuntansi Keuangan;17/07/2021;31/12/2029
+;Pegawai 600;Certified Internal Auditor;08/05/2018;31/12/2029
+;Pegawai 1983;Certified Procurement Specialist;07/04/2019;31/12/2029
+;Pegawai 787;Certified Professional Coach;02/03/2019;31/12/2029
+;Pegawai 1236;Certified Human Resources Professional;05/10/2021;31/12/2029
+;Pegawai 682;Certification in Control Self-Assessment;04/02/2018;31/12/2029
+;Pegawai 364;Certified Forensic Auditor;11/02/2018;31/12/2029
+;Pegawai 61;Certified Human Resources Management Professional (CHRMP);11/09/2018;31/12/2029
+;Pegawai 1322;Certificate in International Auditing;19/11/2019;31/12/2029
+;Pegawai 1498;Certified Human Resources Management Professional (CHRMP);01/09/2022;31/12/2029
+;Pegawai 990;Certified State Finance Auditor;22/09/2018;31/12/2029
+;Pegawai 1552;Certified Risk Professional;09/04/2018;31/12/2029
+;Pegawai 1870;Certified Accounting Technician;06/09/2022;31/12/2029
+;Pegawai 254;AccessData Certified Examiner;17/09/2019;31/12/2029
+;Pegawai 1983;Certified Internal Control Auditor;10/11/2022;31/12/2029
+;Pegawai 1337;Asean Engineeer;19/03/2021;31/12/2029
+;Pegawai 894;EnCase Certified Examiner;19/03/2018;31/12/2029
+;Pegawai 391;Certified Risk Management Officer;06/05/2022;31/12/2029
+;Pegawai 1369;Certified IPSAS Specialist;14/05/2022;31/12/2029
+;Pegawai 769;Governance Risk Management and Compliance Professional;21/07/2021;31/12/2029
+;Pegawai 327;Certified Accounting Technician;30/05/2019;31/12/2029
+;Pegawai 1505;Enterprise Risk Management Associate Professional;20/04/2018;31/12/2029
+;Pegawai 324;Oxygen Forensic Certified;16/03/2022;31/12/2029
+;Pegawai 1247;ASEAN Chartered Professional Accountant;28/10/2022;31/12/2029
+;Pegawai 1320;Ahli Akuntansi Pemerintahan B;01/10/2020;31/12/2029
+;Pegawai 69;Teknisi Akuntansi;27/12/2019;31/12/2029
+;Pegawai 81;Certified Government Auditing Professional;12/09/2018;31/12/2029
+;Pegawai 399;Certified Human Resources Professional;06/12/2020;31/12/2029
+;Pegawai 1695;Certified Human Resources Analyst;28/05/2019;31/12/2029
+;Pegawai 502;Certified Secure Computer User;11/07/2018;31/12/2029
+;Pegawai 1028;Certified Professional Coach;31/10/2019;31/12/2029
+;Pegawai 1509;Certified Manpower Planner;12/08/2022;31/12/2029
+;Pegawai 1630;Enterprise Risk Management Certified Professional;17/06/2018;31/12/2029
+;Pegawai 1950;Certified Internal Audit Officer;17/05/2022;31/12/2029
+;Pegawai 1673;Cellebrite Certified Physical Analyst;11/04/2018;31/12/2029
+;Pegawai 1763;Certified Human Resources Professional;14/01/2020;31/12/2029
+;Pegawai 1319;Certified IPSAS Specialist;12/01/2020;31/12/2029
+;Pegawai 1033;Certified Data Centre Professional;22/05/2019;31/12/2029
+;Pegawai 368;ASEAN Chartered Professional Accountant;17/08/2020;31/12/2029
+;Pegawai 1047;Ahli Akuntansi Pemerintahan B;30/05/2022;31/12/2029
+;Pegawai 1725;Certificate in International Public Sector Accounting Standards;24/09/2021;31/12/2029
+;Pegawai 568;Certificate in International Auditing;09/09/2019;31/12/2029
+;Pegawai 827;Enterprise Risk Management Certified Professional;31/05/2018;31/12/2029
+;Pegawai 97;Chartered Accountant;05/07/2019;31/12/2029
+;Pegawai 1632;Sertifikasi Change Management;23/02/2018;31/12/2029
+;Pegawai 884;Qualified Internal Auditor;07/01/2018;31/12/2029
+;Pegawai 773;Certified Procurement Specialist;07/04/2020;31/12/2029
+;Pegawai 1607;Certified Ethical Hacker;27/04/2019;31/12/2029
+;Pegawai 1859;Certified Government Chief Audit Executive;02/07/2019;31/12/2029
+;Pegawai 848;Certified Manpower Planner;09/04/2022;31/12/2029
+;Pegawai 1281;Cellebrite Certified Physical Analyst;16/11/2021;31/12/2029
+;Pegawai 61;Certificate in International Auditing;21/01/2020;31/12/2029
+;Pegawai 1173;Insinyur;06/11/2018;31/12/2029
+;Pegawai 429;Certified Contract Management Specialist;18/12/2020;31/12/2029
+;Pegawai 936;Certified Government Chief Audit Executive;01/07/2019;31/12/2029
+;Pegawai 853;Certified Grafologie Analyst;28/09/2019;31/12/2029
+;Pegawai 1411;Corporate Forensic Auditor;17/08/2022;31/12/2029
+;Pegawai 1807;Cisco Certified Network Associate;02/06/2020;31/12/2029
+;Pegawai 1115;Ahli Akuntansi Pemerintahan A;09/10/2022;31/12/2029
+;Pegawai 1776;Loop Certified Corporate Coach;05/01/2018;31/12/2029
+;Pegawai 1760;Certified Management Accountants;01/05/2020;31/12/2029
+;Pegawai 490;Loop Certified Corporate Coach;03/08/2018;31/12/2029
+;Pegawai 264;Certified Internal Control Auditor;24/08/2022;31/12/2029
+;Pegawai 156;Corporate Forensic Auditor;26/06/2020;31/12/2029
+;Pegawai 1250;Cellebrite Certified Physical Analyst;19/02/2020;31/12/2029
+;Pegawai 1487;Certificate in International Public Sector Accounting Standards;05/12/2020;31/12/2029
+;Pegawai 1722;Governance Risk Management and Compliance Professional;13/01/2019;31/12/2029
+;Pegawai 625;Certified Sustainability Reporting Specialist;11/07/2019;31/12/2029
+;Pegawai 1417;Qualified Risk Management Professional;08/04/2019;31/12/2029
+;Pegawai 840;Certified Sustainability Practitioner;07/11/2022;31/12/2029
+;Pegawai 1402;Certificate in Data Analytics;09/07/2022;31/12/2029
+;Pegawai 594;Certified Risk Management Professional;27/10/2021;31/12/2029
+;Pegawai 616;Chartered Accountant;09/01/2018;31/12/2029
+;Pegawai 311;Certificate in International Auditing;17/08/2021;31/12/2029
+;Pegawai 1171;Insinyur;27/12/2021;31/12/2029
+;Pegawai 844;Certification in Risk Management Assurance;14/10/2021;31/12/2029
+;Pegawai 777;Certified Fraud Examiner;13/07/2019;31/12/2029
+;Pegawai 896;Certified Human Resources Professional;16/11/2020;31/12/2029
+;Pegawai 1241;Certified Human Resources Analyst;20/07/2022;31/12/2029
+;Pegawai 1455;Cellebrite Certified Physical Analyst;06/09/2020;31/12/2029
+;Pegawai 1717;Enterprise Risk Management Certified Professional;17/07/2022;31/12/2029
+;Pegawai 1380;Sertifikasi Change Management;26/01/2018;31/12/2029
+;Pegawai 1301;Certified Professional Management Accountant;04/03/2022;31/12/2029
+;Pegawai 274;Certified Legal Auditor;29/03/2021;31/12/2029
+;Pegawai 121;Certified Procurement Specialist;22/11/2022;31/12/2029
+;Pegawai 1092;Enterprise Risk Management Certified Professional;11/01/2019;31/12/2029
+;Pegawai 1716;Cellebrite Certified Physical Analyst;15/01/2022;31/12/2029
+;Pegawai 687;Certified Procurement Specialist;05/12/2018;31/12/2029
+;Pegawai 166;Certified IPSAS Specialist;09/06/2020;31/12/2029
+;Pegawai 1782;Certified Forensic Auditor;16/07/2019;31/12/2029
+;Pegawai 556;Certified Human Resources Professional;09/08/2018;31/12/2029
+;Pegawai 958;Certified Contract Management Specialist;25/07/2020;31/12/2029
+;Pegawai 1522;Certified Sustainability Reporting Specialist;04/06/2021;31/12/2029
+;Pegawai 197;Cisco Certified Network Associate;21/04/2019;31/12/2029
+;Pegawai 80;Asean Engineeer;01/05/2019;31/12/2029
+;Pegawai 1988;Certified Professional Management Accountant;18/05/2019;31/12/2029
+;Pegawai 1578;Certified Secure Computer User;21/04/2022;31/12/2029
+;Pegawai 1566;Certified Human Resources Management Professional (CHRMP);10/02/2019;31/12/2029
+;Pegawai 784;Ahli Akuntansi Pemerintahan A;10/09/2021;31/12/2029
+;Pegawai 61;Certificate in International Auditing;07/12/2021;31/12/2029
+;Pegawai 625;Certified Professional Talent Management;10/09/2022;31/12/2029
+;Pegawai 894;Certified Fraud Examiner;28/06/2020;31/12/2029
+;Pegawai 1596;Certified IPSAS Specialist;31/10/2022;31/12/2029
+;Pegawai 1361;Certification in Control Self-Assessment;02/04/2020;31/12/2029
+;Pegawai 775;Cyber Security Foundation Professional;17/02/2021;31/12/2029
+;Pegawai 1251;Sertifikasi Change Management;20/04/2021;31/12/2029
+;Pegawai 1851;Certified State Finance Auditor;04/04/2022;31/12/2029
+;Pegawai 366;Cellebrite Certified Physical Analyst;12/09/2018;31/12/2029
+;Pegawai 1211;Governance Risk Management and Compliance Professional;29/12/2019;31/12/2029
+;Pegawai 556;Certified Internal Auditor;28/09/2019;31/12/2029
+;Pegawai 1822;Certified Human Resources Professional;12/04/2019;31/12/2029
+;Pegawai 709;Enterprise Risk Management Associate Professional;15/10/2018;31/12/2029
+;Pegawai 409;Certified Information System Auditors;30/06/2022;31/12/2029
+;Pegawai 898;Akuntan;10/06/2021;31/12/2029
+;Pegawai 1310;Certified Internal Audit Officer;23/02/2020;31/12/2029
+;Pegawai 1319;Akuntan;16/08/2019;31/12/2029
+;Pegawai 558;Cisco Certified Network Associate;27/01/2022;31/12/2029
+;Pegawai 1312;Certified Professional Management Accountant;07/12/2021;31/12/2029
+;Pegawai 1044;Certified Government Auditing Professional;28/02/2022;31/12/2029
+;Pegawai 283;Certified Risk Management Professional;02/05/2019;31/12/2029
+;Pegawai 1850;Certified Government Chief Audit Executive;29/03/2020;31/12/2029
+;Pegawai 1590;Certification in Risk Management Assurance;23/12/2019;31/12/2029
+;Pegawai 1923;Certified Management Accountants;25/11/2022;31/12/2029
+;Pegawai 1027;Certified Grafologie Analyst;03/05/2022;31/12/2029
+;Pegawai 907;Certified Manpower Planner;30/10/2020;31/12/2029
+;Pegawai 887;Certified Risk Professional;21/04/2022;31/12/2029
+;Pegawai 911;Certified Risk Professional;22/12/2022;31/12/2029
+;Pegawai 1937;Certified Government Chief Audit Executive;24/06/2021;31/12/2029
+;Pegawai 162;Certified Secure Computer User;03/03/2022;31/12/2029
+;Pegawai 440;Certified Professional Management Accountant;06/06/2022;31/12/2029
+;Pegawai 1497;Cisco Certified Network Associate;06/08/2021;31/12/2029
+;Pegawai 791;Certificate in International Auditing;04/09/2018;31/12/2029
+;Pegawai 1618;Governance  Risk Management and Compliance Audit;17/04/2019;31/12/2029
+;Pegawai 1757;Certified Pernyataan Standar Akuntansi Keuangan;27/06/2021;31/12/2029
+;Pegawai 129;Certified Manpower Planner;04/08/2018;31/12/2029
+;Pegawai 1834;Certified Human Resources Specialist;26/10/2019;31/12/2029
+;Pegawai 384;Corporate Forensic Auditor;08/11/2019;31/12/2029
+;Pegawai 99;Certified IPSAS Specialist;28/07/2019;31/12/2029
+;Pegawai 1337;Associate Certified Public Accountant;16/11/2019;31/12/2029
+;Pegawai 626;Certified Information System Auditors;02/05/2019;31/12/2029
+;Pegawai 631;Corporate Forensic Auditor;18/03/2019;31/12/2029
+;Pegawai 1285;Insinyur;14/11/2019;31/12/2029
+;Pegawai 836;Certified Risk Management Professional;14/01/2021;31/12/2029
+;Pegawai 176;Cerified Sustainability Reporting Assurer;08/05/2018;31/12/2029
+;Pegawai 104;Certified State Finance Auditor;10/07/2021;31/12/2029
+;Pegawai 161;Qualified Risk Management Officer;17/12/2019;31/12/2029
+;Pegawai 861;Cerified Sustainability Reporting Assurer;12/06/2019;31/12/2029
+;Pegawai 370;Cellebrite Certified Physical Analyst;17/02/2021;31/12/2029
+;Pegawai 793;Certificate in International Auditing;23/02/2019;31/12/2029
+;Pegawai 980;Certified Human Resources Specialist;22/02/2022;31/12/2029
+;Pegawai 1647;Certified Data Centre Professional;09/10/2020;31/12/2029
+;Pegawai 1924;Cyber Security Foundation Professional;20/10/2021;31/12/2029
+;Pegawai 410;Ahli Akuntansi Pemerintahan B;25/10/2022;31/12/2029
+;Pegawai 1354;Ahli Akuntansi Pemerintahan;29/07/2022;31/12/2029
+;Pegawai 1414;Certified Human Resources Management Professional;11/01/2021;31/12/2029
+;Pegawai 1450;Certified Data Centre Professional;28/02/2019;31/12/2029
+;Pegawai 405;Certified Hacking Forensic Investigator;06/06/2019;31/12/2029
+;Pegawai 983;Certified Hacking Forensic Investigator;28/09/2022;31/12/2029
+;Pegawai 282;Insinyur;26/07/2019;31/12/2029
+;Pegawai 1168;ASEAN Chartered Professional Accountant;14/07/2022;31/12/2029
+;Pegawai 886;Certified Ethical Hacker;06/12/2021;31/12/2029
+;Pegawai 585;Certified Human Resources Professional;12/08/2021;31/12/2029
+;Pegawai 1922;Enterprise Risk Management Associate Professional;25/06/2021;31/12/2029
+;Pegawai 843;Certified Internal Audit Officer;08/07/2019;31/12/2029
+;Pegawai 1592;Certified Sustainability Practitioner;17/05/2018;31/12/2029
+;Pegawai 1303;Akuntan;08/02/2022;31/12/2029
+;Pegawai 1375;Certified Sustainability Reporting Specialist;27/12/2018;31/12/2029
+;Pegawai 840;Certified Manpower Planner;09/12/2019;31/12/2029
+;Pegawai 238;Certified Financial Planner;03/05/2021;31/12/2029
+;Pegawai 982;Governance Risk Management and Compliance Professional;11/11/2020;31/12/2029
+;Pegawai 1073;Certified Procurement Specialist;14/03/2018;31/12/2029
+;Pegawai 1111;Certified Government Chief Audit Executive;23/07/2018;31/12/2029
+;Pegawai 1618;Certificate in International Public Sector Accounting Standards;11/05/2018;31/12/2029
+;Pegawai 1640;Certified Procurement Specialist;03/07/2020;31/12/2029
+;Pegawai 1565;Certified Procurement Specialist;07/03/2019;31/12/2029
+;Pegawai 1444;Governance Risk Management and Compliance Professional;01/05/2018;31/12/2029
+;Pegawai 386;Certified RIsk Associate;19/09/2018;31/12/2029
+;Pegawai 148;Certified State Finance Auditor;22/05/2021;31/12/2029
+;Pegawai 1496;AccessData Certified Examiner;25/04/2020;31/12/2029
+;Pegawai 1085;Governance  Risk Management and Compliance Audit;07/11/2022;31/12/2029
+;Pegawai 315;Certified Forensic Auditor;16/05/2021;31/12/2029
+;Pegawai 52;Corporate Forensic Auditor;26/02/2021;31/12/2029
+;Pegawai 625;Certified Ethical Hacker;03/09/2020;31/12/2029
+;Pegawai 96;Certified Professional Management Accountant;04/05/2019;31/12/2029
+;Pegawai 325;Enterprise Risk Management Associate Professional;24/04/2019;31/12/2029
+;Pegawai 938;Cyber Security Foundation Professional;09/07/2020;31/12/2029
+;Pegawai 890;Advanced Diploma in Forensic Accounting - Level 5;10/06/2022;31/12/2029
+;Pegawai 84;Enterprise Risk Management Certified Professional;16/06/2020;31/12/2029
+;Pegawai 1297;Cellebrite Certified Operator;23/03/2021;31/12/2029
+;Pegawai 1511;Qualified Government Internal Auditor;29/05/2020;31/12/2029
+;Pegawai 286;Certified Human Resources Specialist;17/09/2020;31/12/2029
+;Pegawai 1978;Certified Risk Management Professional;03/01/2018;31/12/2029
+;Pegawai 1574;Certified Internal Control Auditor;09/09/2018;31/12/2029
+;Pegawai 119;Certified Forensic Auditor;04/02/2018;31/12/2029
+;Pegawai 1338;Certified Grafologie Analyst;21/09/2020;31/12/2029
+;Pegawai 1996;Certified Government Auditing Professional;30/08/2019;31/12/2029
+;Pegawai 921;Certified Sustainability Reporting Specialist;30/12/2022;31/12/2029
+;Pegawai 1255;Certified Pernyataan Standar Akuntansi Keuangan;18/06/2018;31/12/2029
+;Pegawai 137;Insinyur;22/09/2019;31/12/2029
+;Pegawai 1118;Certified Corporate Coach;28/01/2022;31/12/2029
+;Pegawai 1974;Certified Government Auditing Professional;26/05/2020;31/12/2029
+;Pegawai 1690;Chartered Accountant;22/10/2019;31/12/2029
+;Pegawai 199;Certificate in International Auditing;15/04/2019;31/12/2029
+;Pegawai 1071;Certified Human Resources Management Professional;15/01/2018;31/12/2029
+;Pegawai 135;Ahli Akuntansi Pemerintahan A;21/05/2022;31/12/2029
+;Pegawai 1181;Certified IPSAS Specialist;05/05/2022;31/12/2029
+;Pegawai 1564;Certificate in International Auditing;02/06/2019;31/12/2029
+;Pegawai 1572;Certified Risk Management Officer;18/08/2022;31/12/2029
+;Pegawai 1625;Certified Human Resources Analyst;07/09/2021;31/12/2029
+;Pegawai 807;Certified Accounting Technician;16/10/2022;31/12/2029
+;Pegawai 19;Certified Human Resources Analyst;28/09/2022;31/12/2029
+;Pegawai 984;Certified Professional Coach;21/12/2021;31/12/2029
+;Pegawai 182;Certified Forensic Auditor;30/03/2018;31/12/2029
+;Pegawai 248;Teknisi Akuntansi;05/10/2021;31/12/2029
+;Pegawai 1694;EnCase Certified Examiner;18/01/2020;31/12/2029
+;Pegawai 1132;Cisco Certified Network Associate;11/02/2019;31/12/2029
+;Pegawai 1115;Certificate in International Public Sector Accounting Standards;11/03/2020;31/12/2029
+;Pegawai 500;Chartered Accountant;11/04/2022;31/12/2029
+;Pegawai 817;Certified Professional Management Accountant;18/01/2018;31/12/2029
+;Pegawai 765;Cellebrite Certified Officer;29/10/2019;31/12/2029
+;Pegawai 704;Certified Ethical Hacker;03/11/2021;31/12/2029
+;Pegawai 244;Certified Ethical Hacker;02/12/2021;31/12/2029
+;Pegawai 233;Chartered Accountant;02/05/2021;31/12/2029
+;Pegawai 257;Certified Government Chief Audit Executive;30/11/2022;31/12/2029
+;Pegawai 960;Qualified Government Internal Auditor;01/11/2022;31/12/2029
+;Pegawai 1662;Qualified Risk Management Officer;28/09/2020;31/12/2029
+;Pegawai 674;Certified Internal Audit Officer;11/10/2018;31/12/2029
+;Pegawai 1034;Certified Government Accounting Associate;24/06/2018;31/12/2029
+;Pegawai 142;Oxygen Forensic Certified;15/10/2020;31/12/2029
+;Pegawai 724;Certified Risk Management Officer;26/02/2022;31/12/2029
+;Pegawai 372;Certified Risk Professional;06/02/2018;31/12/2029
+;Pegawai 1611;Certified Legal Auditor;10/02/2018;31/12/2029
+;Pegawai 1307;Certified Professional Management Accountant;15/05/2018;31/12/2029
+;Pegawai 414;Insinyur;02/07/2018;31/12/2029
+;Pegawai 388;Cellebrite Certified Officer;25/09/2022;31/12/2029
+;Pegawai 961;Associate Certified Public Accountant;07/09/2019;31/12/2029
+;Pegawai 258;Loop Certified Corporate Coach;22/01/2022;31/12/2029
+;Pegawai 1444;Certified Government Chief Audit Executive;25/01/2020;31/12/2029
+;Pegawai 1392;Governance Risk Management and Compliance Professional;02/08/2022;31/12/2029
+;Pegawai 1043;Certified Internal Audit Officer;18/04/2022;31/12/2029
+;Pegawai 1667;Certified Hacking Forensic Investigator;30/05/2022;31/12/2029
+;Pegawai 1471;Insinyur;05/12/2021;31/12/2029
+;Pegawai 423;Certified Legal Auditor;23/01/2020;31/12/2029
+;Pegawai 1835;Certified Pernyataan Standar Akuntansi Keuangan;01/12/2022;31/12/2029
+;Pegawai 1510;Cerified Sustainability Reporting Assurer;02/01/2018;31/12/2029
+;Pegawai 278;Certificate in International Auditing;22/10/2019;31/12/2029
+;Pegawai 1635;Certified Sustainability Practitioner;26/06/2018;31/12/2029
+;Pegawai 549;Ahli Akuntansi Pemerintahan B;15/09/2018;31/12/2029
+;Pegawai 1774;Ahli Akuntansi Pemerintahan;20/03/2018;31/12/2029
+;Pegawai 853;Certified Risk Professional;09/05/2021;31/12/2029
+;Pegawai 1531;Certificate in Data Analytics;26/12/2022;31/12/2029
+;Pegawai 761;Certification in Control Self-Assessment;08/10/2018;31/12/2029
+;Pegawai 1396;Certified Contract Management Specialist;26/01/2021;31/12/2029
+;Pegawai 576;Insinyur;10/07/2020;31/12/2029
+;Pegawai 1286;Insinyur;06/06/2020;31/12/2029
+;Pegawai 878;Certified Government Chief Audit Executive;26/03/2021;31/12/2029
+;Pegawai 111;Ahli Akuntansi Pemerintahan;12/03/2022;31/12/2029
+;Pegawai 315;Certification in Control Self-Assessment;13/12/2022;31/12/2029
+;Pegawai 1121;Governance  Risk Management and Compliance Audit;01/03/2019;31/12/2029
+;Pegawai 729;Advanced Diploma in Forensic Accounting - Level 5;25/11/2021;31/12/2029
+;Pegawai 1450;Cisco Certified Network Associate;28/03/2022;31/12/2029
+;Pegawai 362;Ahli Akuntansi Pemerintahan A;25/04/2020;31/12/2029
+;Pegawai 1732;Certified Professional Management Accountant;25/10/2020;31/12/2029
+;Pegawai 196;Certified State Finance Auditor;03/10/2019;31/12/2029
+;Pegawai 1593;Certified Internal Control Auditor;20/11/2022;31/12/2029
+;Pegawai 706;Certified Public Accountant;23/12/2019;31/12/2029
+;Pegawai 736;Certified Grafologie Analyst;30/10/2021;31/12/2029
+;Pegawai 1078;Akuntan;06/06/2022;31/12/2029
+;Pegawai 1922;Qualified Government Internal Auditor;25/11/2022;31/12/2029
+;Pegawai 1476;Certification in Risk Management Assurance;10/08/2018;31/12/2029
+;Pegawai 979;Asean Engineeer;12/04/2018;31/12/2029
+;Pegawai 248;Chartered Accountant;01/05/2020;31/12/2029
+;Pegawai 897;Certified Government Auditing Professional;10/08/2020;31/12/2029
+;Pegawai 223;Certified State Finance Auditor;21/02/2021;31/12/2029
+;Pegawai 1243;Governance Risk Management and Compliance Professional;29/04/2019;31/12/2029
+;Pegawai 416;Certification in Control Self-Assessment;18/10/2018;31/12/2029
+;Pegawai 1174;Sertifikasi Change Management;23/11/2022;31/12/2029
+;Pegawai 1910;Certified Hacking Forensic Investigator;11/11/2018;31/12/2029
+;Pegawai 1274;Certified Financial Planner;18/01/2018;31/12/2029
+;Pegawai 343;Certification in Risk Management Assurance;01/12/2021;31/12/2029
+;Pegawai 412;Certified Contract Management Specialist;13/07/2019;31/12/2029
+;Pegawai 987;Certified IPSAS Specialist;28/02/2021;31/12/2029
+;Pegawai 894;Enterprise Risk Management Certified Professional;12/11/2021;31/12/2029
+;Pegawai 1512;Certificate in Data Analytics;17/06/2020;31/12/2029
+;Pegawai 1336;Certified Professional Coach;18/08/2022;31/12/2029
+;Pegawai 1964;Enterprise Risk Management Certified Professional;02/09/2022;31/12/2029
+;Pegawai 1528;Cellebrite Certified Physical Analyst;16/05/2020;31/12/2029
+;Pegawai 565;Certified Ethical Hacker;24/12/2019;31/12/2029
+;Pegawai 320;Cerified Sustainability Reporting Assurer;09/12/2018;31/12/2029
+;Pegawai 1141;Certified Risk Management Officer;12/07/2022;31/12/2029
+;Pegawai 946;Associate Certified Public Accountant;17/10/2020;31/12/2029
+;Pegawai 383;Certified Forensic Auditor;10/11/2018;31/12/2029
+;Pegawai 1907;Certified Public Accountant;29/01/2020;31/12/2029
+;Pegawai 1514;Certified Procurement Specialist;18/02/2019;31/12/2029
+;Pegawai 622;Certification in Control Self-Assessment;24/05/2019;31/12/2029
+;Pegawai 1702;Qualified Risk Management Officer;24/03/2021;31/12/2029
+;Pegawai 1477;Chartered Accountant;29/04/2020;31/12/2029
+;Pegawai 563;Certified Fraud Examiner;01/04/2021;31/12/2029
+;Pegawai 846;Loop Certified Corporate Coach;16/10/2022;31/12/2029
+;Pegawai 1112;Certified Human Resources Management Professional;12/04/2019;31/12/2029
+;Pegawai 1128;Enterprise Risk Management Certified Professional;31/10/2022;31/12/2029
+;Pegawai 371;Cellebrite Certified Physical Analyst;07/07/2020;31/12/2029
+;Pegawai 1117;Certified Sustainability Reporting Specialist;15/02/2022;31/12/2029
+;Pegawai 1154;Certified Management Accountants;16/06/2021;31/12/2029
+;Pegawai 1976;Certified Risk Management Professional;06/08/2020;31/12/2029
+;Pegawai 202;Certified Human Resources Management Professional;10/08/2021;31/12/2029
+;Pegawai 831;Certification in Control Self-Assessment;16/04/2021;31/12/2029
+;Pegawai 717;Certified Internal Auditor;18/06/2020;31/12/2029
+;Pegawai 144;Ahli Akuntansi Pemerintahan;20/05/2020;31/12/2029
+;Pegawai 984;Certified Accounting Technician;04/06/2022;31/12/2029
+;Pegawai 1477;Cisco Certified Network Associate;14/12/2018;31/12/2029
+;Pegawai 1136;Akuntan;05/07/2018;31/12/2029
+;Pegawai 61;Certified Human Resources Management Professional;30/04/2022;31/12/2029
+;Pegawai 1303;Certified Internal Auditor;15/10/2019;31/12/2029
+;Pegawai 66;Certified Government Accounting Associate;05/08/2019;31/12/2029
+;Pegawai 905;Certified Forensic Auditor;13/06/2019;31/12/2029
+;Pegawai 1747;Governance  Risk Management and Compliance Audit;21/02/2022;31/12/2029
+;Pegawai 962;Certified Risk Professional;07/04/2019;31/12/2029
+;Pegawai 168;Enterprise Risk Management Associate Professional;25/11/2018;31/12/2029
+;Pegawai 1179;Certified Secure Computer User;26/07/2021;31/12/2029
+;Pegawai 1289;Certified Human Resources Professional;09/09/2021;31/12/2029
+;Pegawai 1510;Certified Contract Management Specialist;29/06/2019;31/12/2029
+;Pegawai 1994;Akuntan;16/04/2022;31/12/2029
+;Pegawai 495;Qualified Risk Management Officer;09/03/2019;31/12/2029
+;Pegawai 414;Ahli Akuntansi Pemerintahan;28/03/2018;31/12/2029
+;Pegawai 343;Certified State Finance Auditor;28/07/2021;31/12/2029
+;Pegawai 78;Certified Sustainability Practitioner;21/04/2019;31/12/2029
+;Pegawai 9;Certified Fraud Examiner;13/10/2019;31/12/2029
+;Pegawai 1985;Certified Public Accountant;24/02/2021;31/12/2029
+;Pegawai 1482;Qualified Risk Management Professional;15/07/2022;31/12/2029
+;Pegawai 1824;EnCase Certified Examiner;18/03/2022;31/12/2029
+;Pegawai 112;Certified Government Auditing Professional;14/01/2019;31/12/2029
+;Pegawai 1880;AccessData Certified Examiner;30/04/2021;31/12/2029
+;Pegawai 28;Cellebrite Certified Operator;27/11/2018;31/12/2029
+;Pegawai 37;Certification in Risk Management Assurance;24/07/2022;31/12/2029
+;Pegawai 0;Cisco Certified Network Associate;27/06/2018;31/12/2029
+;Pegawai 758;Certified Sustainability Practitioner;02/04/2022;31/12/2029
+;Pegawai 1589;Certified Human Resources Professional;16/09/2019;31/12/2029
+;Pegawai 1779;Cellebrite Certified Physical Analyst;28/05/2019;31/12/2029
+;Pegawai 1490;Cerified Sustainability Reporting Assurer;07/11/2019;31/12/2029
+;Pegawai 1781;Certified Internal Control Auditor;03/01/2018;31/12/2029
+;Pegawai 733;Chartered Accountant;21/03/2019;31/12/2029
+;Pegawai 1546;Ahli Akuntansi Pemerintahan B;17/11/2022;31/12/2029
+;Pegawai 806;Certified Accounting Technician;09/08/2021;31/12/2029
+;Pegawai 647;Certified Data Centre Professional;10/11/2021;31/12/2029
+;Pegawai 1940;Certified RIsk Associate;02/06/2020;31/12/2029
+;Pegawai 495;Certified State Finance Auditor;11/05/2022;31/12/2029
+;Pegawai 775;Cellebrite Certified Operator;31/07/2018;31/12/2029
+;Pegawai 1211;Certificate in Data Analytics;04/02/2022;31/12/2029
+;Pegawai 604;Certification in Risk Management Assurance;01/03/2021;31/12/2029
+;Pegawai 249;Certified Manpower Planner;10/06/2019;31/12/2029
+;Pegawai 1166;Certified Government Chief Audit Executive;20/10/2018;31/12/2029
+;Pegawai 263;Certified Government Accounting Associate;09/11/2018;31/12/2029
+;Pegawai 1546;Certified Professional Talent Management;07/08/2022;31/12/2029
+;Pegawai 318;AccessData Certified Examiner;01/08/2021;31/12/2029
+;Pegawai 240;Certificate in International Public Sector Accounting Standards;12/07/2019;31/12/2029
+;Pegawai 1391;Governance Risk Management and Compliance Professional;04/03/2020;31/12/2029
+;Pegawai 641;Certified Ethical Hacker;05/06/2019;31/12/2029
+;Pegawai 501;Certified Hacking Forensic Investigator;03/12/2018;31/12/2029
+;Pegawai 571;Certificate in International Public Sector Accounting Standards;02/11/2021;31/12/2029
+;Pegawai 948;Governance  Risk Management and Compliance Audit;03/05/2018;31/12/2029
+;Pegawai 1404;Governance  Risk Management and Compliance Audit;31/10/2021;31/12/2029
+;Pegawai 628;Certified Government Auditing Professional;20/02/2020;31/12/2029
+;Pegawai 829;Associate Certified Public Accountant;22/03/2020;31/12/2029
+;Pegawai 1732;Certified Secure Computer User;25/09/2020;31/12/2029
+;Pegawai 1838;Certified Legal Auditor;11/06/2018;31/12/2029
+;Pegawai 767;Governance  Risk Management and Compliance Audit;21/05/2019;31/12/2029
+;Pegawai 435;Certified Professional Management Accountant;04/05/2021;31/12/2029
+;Pegawai 618;Certified Manpower Planner;24/06/2021;31/12/2029
+;Pegawai 936;Governance Risk Management and Compliance Professional;07/07/2018;31/12/2029
+;Pegawai 755;Certified Corporate Coach;07/10/2020;31/12/2029
+;Pegawai 304;Certified Professional Talent Management;11/02/2020;31/12/2029
+;Pegawai 539;Sertifikasi Change Management;01/06/2018;31/12/2029
+;Pegawai 1431;Certified Professional Talent Management;16/11/2019;31/12/2029
+;Pegawai 237;Certification in Control Self-Assessment;19/01/2018;31/12/2029
+;Pegawai 805;Cisco Certified Network Associate;11/04/2022;31/12/2029
+;Pegawai 1243;Akuntan;11/10/2018;31/12/2029
+;Pegawai 367;Certificate in Data Analytics;26/02/2018;31/12/2029
+;Pegawai 98;Certificate in Data Analytics;30/12/2021;31/12/2029
+;Pegawai 770;Certified Government Accounting Associate;09/02/2020;31/12/2029
+;Pegawai 148;Certified Risk Management Officer;28/10/2018;31/12/2029
+;Pegawai 1188;Certified Human Resources Analyst;17/05/2020;31/12/2029
+;Pegawai 399;Certified Contract Management Specialist;24/07/2022;31/12/2029
+;Pegawai 430;Certified Pernyataan Standar Akuntansi Keuangan;23/12/2018;31/12/2029
+;Pegawai 1355;Teknisi Akuntansi;29/07/2021;31/12/2029
+;Pegawai 478;Certified Manpower Planner;28/11/2020;31/12/2029
+;Pegawai 1677;Certified Corporate Coach;04/05/2021;31/12/2029
+;Pegawai 1946;Enterprise Risk Management Certified Professional;20/10/2021;31/12/2029
+;Pegawai 774;Ahli Akuntansi Pemerintahan B;21/02/2019;31/12/2029
+;Pegawai 573;Certified Sustainability Reporting Specialist;23/04/2021;31/12/2029
+;Pegawai 723;Certified Legal Auditor;28/02/2018;31/12/2029
+;Pegawai 1276;Certified Corporate Coach;03/08/2019;31/12/2029
+;Pegawai 185;Certified Hacking Forensic Investigator;17/01/2019;31/12/2029
+;Pegawai 1151;Certified Data Centre Professional;14/05/2018;31/12/2029
+;Pegawai 1296;Certified Procurement Specialist;16/02/2018;31/12/2029
+;Pegawai 1270;Certified Human Resources Specialist;24/10/2018;31/12/2029
+;Pegawai 734;Enterprise Risk Management Certified Professional;13/10/2019;31/12/2029
+;Pegawai 1257;ASEAN Chartered Professional Accountant;14/11/2019;31/12/2029
+;Pegawai 1608;Certified Grafologie Analyst;04/11/2021;31/12/2029
+;Pegawai 133;Certified State Finance Auditor;31/07/2019;31/12/2029
+;Pegawai 1957;Certified Management Accountants;30/03/2022;31/12/2029
+;Pegawai 624;Cisco Certified Network Associate;02/02/2018;31/12/2029
+;Pegawai 284;Certified State Finance Auditor;01/03/2018;31/12/2029
+;Pegawai 1460;Certified Procurement Specialist;20/10/2022;31/12/2029
+;Pegawai 817;Sertifikasi Change Management;31/12/2018;31/12/2029
+;Pegawai 4;Insinyur;21/10/2018;31/12/2029
+;Pegawai 1031;Certified Professional Management Accountant;11/01/2021;31/12/2029
+;Pegawai 1620;AccessData Certified Examiner;28/12/2020;31/12/2029
+;Pegawai 1838;Certified Ethical Hacker;15/02/2019;31/12/2029
+;Pegawai 1654;Ahli Akuntansi Pemerintahan;19/01/2018;31/12/2029
+;Pegawai 621;Certified Sustainability Practitioner;16/11/2022;31/12/2029
+;Pegawai 1960;Qualified Risk Management Professional;18/07/2019;31/12/2029
+;Pegawai 1053;Cellebrite Certified Physical Analyst;08/12/2019;31/12/2029
+;Pegawai 1211;ASEAN Chartered Professional Accountant;25/11/2019;31/12/2029
+;Pegawai 665;Certified Government Auditing Professional;22/06/2022;31/12/2029
+;Pegawai 949;ASEAN Chartered Professional Accountant;14/07/2021;31/12/2029
+;Pegawai 217;Certified Professional Coach;12/05/2021;31/12/2029
+;Pegawai 533;Certificate in International Auditing;04/02/2019;31/12/2029
+;Pegawai 292;Certified Manpower Planner;01/09/2019;31/12/2029
+;Pegawai 1542;Certified Hacking Forensic Investigator;17/04/2019;31/12/2029
+;Pegawai 1561;Certified Risk Management Professional;22/05/2018;31/12/2029
+;Pegawai 881;Certified RIsk Associate;15/10/2021;31/12/2029
+;Pegawai 497;Certified IPSAS Specialist;17/12/2019;31/12/2029
+;Pegawai 1245;Certified Human Resources Analyst;12/01/2020;31/12/2029
+;Pegawai 1634;Certificate in International Public Sector Accounting Standards;19/01/2019;31/12/2029
+;Pegawai 463;Certified Internal Control Auditor;17/03/2019;31/12/2029
+;Pegawai 236;Certification in Risk Management Assurance;10/11/2021;31/12/2029
+;Pegawai 1216;Certified Human Resources Professional;10/12/2021;31/12/2029
+;Pegawai 282;Enterprise Risk Management Certified Professional;08/06/2022;31/12/2029
+;Pegawai 1013;Certificate in International Public Sector Accounting Standards;24/10/2018;31/12/2029
+;Pegawai 714;Certificate in International Auditing;01/05/2019;31/12/2029
+;Pegawai 984;Advanced Diploma in Forensic Accounting - Level 5;08/01/2019;31/12/2029
+;Pegawai 145;Associate Certified Public Accountant;24/10/2022;31/12/2029
+;Pegawai 292;Certified Pernyataan Standar Akuntansi Keuangan;19/12/2018;31/12/2029
+;Pegawai 1654;Certified Risk Professional;09/05/2021;31/12/2029
+;Pegawai 1122;ASEAN Chartered Professional Accountant;07/02/2018;31/12/2029
+;Pegawai 350;Certified Forensic Auditor;20/01/2018;31/12/2029
+;Pegawai 1154;Certified Professional Management Accountant;16/07/2021;31/12/2029
+;Pegawai 301;Certified Manpower Planner;30/12/2019;31/12/2029
+;Pegawai 1278;ASEAN Chartered Professional Accountant;20/10/2018;31/12/2029
+;Pegawai 963;Certificate in International Public Sector Accounting Standards;24/12/2022;31/12/2029
+;Pegawai 1021;Certified Human Resources Management Professional;26/01/2021;31/12/2029
+;Pegawai 750;Certified Professional Coach;19/05/2018;31/12/2029
+;Pegawai 1472;AccessData Certified Examiner;15/03/2019;31/12/2029
+;Pegawai 385;Certified Government Chief Audit Executive;11/07/2018;31/12/2029
+;Pegawai 1355;Governance Risk Management and Compliance Professional;25/03/2018;31/12/2029
+;Pegawai 1722;Associate Certified Public Accountant;24/01/2018;31/12/2029
+;Pegawai 1952;AccessData Certified Examiner;16/09/2020;31/12/2029
+;Pegawai 1864;Certified Sustainability Reporting Specialist;16/05/2018;31/12/2029
+;Pegawai 856;Certification in Control Self-Assessment;29/01/2018;31/12/2029
+;Pegawai 1958;Ahli Akuntansi Pemerintahan A;26/08/2019;31/12/2029
+;Pegawai 721;Certified Manpower Planner;16/04/2020;31/12/2029
+;Pegawai 716;Certified Human Resources Management Professional;20/02/2022;31/12/2029
+;Pegawai 1947;Certified Procurement Specialist;29/06/2018;31/12/2029
+;Pegawai 791;Certified Legal Auditor;13/02/2018;31/12/2029
+;Pegawai 1645;Certified Human Resources Professional;27/02/2018;31/12/2029
+;Pegawai 769;Cerified Sustainability Reporting Assurer;19/03/2021;31/12/2029
+;Pegawai 472;Cerified Sustainability Reporting Assurer;18/11/2020;31/12/2029
+;Pegawai 366;Certified Secure Computer User;31/07/2019;31/12/2029
+;Pegawai 1478;Certified State Finance Auditor;16/05/2022;31/12/2029
+;Pegawai 928;Certified Ethical Hacker;08/03/2018;31/12/2029
+;Pegawai 1577;Cellebrite Certified Physical Analyst;08/09/2019;31/12/2029
+;Pegawai 313;Certified Sustainability Reporting Specialist;06/09/2018;31/12/2029
+;Pegawai 1169;Certificate in International Public Sector Accounting Standards;29/03/2022;31/12/2029
+;Pegawai 435;Certificate in International Public Sector Accounting Standards;12/04/2021;31/12/2029
+;Pegawai 1673;Certified Professional Management Accountant;03/06/2022;31/12/2029
+;Pegawai 1675;Chartered Accountant;04/02/2021;31/12/2029
+;Pegawai 1594;Certified Legal Auditor;13/05/2018;31/12/2029
+;Pegawai 334;Advanced Diploma in Forensic Accounting - Level 5;06/07/2019;31/12/2029
+;Pegawai 1112;Certificate in International Auditing;07/11/2020;31/12/2029
+;Pegawai 74;Certified Contract Management Specialist;19/08/2019;31/12/2029
+;Pegawai 1294;Certified Government Accounting Associate;29/07/2022;31/12/2029
+;Pegawai 1330;Certified Risk Management Officer;23/08/2020;31/12/2029
+;Pegawai 1917;Certificate in International Auditing;08/06/2019;31/12/2029
+;Pegawai 150;Certified Financial Planner;14/06/2020;31/12/2029
+;Pegawai 1724;Qualified Government Internal Auditor;01/10/2021;31/12/2029
+;Pegawai 1736;Corporate Forensic Auditor;31/01/2021;31/12/2029
+;Pegawai 1080;Certificate in International Public Sector Accounting Standards;12/10/2018;31/12/2029
+;Pegawai 29;Certified Procurement Specialist;01/06/2018;31/12/2029
+;Pegawai 1170;Certified Risk Management Professional;27/11/2019;31/12/2029
+;Pegawai 924;Certificate in International Auditing;08/09/2018;31/12/2029
+;Pegawai 826;Certified Contract Management Specialist;12/01/2018;31/12/2029
+;Pegawai 1236;Certification in Control Self-Assessment;23/03/2019;31/12/2029
+;Pegawai 331;Certified Contract Management Specialist;31/05/2022;31/12/2029
+;Pegawai 1973;Certified Secure Computer User;21/01/2019;31/12/2029
+;Pegawai 572;Certified Information System Auditors;14/12/2019;31/12/2029
+;Pegawai 600;Certified Grafologie Analyst;09/05/2022;31/12/2029
+;Pegawai 789;Qualified Risk Management Professional;25/12/2021;31/12/2029
+;Pegawai 1842;Certificate in International Public Sector Accounting Standards;26/02/2019;31/12/2029
+;Pegawai 978;Certificate in International Auditing;26/06/2019;31/12/2029
+;Pegawai 161;Certification in Risk Management Assurance;23/07/2021;31/12/2029
+;Pegawai 1025;Ahli Akuntansi Pemerintahan B;15/01/2022;31/12/2029
+;Pegawai 331;Certified Risk Professional;26/12/2020;31/12/2029
+;Pegawai 1828;Certificate in International Public Sector Accounting Standards;01/02/2019;31/12/2029
+;Pegawai 324;AccessData Certified Examiner;22/12/2018;31/12/2029
+;Pegawai 154;Certificate in International Auditing;08/05/2022;31/12/2029
+;Pegawai 37;Teknisi Akuntansi;27/05/2020;31/12/2029
+;Pegawai 1609;Certified Management Accountants;07/06/2021;31/12/2029
+;Pegawai 1720;Certified Management Accountants;15/02/2021;31/12/2029
+;Pegawai 1468;Ahli Akuntansi Pemerintahan A;28/12/2020;31/12/2029
+;Pegawai 324;Certified IPSAS Specialist;24/05/2022;31/12/2029
+;Pegawai 675;Certified Professional Coach;20/04/2018;31/12/2029
+;Pegawai 378;Certified Professional Talent Management;03/12/2019;31/12/2029
+;Pegawai 95;Qualified Risk Management Professional;05/09/2019;31/12/2029
+;Pegawai 1975;Ahli Akuntansi Pemerintahan A;26/06/2019;31/12/2029
+;Pegawai 554;AccessData Certified Examiner;22/06/2021;31/12/2029
+;Pegawai 1087;Certified Fraud Examiner;23/11/2021;31/12/2029
+;Pegawai 206;Certification in Control Self-Assessment;23/03/2019;31/12/2029
+;Pegawai 1981;Governance Risk Management and Compliance Professional;29/05/2019;31/12/2029
+;Pegawai 239;Insinyur Professional Madya;25/03/2019;31/12/2029
+;Pegawai 1429;Certified Risk Management Officer;23/01/2022;31/12/2029
+;Pegawai 1652;Certified Professional Coach;13/06/2021;31/12/2029
+;Pegawai 1102;Certified Sustainability Reporting Specialist;30/08/2018;31/12/2029
+;Pegawai 832;Certificate in International Auditing;24/11/2019;31/12/2029
+;Pegawai 199;Certified Government Accounting Associate;19/02/2019;31/12/2029
+;Pegawai 990;Enterprise Risk Management Associate Professional;13/08/2019;31/12/2029
+;Pegawai 818;Certified Internal Audit Officer;15/01/2021;31/12/2029
+;Pegawai 943;Cyber Security Foundation Professional;31/01/2019;31/12/2029
+;Pegawai 674;Certified Government Accounting Associate;16/11/2020;31/12/2029
+;Pegawai 1588;Certified Human Resources Professional;27/02/2019;31/12/2029
+;Pegawai 1332;Certified Data Centre Professional;06/07/2021;31/12/2029
+;Pegawai 1374;Certified Public Accountant;20/02/2018;31/12/2029
+;Pegawai 72;Certified Corporate Coach;02/06/2022;31/12/2029
+;Pegawai 1738;Certified Accounting Technician;26/06/2020;31/12/2029
+;Pegawai 1577;Certified Sustainability Reporting Specialist;30/08/2021;31/12/2029
+;Pegawai 1260;Certified Human Resources Analyst;27/02/2021;31/12/2029
+;Pegawai 862;Cellebrite Certified Physical Analyst;24/04/2022;31/12/2029
+;Pegawai 1831;Certified Government Accounting Associate;25/09/2022;31/12/2029
+;Pegawai 1064;Certified Professional Talent Management;10/07/2020;31/12/2029
+;Pegawai 86;Certified Internal Audit Officer;19/02/2018;31/12/2029
+;Pegawai 1499;ASEAN Chartered Professional Accountant;09/07/2021;31/12/2029
+;Pegawai 1144;Asean Engineeer;05/10/2021;31/12/2029
+;Pegawai 1509;Certified Grafologie Analyst;29/07/2021;31/12/2029
+;Pegawai 1230;Teknisi Akuntansi;29/12/2021;31/12/2029
+;Pegawai 1275;Certified Internal Audit Officer;16/11/2022;31/12/2029
+;Pegawai 1157;AccessData Certified Examiner;18/12/2020;31/12/2029
+;Pegawai 190;Certified Professional Coach;19/04/2020;31/12/2029
+;Pegawai 251;Certified Government Chief Audit Executive;15/07/2018;31/12/2029
+;Pegawai 1179;Certified Pernyataan Standar Akuntansi Keuangan;12/05/2019;31/12/2029
+;Pegawai 1644;AccessData Certified Examiner;10/05/2018;31/12/2029
+;Pegawai 683;Certified Human Resources Analyst;05/10/2020;31/12/2029
+;Pegawai 1257;Loop Certified Corporate Coach;03/11/2022;31/12/2029
+;Pegawai 1321;Certified Internal Control Auditor;28/08/2019;31/12/2029
+;Pegawai 528;Certificate in Data Analytics;09/10/2018;31/12/2029
+;Pegawai 977;Advanced Diploma in Forensic Accounting - Level 5;09/11/2021;31/12/2029
+;Pegawai 254;Certified Professional Management Accountant;20/03/2022;31/12/2029
+;Pegawai 854;Governance  Risk Management and Compliance Audit;20/04/2020;31/12/2029
+;Pegawai 1758;Certified Human Resources Specialist;30/06/2018;31/12/2029
+;Pegawai 167;Loop Certified Corporate Coach;28/02/2018;31/12/2029
+;Pegawai 123;Certified Risk Professional;20/11/2022;31/12/2029
+;Pegawai 1425;EnCase Certified Examiner;02/06/2020;31/12/2029
+;Pegawai 1710;Certified Management Accountants;13/07/2018;31/12/2029
+;Pegawai 1614;Certified Sustainability Practitioner;16/08/2022;31/12/2029
+;Pegawai 1286;AccessData Certified Examiner;15/10/2018;31/12/2029
+;Pegawai 146;Certified Contract Management Specialist;07/09/2019;31/12/2029
+;Pegawai 884;Certification in Risk Management Assurance;02/11/2018;31/12/2029
+;Pegawai 991;Certified RIsk Associate;16/01/2020;31/12/2029
+;Pegawai 911;Cisco Certified Network Associate;18/01/2018;31/12/2029
+;Pegawai 606;Certificate in International Public Sector Accounting Standards;22/04/2018;31/12/2029
+;Pegawai 799;Qualified Risk Management Professional;23/04/2022;31/12/2029
+;Pegawai 1200;Certified Information System Auditors;29/11/2021;31/12/2029
+;Pegawai 1764;Certified Data Centre Professional;06/07/2018;31/12/2029
+;Pegawai 563;Certified Pernyataan Standar Akuntansi Keuangan;17/09/2018;31/12/2029
+;Pegawai 1643;Certified Professional Coach;13/12/2020;31/12/2029
+;Pegawai 1143;Cellebrite Certified Officer;24/05/2020;31/12/2029
+;Pegawai 1490;Certified Sustainability Practitioner;11/05/2022;31/12/2029
+;Pegawai 973;Certified Professional Coach;05/10/2022;31/12/2029
+;Pegawai 1333;Asean Engineeer;02/05/2018;31/12/2029
+;Pegawai 62;Ahli Akuntansi Pemerintahan;23/04/2018;31/12/2029
+;Pegawai 986;Governance  Risk Management and Compliance Audit;05/09/2022;31/12/2029
+;Pegawai 1267;Enterprise Risk Management Certified Professional;21/05/2018;31/12/2029
+;Pegawai 1777;Corporate Forensic Auditor;12/02/2018;31/12/2029
+;Pegawai 1688;Certified Legal Auditor;21/04/2019;31/12/2029
+;Pegawai 1777;Certification in Control Self-Assessment;31/03/2018;31/12/2029
+;Pegawai 181;Certified Financial Planner;03/04/2022;31/12/2029
+;Pegawai 1909;Cellebrite Certified Officer;27/01/2020;31/12/2029
+;Pegawai 829;Certified Sustainability Practitioner;06/12/2021;31/12/2029
+;Pegawai 606;Certified Legal Auditor;03/05/2018;31/12/2029
+;Pegawai 72;Enterprise Risk Management Associate Professional;26/12/2022;31/12/2029
+;Pegawai 683;Associate Certified Public Accountant;29/10/2022;31/12/2029
+;Pegawai 498;Asean Engineeer;28/01/2019;31/12/2029
+;Pegawai 1687;Certified Risk Management Officer;23/03/2021;31/12/2029
+;Pegawai 636;Certified Risk Professional;11/10/2019;31/12/2029
+;Pegawai 1692;Enterprise Risk Management Certified Professional;26/10/2020;31/12/2029
+;Pegawai 295;EnCase Certified Examiner;18/06/2022;31/12/2029
+;Pegawai 1728;Certified Risk Management Professional;11/02/2018;31/12/2029
+;Pegawai 1502;Certified Contract Management Specialist;03/09/2019;31/12/2029
+;Pegawai 21;Cellebrite Certified Physical Analyst;05/02/2021;31/12/2029
+;Pegawai 1490;Certified Government Accounting Associate;25/06/2022;31/12/2029
+;Pegawai 276;Certified Government Chief Audit Executive;02/01/2020;31/12/2029
+;Pegawai 122;Governance  Risk Management and Compliance Audit;30/10/2018;31/12/2029
+;Pegawai 498;Certificate in International Auditing;24/02/2021;31/12/2029
+;Pegawai 106;Oxygen Forensic Certified;09/10/2019;31/12/2029
+;Pegawai 1977;Certified Data Centre Professional;21/02/2018;31/12/2029
+;Pegawai 1019;Certified Grafologie Analyst;18/04/2018;31/12/2029
+;Pegawai 909;Insinyur Professional Madya;27/07/2018;31/12/2029
+;Pegawai 493;Certification in Risk Management Assurance;27/02/2020;31/12/2029
+;Pegawai 1174;Cellebrite Certified Physical Analyst;03/01/2019;31/12/2029
+;Pegawai 1530;Cellebrite Certified Operator;07/10/2020;31/12/2029
+;Pegawai 810;Chartered Accountant;16/03/2020;31/12/2029
+;Pegawai 1782;Qualified Risk Management Professional;26/04/2022;31/12/2029
+;Pegawai 741;Enterprise Risk Management Certified Professional;23/11/2022;31/12/2029
+;Pegawai 1506;Certified Human Resources Management Professional;22/06/2022;31/12/2029
+;Pegawai 752;Certified Human Resources Specialist;27/01/2018;31/12/2029
+;Pegawai 228;Certified Sustainability Reporting Specialist;26/05/2022;31/12/2029
+;Pegawai 1458;Cellebrite Certified Operator;30/09/2018;31/12/2029
+;Pegawai 131;Certificate in International Auditing;13/09/2021;31/12/2029
+;Pegawai 1326;Cellebrite Certified Officer;12/12/2021;31/12/2029
+;Pegawai 68;Certified Corporate Coach;01/11/2021;31/12/2029
+;Pegawai 806;Certified Public Accountant;13/04/2020;31/12/2029
+;Pegawai 71;Teknisi Akuntansi;03/06/2021;31/12/2029
+;Pegawai 222;Insinyur Professional Madya;21/11/2019;31/12/2029
+;Pegawai 524;Certified Information System Auditors;28/11/2021;31/12/2029
+;Pegawai 1270;Certified Grafologie Analyst;08/03/2019;31/12/2029
+;Pegawai 441;Akuntan;27/07/2018;31/12/2029
+;Pegawai 700;Certified Internal Audit Officer;03/04/2018;31/12/2029
+;Pegawai 702;Certified Procurement Specialist;02/05/2019;31/12/2029
+;Pegawai 817;Corporate Forensic Auditor;26/11/2018;31/12/2029
+;Pegawai 1224;Certified Sustainability Reporting Specialist;12/06/2018;31/12/2029
+;Pegawai 704;Certified Internal Control Auditor;25/07/2022;31/12/2029
+;Pegawai 951;Certified IPSAS Specialist;04/04/2020;31/12/2029
+;Pegawai 189;Certified Sustainability Practitioner;17/07/2019;31/12/2029
+;Pegawai 1933;Qualified Risk Management Professional;18/10/2022;31/12/2029
+;Pegawai 578;Loop Certified Corporate Coach;25/07/2020;31/12/2029
+;Pegawai 247;Certified Internal Auditor;14/11/2018;31/12/2029
+;Pegawai 1843;Certificate in International Auditing;25/09/2019;31/12/2029
+;Pegawai 1041;Sertifikasi Change Management;16/04/2018;31/12/2029
+;Pegawai 557;Certificate in International Auditing;22/07/2020;31/12/2029
+;Pegawai 1997;Certified Forensic Auditor;21/09/2021;31/12/2029
+;Pegawai 131;Governance  Risk Management and Compliance Audit;13/08/2021;31/12/2029
+;Pegawai 933;Insinyur Professional Madya;29/01/2022;31/12/2029
+;Pegawai 196;Qualified Risk Management Professional;01/11/2022;31/12/2029
+;Pegawai 1358;Certified Accounting Technician;28/07/2021;31/12/2029
+;Pegawai 1810;Cyber Security Foundation Professional;05/10/2020;31/12/2029
+;Pegawai 1253;Certified Financial Planner;06/02/2019;31/12/2029
+;Pegawai 1092;Cerified Sustainability Reporting Assurer;08/02/2021;31/12/2029
+;Pegawai 1538;Certified Secure Computer User;21/02/2021;31/12/2029
+;Pegawai 759;Oxygen Forensic Certified;20/02/2020;31/12/2029
+;Pegawai 1105;Certified Risk Professional;07/11/2021;31/12/2029
+;Pegawai 1513;Certified IPSAS Specialist;18/10/2022;31/12/2029
+;Pegawai 461;Governance Risk Management and Compliance Professional;14/11/2021;31/12/2029
+;Pegawai 449;Enterprise Risk Management Associate Professional;23/10/2022;31/12/2029
+;Pegawai 789;Certified Human Resources Professional;10/03/2022;31/12/2029
+;Pegawai 1244;Certified Legal Auditor;27/07/2021;31/12/2029
+;Pegawai 168;Oxygen Forensic Certified;19/07/2020;31/12/2029
+;Pegawai 1149;Certified Grafologie Analyst;09/03/2018;31/12/2029
+;Pegawai 1552;Certified Professional Talent Management;30/09/2022;31/12/2029
+;Pegawai 1809;Certified Secure Computer User;01/05/2018;31/12/2029
+;Pegawai 1880;Certified Sustainability Practitioner;28/03/2019;31/12/2029
+;Pegawai 105;Qualified Risk Management Professional;25/05/2022;31/12/2029
+;Pegawai 1415;Certified Data Centre Professional;16/07/2021;31/12/2029
+;Pegawai 654;Cyber Security Foundation Professional;18/10/2021;31/12/2029
+;Pegawai 104;Governance  Risk Management and Compliance Audit;07/04/2019;31/12/2029
+;Pegawai 1467;Certified Human Resources Management Professional;20/01/2022;31/12/2029
+;Pegawai 1010;Certified Grafologie Analyst;02/02/2018;31/12/2029
+;Pegawai 1394;Teknisi Akuntansi;01/08/2019;31/12/2029
+;Pegawai 617;EnCase Certified Examiner;06/02/2022;31/12/2029
+;Pegawai 718;Advanced Diploma in Forensic Accounting - Level 5;09/02/2020;31/12/2029
+;Pegawai 1657;Certified Grafologie Analyst;12/07/2019;31/12/2029
+;Pegawai 1679;Certificate in International Auditing;13/03/2021;31/12/2029
+;Pegawai 241;Cyber Security Foundation Professional;13/03/2021;31/12/2029
+;Pegawai 9;Qualified Risk Management Professional;17/01/2019;31/12/2029
+;Pegawai 968;Insinyur Professional Madya;26/02/2020;31/12/2029
+;Pegawai 1105;Ahli Akuntansi Pemerintahan A;28/12/2022;31/12/2029
+;Pegawai 547;Qualified Internal Auditor;04/06/2022;31/12/2029
+;Pegawai 907;Certified Manpower Planner;23/10/2019;31/12/2029
+;Pegawai 659;Certified Information System Auditors;05/09/2018;31/12/2029
+;Pegawai 856;Certified State Finance Auditor;14/07/2018;31/12/2029
+;Pegawai 1166;Cellebrite Certified Operator;18/07/2021;31/12/2029
+;Pegawai 751;Certified Contract Management Specialist;06/01/2019;31/12/2029
+;Pegawai 153;Certified Government Chief Audit Executive;12/06/2022;31/12/2029
+;Pegawai 602;Enterprise Risk Management Associate Professional;23/07/2021;31/12/2029
+;Pegawai 1465;Corporate Forensic Auditor;23/09/2021;31/12/2029
+;Pegawai 122;Oxygen Forensic Certified;11/03/2020;31/12/2029
+;Pegawai 1295;Enterprise Risk Management Associate Professional;12/08/2020;31/12/2029
+;Pegawai 1648;Certified Human Resources Management Professional (CHRMP);25/05/2018;31/12/2029
+;Pegawai 1774;Advanced Diploma in Forensic Accounting - Level 5;10/10/2019;31/12/2029
+;Pegawai 1901;Certified Sustainability Reporting Specialist;06/10/2018;31/12/2029
+;Pegawai 1816;Certified Management Accountants;25/04/2022;31/12/2029
+;Pegawai 1983;Certified Financial Planner;05/05/2019;31/12/2029
+;Pegawai 846;Certified Risk Management Professional;10/07/2022;31/12/2029
+;Pegawai 33;Cyber Security Foundation Professional;05/10/2020;31/12/2029
+;Pegawai 406;Cyber Security Foundation Professional;25/10/2021;31/12/2029
+;Pegawai 1947;Certified Sustainability Reporting Specialist;03/06/2021;31/12/2029
+;Pegawai 1523;Loop Certified Corporate Coach;15/04/2018;31/12/2029
+;Pegawai 1571;Certified Hacking Forensic Investigator;24/09/2021;31/12/2029
+;Pegawai 221;Certificate in International Public Sector Accounting Standards;25/05/2021;31/12/2029
+;Pegawai 1022;Cellebrite Certified Operator;07/12/2018;31/12/2029
+;Pegawai 1939;Governance  Risk Management and Compliance Audit;05/07/2022;31/12/2029
+;Pegawai 1375;Qualified Internal Auditor;27/03/2020;31/12/2029
+;Pegawai 1875;Certified Internal Control Auditor;22/01/2022;31/12/2029
+;Pegawai 1329;Enterprise Risk Management Certified Professional;27/07/2018;31/12/2029
+;Pegawai 592;Certified Manpower Planner;11/04/2020;31/12/2029
+;Pegawai 531;ASEAN Chartered Professional Accountant;29/05/2020;31/12/2029
+;Pegawai 652;Certified IPSAS Specialist;18/01/2019;31/12/2029
+;Pegawai 1879;Certified Management Accountants;17/03/2018;31/12/2029
+;Pegawai 1341;Ahli Akuntansi Pemerintahan B;27/01/2022;31/12/2029
+;Pegawai 1129;Certified Corporate Coach;02/12/2019;31/12/2029
+;Pegawai 1907;Certified Manpower Planner;15/12/2021;31/12/2029
+;Pegawai 838;Certified Human Resources Professional;14/01/2022;31/12/2029
+;Pegawai 1397;Certified Pernyataan Standar Akuntansi Keuangan;20/07/2019;31/12/2029
+;Pegawai 944;Certified Contract Management Specialist;06/06/2018;31/12/2029
+;Pegawai 1406;Certified State Finance Auditor;25/09/2022;31/12/2029
+;Pegawai 807;Certified Professional Management Accountant;20/12/2022;31/12/2029
+;Pegawai 236;Certified Hacking Forensic Investigator;21/07/2020;31/12/2029
+;Pegawai 1234;Certified Internal Audit Officer;14/05/2020;31/12/2029
+;Pegawai 1995;Certified RIsk Associate;11/05/2021;31/12/2029
+;Pegawai 822;Certified State Finance Auditor;29/07/2022;31/12/2029
+;Pegawai 1117;Associate Certified Public Accountant;24/02/2022;31/12/2029
+;Pegawai 394;Insinyur Professional Madya;11/01/2021;31/12/2029
+;Pegawai 368;Sertifikasi Change Management;15/02/2018;31/12/2029
+;Pegawai 750;Associate Certified Public Accountant;16/05/2022;31/12/2029
+;Pegawai 595;Certified Human Resources Specialist;30/06/2022;31/12/2029
+;Pegawai 366;Certified Corporate Coach;04/01/2021;31/12/2029
+;Pegawai 1320;Ahli Akuntansi Pemerintahan B;05/06/2019;31/12/2029
+;Pegawai 85;Certified Sustainability Practitioner;24/07/2018;31/12/2029
+;Pegawai 780;Certified Sustainability Reporting Specialist;05/01/2022;31/12/2029
+;Pegawai 1431;Governance Risk Management and Compliance Professional;21/06/2018;31/12/2029
+;Pegawai 1603;Certified Information System Auditors;08/02/2022;31/12/2029
+;Pegawai 1498;Sertifikasi Change Management;12/05/2019;31/12/2029
+;Pegawai 488;Ahli Akuntansi Pemerintahan B;02/01/2022;31/12/2029
+;Pegawai 170;Certified Government Auditing Professional;06/10/2019;31/12/2029
+;Pegawai 637;Insinyur;14/07/2020;31/12/2029
+;Pegawai 514;Certified Fraud Examiner;27/02/2019;31/12/2029
+;Pegawai 1027;Certified Government Auditing Professional;04/02/2018;31/12/2029
+;Pegawai 1548;Qualified Risk Management Professional;02/04/2022;31/12/2029
+;Pegawai 242;Certified Fraud Examiner;29/09/2022;31/12/2029
+;Pegawai 1245;Certified Information System Auditors;16/12/2020;31/12/2029
+;Pegawai 1605;Certified Professional Coach;01/11/2019;31/12/2029
+;Pegawai 323;Certified Contract Management Specialist;15/02/2019;31/12/2029
+;Pegawai 347;Asean Engineeer;15/11/2021;31/12/2029
+;Pegawai 1195;Certified Human Resources Analyst;22/02/2018;31/12/2029
+;Pegawai 376;Certified Human Resources Professional;16/11/2020;31/12/2029
+;Pegawai 797;Certified Hacking Forensic Investigator;14/02/2022;31/12/2029
+;Pegawai 1112;Certified Sustainability Reporting Specialist;12/01/2018;31/12/2029
+;Pegawai 110;Certified Grafologie Analyst;21/03/2018;31/12/2029
+;Pegawai 1569;Ahli Akuntansi Pemerintahan B;09/12/2018;31/12/2029
+;Pegawai 925;Cellebrite Certified Physical Analyst;12/03/2018;31/12/2029
+;Pegawai 524;Governance Risk Management and Compliance Professional;17/05/2021;31/12/2029
+;Pegawai 1978;Certified Sustainability Reporting Specialist;25/02/2019;31/12/2029
+;Pegawai 1092;Certified Grafologie Analyst;10/10/2022;31/12/2029
+;Pegawai 1290;Certified Human Resources Specialist;27/09/2018;31/12/2029
+;Pegawai 676;Governance Risk Management and Compliance Professional;09/12/2018;31/12/2029
+;Pegawai 46;Governance  Risk Management and Compliance Audit;05/03/2022;31/12/2029
+;Pegawai 1551;Cerified Sustainability Reporting Assurer;14/01/2022;31/12/2029
+;Pegawai 275;Certified Human Resources Specialist;25/01/2018;31/12/2029
+;Pegawai 752;Certified Professional Management Accountant;29/04/2020;31/12/2029
+;Pegawai 519;Certified Sustainability Practitioner;10/08/2019;31/12/2029
+;Pegawai 721;Qualified Internal Auditor;19/09/2018;31/12/2029
+;Pegawai 1833;Loop Certified Corporate Coach;28/11/2018;31/12/2029
+;Pegawai 1896;Certification in Control Self-Assessment;14/05/2019;31/12/2029
+;Pegawai 226;Certified Risk Management Professional;01/04/2022;31/12/2029
+;Pegawai 76;Certified Pernyataan Standar Akuntansi Keuangan;10/04/2020;31/12/2029
+;Pegawai 620;Certified Human Resources Specialist;03/03/2020;31/12/2029
+;Pegawai 1927;Certified Internal Audit Officer;28/10/2018;31/12/2029
+;Pegawai 452;Asean Engineeer;02/01/2022;31/12/2029
+;Pegawai 1391;Oxygen Forensic Certified;27/02/2021;31/12/2029
+;Pegawai 1461;Certified Data Centre Professional;16/10/2020;31/12/2029
+;Pegawai 262;Certificate in International Auditing;24/09/2020;31/12/2029
+;Pegawai 557;Certified IPSAS Specialist;13/12/2019;31/12/2029
+;Pegawai 71;Certified Risk Professional;29/11/2018;31/12/2029
+;Pegawai 1286;Chartered Accountant;15/12/2021;31/12/2029
+;Pegawai 1950;Certification in Control Self-Assessment;10/11/2020;31/12/2029
+;Pegawai 1000;Certified State Finance Auditor;31/12/2022;31/12/2029
+;Pegawai 252;Certified Contract Management Specialist;29/06/2021;31/12/2029
+;Pegawai 1090;Loop Certified Corporate Coach;02/02/2018;31/12/2029
+;Pegawai 1763;Cisco Certified Network Associate;21/05/2021;31/12/2029
+;Pegawai 1993;Insinyur;10/10/2020;31/12/2029
+;Pegawai 646;Certified Hacking Forensic Investigator;25/01/2020;31/12/2029
+;Pegawai 1205;Certified Management Accountants;20/06/2019;31/12/2029
+;Pegawai 38;Certified Human Resources Management Professional;30/11/2022;31/12/2029
+;Pegawai 369;Certified Human Resources Management Professional (CHRMP);21/03/2019;31/12/2029
+;Pegawai 283;Certified Financial Planner;24/03/2019;31/12/2029
+;Pegawai 608;Certified Forensic Auditor;04/04/2020;31/12/2029
+;Pegawai 26;Certified Government Chief Audit Executive;19/12/2021;31/12/2029
+;Pegawai 1462;Certified Internal Audit Officer;28/06/2019;31/12/2029
+;Pegawai 354;Cellebrite Certified Physical Analyst;01/08/2022;31/12/2029
+;Pegawai 871;Certified Government Accounting Associate;14/12/2021;31/12/2029
+;Pegawai 468;Certified Internal Audit Officer;24/03/2022;31/12/2029
+;Pegawai 1313;Ahli Akuntansi Pemerintahan B;11/11/2022;31/12/2029
+;Pegawai 1708;Certified Professional Talent Management;28/01/2021;31/12/2029
+;Pegawai 1467;Cellebrite Certified Physical Analyst;18/09/2022;31/12/2029
+;Pegawai 1364;EnCase Certified Examiner;30/12/2020;31/12/2029
+;Pegawai 1965;Certificate in International Public Sector Accounting Standards;30/03/2022;31/12/2029
+;Pegawai 333;Certified Government Auditing Professional;21/11/2020;31/12/2029
+;Pegawai 1365;Certificate in International Public Sector Accounting Standards;16/10/2018;31/12/2029
+;Pegawai 774;Chartered Accountant;13/10/2022;31/12/2029
+;Pegawai 1460;Governance  Risk Management and Compliance Audit;19/02/2020;31/12/2029
+;Pegawai 1666;Insinyur;04/02/2021;31/12/2029
+;Pegawai 1509;Certified Forensic Auditor;19/07/2018;31/12/2029
+;Pegawai 1515;Certified Government Chief Audit Executive;19/11/2021;31/12/2029
+;Pegawai 1473;Insinyur Professional Madya;15/01/2020;31/12/2029
+;Pegawai 1614;Certified Public Accountant;15/10/2019;31/12/2029
+;Pegawai 1959;Cisco Certified Network Associate;09/05/2019;31/12/2029
+;Pegawai 1308;Certificate in Data Analytics;19/08/2020;31/12/2029
+;Pegawai 736;Certified Human Resources Professional;23/07/2021;31/12/2029
+;Pegawai 1352;Certified Sustainability Practitioner;28/10/2020;31/12/2029
+;Pegawai 396;Certified Fraud Examiner;25/03/2020;31/12/2029
+;Pegawai 832;Certified Data Centre Professional;25/04/2018;31/12/2029
+;Pegawai 5;Certified Human Resources Management Professional;25/06/2021;31/12/2029
+;Pegawai 1456;Cisco Certified Network Associate;26/05/2020;31/12/2029
+;Pegawai 884;Certified Professional Management Accountant;29/06/2020;31/12/2029
+;Pegawai 793;Governance Risk Management and Compliance Professional;10/11/2018;31/12/2029
+;Pegawai 1147;Certified Sustainability Reporting Specialist;20/11/2021;31/12/2029
+;Pegawai 569;AccessData Certified Examiner;25/04/2020;31/12/2029
+;Pegawai 1078;Certified Risk Management Professional;29/06/2019;31/12/2029
+;Pegawai 1481;Certified Government Chief Audit Executive;15/07/2022;31/12/2029
+;Pegawai 1306;Certified Human Resources Management Professional (CHRMP);07/05/2021;31/12/2029
+;Pegawai 999;Certified Pernyataan Standar Akuntansi Keuangan;10/01/2018;31/12/2029
+;Pegawai 716;Certified Government Auditing Professional;03/01/2020;31/12/2029
+;Pegawai 878;Cellebrite Certified Officer;30/06/2019;31/12/2029
+;Pegawai 1994;Certified Grafologie Analyst;04/01/2018;31/12/2029
+;Pegawai 561;Certified Grafologie Analyst;13/12/2019;31/12/2029
+;Pegawai 1937;Certified Professional Management Accountant;06/04/2019;31/12/2029
+;Pegawai 777;Certified Professional Talent Management;18/12/2020;31/12/2029
+;Pegawai 126;Certified Sustainability Reporting Specialist;04/11/2021;31/12/2029
+;Pegawai 1480;Oxygen Forensic Certified;19/10/2020;31/12/2029
+;Pegawai 755;Chartered Accountant;01/10/2021;31/12/2029
+;Pegawai 1627;Cellebrite Certified Physical Analyst;22/08/2022;31/12/2029
+;Pegawai 1645;Certified Internal Control Auditor;30/12/2022;31/12/2029
+;Pegawai 1590;Certified Sustainability Reporting Specialist;26/07/2018;31/12/2029
+;Pegawai 20;Governance  Risk Management and Compliance Audit;15/01/2018;31/12/2029
+;Pegawai 354;Certified Professional Management Accountant;10/04/2021;31/12/2029
+;Pegawai 1508;Cellebrite Certified Operator;15/11/2020;31/12/2029
+;Pegawai 572;Enterprise Risk Management Certified Professional;26/03/2021;31/12/2029
+;Pegawai 482;Certified Legal Auditor;15/12/2021;31/12/2029
+;Pegawai 1241;Loop Certified Corporate Coach;07/10/2022;31/12/2029
+;Pegawai 767;Governance Risk Management and Compliance Professional;04/11/2022;31/12/2029
+;Pegawai 1942;Certified Grafologie Analyst;28/06/2018;31/12/2029
+;Pegawai 1883;Corporate Forensic Auditor;21/03/2020;31/12/2029
+;Pegawai 1253;Cellebrite Certified Physical Analyst;08/01/2018;31/12/2029
+;Pegawai 852;Associate Certified Public Accountant;19/09/2022;31/12/2029
+;Pegawai 1374;ASEAN Chartered Professional Accountant;19/07/2020;31/12/2029
+;Pegawai 1954;Certified Information System Auditors;25/04/2020;31/12/2029
+;Pegawai 1501;Certified Risk Management Professional;28/01/2019;31/12/2029
+;Pegawai 631;Certified Data Centre Professional;06/09/2018;31/12/2029
+;Pegawai 1553;Certified Secure Computer User;27/08/2020;31/12/2029
+;Pegawai 232;Insinyur;27/07/2022;31/12/2029
+;Pegawai 942;Enterprise Risk Management Associate Professional;25/05/2021;31/12/2029
+;Pegawai 593;Qualified Risk Management Officer;30/05/2018;31/12/2029
+;Pegawai 1587;Certified Human Resources Analyst;17/12/2020;31/12/2029
+;Pegawai 1043;Certified Government Auditing Professional;29/09/2018;31/12/2029
+;Pegawai 307;Certificate in International Public Sector Accounting Standards;25/04/2019;31/12/2029
+;Pegawai 1339;Insinyur Professional Madya;01/04/2020;31/12/2029
+;Pegawai 199;Certified Secure Computer User;01/03/2021;31/12/2029
+;Pegawai 865;Certification in Risk Management Assurance;10/02/2018;31/12/2029
+;Pegawai 1412;Qualified Internal Auditor;29/06/2018;31/12/2029
+;Pegawai 208;Certified Internal Auditor;08/02/2022;31/12/2029
+;Pegawai 795;Certified Fraud Examiner;29/04/2022;31/12/2029
+;Pegawai 938;Certificate in International Auditing;19/09/2022;31/12/2029
+;Pegawai 874;Certified Ethical Hacker;28/08/2020;31/12/2029
+;Pegawai 675;Cyber Security Foundation Professional;22/01/2020;31/12/2029
+;Pegawai 903;Certified Sustainability Reporting Specialist;25/07/2020;31/12/2029
+;Pegawai 1365;Certified Internal Audit Officer;29/06/2019;31/12/2029
+;Pegawai 1337;Certified Professional Talent Management;21/01/2019;31/12/2029
+;Pegawai 797;Cellebrite Certified Physical Analyst;19/07/2018;31/12/2029
+;Pegawai 1837;Teknisi Akuntansi;20/07/2020;31/12/2029
+;Pegawai 841;Certified Procurement Specialist;06/02/2020;31/12/2029
+;Pegawai 259;Certified Contract Management Specialist;06/05/2019;31/12/2029
+;Pegawai 1410;Certificate in International Auditing;17/12/2019;31/12/2029
+;Pegawai 633;Sertifikasi Change Management;07/12/2018;31/12/2029
+;Pegawai 1193;Certified Professional Coach;09/02/2018;31/12/2029
+;Pegawai 1522;ASEAN Chartered Professional Accountant;17/09/2021;31/12/2029
+;Pegawai 1734;Qualified Risk Management Officer;23/10/2019;31/12/2029
+;Pegawai 1641;Akuntan;14/04/2018;31/12/2029
+;Pegawai 81;Certified Data Centre Professional;26/03/2021;31/12/2029
+;Pegawai 908;Enterprise Risk Management Certified Professional;03/01/2020;31/12/2029
+;Pegawai 542;AccessData Certified Examiner;09/02/2018;31/12/2029
+;Pegawai 712;Certified Professional Coach;24/08/2019;31/12/2029
+;Pegawai 972;Certified Professional Management Accountant;13/04/2019;31/12/2029
+;Pegawai 612;Certified Internal Control Auditor;11/02/2022;31/12/2029
+;Pegawai 62;Chartered Accountant;07/06/2022;31/12/2029
+;Pegawai 1294;Certified Sustainability Practitioner;19/05/2020;31/12/2029
+;Pegawai 1575;Certified Information System Auditors;11/07/2018;31/12/2029
+;Pegawai 652;Certified Pernyataan Standar Akuntansi Keuangan;20/09/2018;31/12/2029
+;Pegawai 1073;Certified Manpower Planner;16/10/2020;31/12/2029
+;Pegawai 1332;Insinyur Professional Madya;16/08/2019;31/12/2029
+;Pegawai 1432;Insinyur Professional Madya;24/08/2019;31/12/2029
+;Pegawai 1651;Certified Human Resources Management Professional (CHRMP);16/11/2020;31/12/2029
+;Pegawai 1854;Certified Secure Computer User;03/05/2022;31/12/2029
+;Pegawai 1866;Certified Professional Talent Management;16/07/2022;31/12/2029
+;Pegawai 1081;Certified State Finance Auditor;05/04/2020;31/12/2029
+;Pegawai 1428;Certified Information System Auditors;27/09/2019;31/12/2029
+;Pegawai 416;Certified Professional Management Accountant;20/04/2020;31/12/2029
+;Pegawai 649;Oxygen Forensic Certified;04/05/2019;31/12/2029
+;Pegawai 674;Certified Financial Planner;21/07/2018;31/12/2029
+;Pegawai 55;Certified Risk Management Professional;24/03/2019;31/12/2029
+;Pegawai 733;Certified Fraud Examiner;05/11/2022;31/12/2029
+;Pegawai 250;Certified Financial Planner;28/07/2022;31/12/2029
+;Pegawai 73;Certified Human Resources Analyst;24/01/2021;31/12/2029
+;Pegawai 793;Cellebrite Certified Physical Analyst;25/11/2019;31/12/2029
+;Pegawai 972;Certified Secure Computer User;10/02/2021;31/12/2029
+;Pegawai 34;Certified Professional Talent Management;26/04/2021;31/12/2029
+;Pegawai 198;Advanced Diploma in Forensic Accounting - Level 5;09/02/2018;31/12/2029
+;Pegawai 680;Chartered Accountant;15/10/2018;31/12/2029
+;Pegawai 1245;Certified Management Accountants;21/06/2021;31/12/2029
+;Pegawai 768;Certified Public Accountant;27/03/2021;31/12/2029
+;Pegawai 1674;Certified Corporate Coach;29/01/2020;31/12/2029
+;Pegawai 1524;Certified Human Resources Professional;13/09/2019;31/12/2029
+;Pegawai 1073;Certified Professional Coach;05/01/2018;31/12/2029
+;Pegawai 354;Certified Sustainability Reporting Specialist;14/12/2018;31/12/2029
+;Pegawai 1718;EnCase Certified Examiner;06/10/2021;31/12/2029
+;Pegawai 690;Qualified Risk Management Officer;09/09/2020;31/12/2029
+;Pegawai 1188;Certificate in International Auditing;21/11/2022;31/12/2029
+;Pegawai 38;Asean Engineeer;20/11/2020;31/12/2029
+;Pegawai 1268;Qualified Risk Management Officer;04/10/2022;31/12/2029
+;Pegawai 1863;Certified Human Resources Analyst;09/03/2021;31/12/2029
+;Pegawai 1645;Akuntan;07/01/2021;31/12/2029
+;Pegawai 1007;Certified Pernyataan Standar Akuntansi Keuangan;11/04/2022;31/12/2029
+;Pegawai 970;EnCase Certified Examiner;26/06/2020;31/12/2029
+;Pegawai 264;Certified Information System Auditors;02/12/2020;31/12/2029
+;Pegawai 99;Governance  Risk Management and Compliance Audit;08/05/2021;31/12/2029
+;Pegawai 1060;Cisco Certified Network Associate;30/04/2020;31/12/2029
+;Pegawai 1369;Certified Contract Management Specialist;19/05/2022;31/12/2029
+;Pegawai 1336;Certified Risk Management Officer;01/06/2018;31/12/2029
+;Pegawai 872;Certified Human Resources Management Professional (CHRMP);21/11/2020;31/12/2029
+;Pegawai 140;Certified Risk Management Professional;06/01/2018;31/12/2029
+;Pegawai 1608;Certified Human Resources Specialist;01/07/2021;31/12/2029
+;Pegawai 653;Certified Data Centre Professional;18/12/2020;31/12/2029
+;Pegawai 1272;Qualified Government Internal Auditor;01/03/2022;31/12/2029
+;Pegawai 1412;Certified Contract Management Specialist;02/10/2021;31/12/2029
+;Pegawai 1700;Certified Sustainability Reporting Specialist;06/01/2018;31/12/2029
+;Pegawai 1996;Certified Corporate Coach;25/05/2019;31/12/2029
+;Pegawai 1780;Chartered Accountant;17/05/2019;31/12/2029
+;Pegawai 1504;Cerified Sustainability Reporting Assurer;02/03/2020;31/12/2029
+;Pegawai 1388;Qualified Risk Management Officer;23/11/2020;31/12/2029
+;Pegawai 853;Certified Data Centre Professional;23/11/2018;31/12/2029
+;Pegawai 325;Certified Internal Auditor;27/09/2020;31/12/2029
+;Pegawai 1320;Oxygen Forensic Certified;22/07/2021;31/12/2029
+;Pegawai 303;Qualified Internal Auditor;17/05/2019;31/12/2029
+;Pegawai 1744;Teknisi Akuntansi;23/01/2020;31/12/2029
+;Pegawai 82;Asean Engineeer;01/06/2019;31/12/2029
+;Pegawai 616;ASEAN Chartered Professional Accountant;24/09/2022;31/12/2029
+;Pegawai 1358;Ahli Akuntansi Pemerintahan;04/07/2020;31/12/2029
+;Pegawai 1018;Governance  Risk Management and Compliance Audit;11/02/2020;31/12/2029
+;Pegawai 572;Certificate in International Auditing;18/08/2022;31/12/2029
+;Pegawai 329;Certified Internal Audit Officer;18/08/2020;31/12/2029
+;Pegawai 1079;Certified Human Resources Management Professional (CHRMP);27/11/2020;31/12/2029
+;Pegawai 880;Qualified Risk Management Professional;01/02/2019;31/12/2029
+;Pegawai 580;Akuntan;30/08/2018;31/12/2029
+;Pegawai 1544;Certified Information System Auditors;11/11/2020;31/12/2029
+;Pegawai 1512;Certified Human Resources Management Professional (CHRMP);25/07/2022;31/12/2029
+;Pegawai 1954;Certificate in International Public Sector Accounting Standards;03/05/2020;31/12/2029
+;Pegawai 1953;Teknisi Akuntansi;06/01/2019;31/12/2029
+;Pegawai 1436;Certified Management Accountants;18/04/2019;31/12/2029
+;Pegawai 427;Certified Hacking Forensic Investigator;27/08/2021;31/12/2029
+;Pegawai 1991;Insinyur Professional Madya;19/02/2022;31/12/2029
+;Pegawai 1229;Cellebrite Certified Physical Analyst;02/04/2020;31/12/2029
+;Pegawai 1475;Certified Manpower Planner;18/02/2020;31/12/2029
+;Pegawai 894;Certified Internal Control Auditor;01/12/2021;31/12/2029
+;Pegawai 1732;Enterprise Risk Management Associate Professional;01/06/2018;31/12/2029
+;Pegawai 1230;Certified Human Resources Specialist;04/02/2019;31/12/2029
+;Pegawai 880;Certified Human Resources Management Professional (CHRMP);14/01/2020;31/12/2029
+;Pegawai 985;Certified Internal Auditor;04/07/2020;31/12/2029
+;Pegawai 1379;Certified RIsk Associate;12/10/2021;31/12/2029
+;Pegawai 1503;Certified Human Resources Analyst;20/03/2019;31/12/2029
+;Pegawai 381;Ahli Akuntansi Pemerintahan;17/07/2018;31/12/2029
+;Pegawai 912;Certificate in Data Analytics;29/01/2022;31/12/2029
+;Pegawai 751;Teknisi Akuntansi;27/12/2018;31/12/2029
+;Pegawai 289;Insinyur Professional Madya;22/10/2018;31/12/2029
+;Pegawai 1843;Certified Contract Management Specialist;01/03/2020;31/12/2029
+;Pegawai 361;Enterprise Risk Management Associate Professional;23/05/2022;31/12/2029
+;Pegawai 298;Corporate Forensic Auditor;09/09/2022;31/12/2029
+;Pegawai 440;Certificate in International Auditing;20/01/2019;31/12/2029
+;Pegawai 1001;Certified Internal Audit Officer;08/11/2018;31/12/2029
+;Pegawai 1993;Teknisi Akuntansi;02/04/2019;31/12/2029
+;Pegawai 1531;Certification in Risk Management Assurance;27/02/2022;31/12/2029
+;Pegawai 736;EnCase Certified Examiner;14/01/2021;31/12/2029
+;Pegawai 1161;Certified Public Accountant;08/09/2018;31/12/2029
+;Pegawai 1227;Certified Information System Auditors;03/10/2021;31/12/2029
+;Pegawai 1957;Certified Sustainability Reporting Specialist;28/11/2019;31/12/2029
+;Pegawai 88;Insinyur Professional Madya;30/09/2021;31/12/2029
+;Pegawai 960;Certified Accounting Technician;22/04/2022;31/12/2029
+;Pegawai 385;Certified Human Resources Analyst;14/05/2019;31/12/2029
+;Pegawai 1586;Certified Professional Talent Management;24/08/2021;31/12/2029
+;Pegawai 207;Certified Internal Audit Officer;19/03/2019;31/12/2029
+;Pegawai 1836;Cellebrite Certified Operator;15/09/2021;31/12/2029
+;Pegawai 167;Certification in Control Self-Assessment;10/06/2020;31/12/2029
+;Pegawai 1228;Certified Procurement Specialist;09/02/2021;31/12/2029
+;Pegawai 1044;Certified Human Resources Management Professional;30/11/2022;31/12/2029
+;Pegawai 1687;Certified Risk Professional;14/05/2018;31/12/2029
+;Pegawai 1159;Certified Professional Talent Management;18/02/2018;31/12/2029
+;Pegawai 946;Certified Contract Management Specialist;14/04/2022;31/12/2029
+;Pegawai 548;Certified Procurement Specialist;11/02/2020;31/12/2029
+;Pegawai 683;Certified Sustainability Practitioner;15/11/2020;31/12/2029
+;Pegawai 244;Certified Internal Control Auditor;12/12/2020;31/12/2029
+;Pegawai 1528;Certified RIsk Associate;12/10/2022;31/12/2029
+;Pegawai 65;Cellebrite Certified Physical Analyst;15/11/2020;31/12/2029
+;Pegawai 1266;Certified Corporate Coach;21/11/2019;31/12/2029
+;Pegawai 1185;Advanced Diploma in Forensic Accounting - Level 5;02/07/2020;31/12/2029
+;Pegawai 29;Certified Fraud Examiner;27/09/2018;31/12/2029
+;Pegawai 1219;Certificate in International Auditing;22/12/2020;31/12/2029
+;Pegawai 384;Enterprise Risk Management Associate Professional;01/04/2020;31/12/2029
+;Pegawai 1039;Certified Risk Management Officer;30/07/2022;31/12/2029
+;Pegawai 1331;Oxygen Forensic Certified;24/10/2022;31/12/2029
+;Pegawai 1083;EnCase Certified Examiner;14/12/2022;31/12/2029
+;Pegawai 784;Qualified Internal Auditor;17/10/2018;31/12/2029
+;Pegawai 407;Certified Procurement Specialist;04/06/2020;31/12/2029
+;Pegawai 605;Certified Forensic Auditor;31/08/2020;31/12/2029
+;Pegawai 1943;Certificate in International Public Sector Accounting Standards;11/03/2021;31/12/2029
+;Pegawai 541;Certified Management Accountants;23/07/2020;31/12/2029
+;Pegawai 96;Certified Human Resources Management Professional;11/12/2020;31/12/2029
+;Pegawai 1141;EnCase Certified Examiner;23/05/2022;31/12/2029
+;Pegawai 1134;Sertifikasi Change Management;02/03/2019;31/12/2029
+;Pegawai 1763;Certified Internal Audit Officer;21/05/2021;31/12/2029
+;Pegawai 1394;Certified Sustainability Practitioner;09/02/2020;31/12/2029
+;Pegawai 819;Certified Human Resources Professional;26/11/2022;31/12/2029
+;Pegawai 1208;Certified Risk Management Professional;01/09/2019;31/12/2029
+;Pegawai 1508;Certified Management Accountants;23/07/2022;31/12/2029
+;Pegawai 1541;Certified Professional Management Accountant;16/07/2018;31/12/2029
+;Pegawai 1995;Certificate in International Public Sector Accounting Standards;05/10/2018;31/12/2029
+;Pegawai 1610;Cerified Sustainability Reporting Assurer;05/02/2020;31/12/2029
+;Pegawai 575;Qualified Risk Management Professional;17/02/2018;31/12/2029
+;Pegawai 1081;Certified Procurement Specialist;02/12/2019;31/12/2029
+;Pegawai 1546;Certified Sustainability Reporting Specialist;09/04/2021;31/12/2029
+;Pegawai 1356;Ahli Akuntansi Pemerintahan;19/11/2018;31/12/2029
+;Pegawai 879;Certificate in Data Analytics;04/05/2019;31/12/2029
+;Pegawai 1748;Certified Pernyataan Standar Akuntansi Keuangan;13/07/2021;31/12/2029
+;Pegawai 1682;Ahli Akuntansi Pemerintahan B;11/10/2020;31/12/2029
+;Pegawai 1540;Certified State Finance Auditor;15/06/2018;31/12/2029
+;Pegawai 957;Certified Risk Management Professional;26/04/2019;31/12/2029
+;Pegawai 1319;Certified Human Resources Analyst;30/10/2022;31/12/2029
+;Pegawai 76;Certified Risk Management Officer;21/07/2021;31/12/2029
+;Pegawai 491;Certified Human Resources Management Professional (CHRMP);14/05/2021;31/12/2029
+;Pegawai 1097;Advanced Diploma in Forensic Accounting - Level 5;27/05/2020;31/12/2029
+;Pegawai 610;Certificate in International Public Sector Accounting Standards;14/05/2021;31/12/2029
+;Pegawai 926;Certified Human Resources Management Professional;07/05/2022;31/12/2029
+;Pegawai 262;Certified IPSAS Specialist;06/05/2019;31/12/2029
+;Pegawai 627;Certificate in International Public Sector Accounting Standards;28/09/2021;31/12/2029
+;Pegawai 1820;Qualified Government Internal Auditor;03/02/2022;31/12/2029
+;Pegawai 243;Certified Contract Management Specialist;11/05/2020;31/12/2029
+;Pegawai 685;ASEAN Chartered Professional Accountant;01/10/2021;31/12/2029
+;Pegawai 217;Certificate in International Auditing;06/07/2021;31/12/2029
+;Pegawai 41;Qualified Risk Management Officer;21/10/2019;31/12/2029
+;Pegawai 211;Certified IPSAS Specialist;10/02/2019;31/12/2029
+;Pegawai 524;Qualified Risk Management Professional;14/01/2021;31/12/2029
+;Pegawai 1188;Certified Management Accountants;25/06/2021;31/12/2029
+;Pegawai 1176;Ahli Akuntansi Pemerintahan A;28/05/2022;31/12/2029
+;Pegawai 384;EnCase Certified Examiner;12/04/2019;31/12/2029
+;Pegawai 1919;AccessData Certified Examiner;09/04/2021;31/12/2029
+;Pegawai 1049;Certified Sustainability Reporting Specialist;13/09/2018;31/12/2029
+;Pegawai 1977;Certified Human Resources Professional;24/03/2019;31/12/2029
+;Pegawai 835;Cisco Certified Network Associate;29/06/2021;31/12/2029
+;Pegawai 724;Certified Risk Management Officer;07/01/2020;31/12/2029
+;Pegawai 827;Certified Risk Professional;28/04/2022;31/12/2029
+;Pegawai 1590;Certified Human Resources Management Professional (CHRMP);19/01/2020;31/12/2029
+;Pegawai 532;Oxygen Forensic Certified;30/07/2018;31/12/2029
+;Pegawai 1042;Certified Internal Auditor;30/04/2020;31/12/2029
+;Pegawai 818;Cellebrite Certified Physical Analyst;15/01/2021;31/12/2029
+;Pegawai 958;Certified RIsk Associate;13/06/2019;31/12/2029
+;Pegawai 804;Certified Human Resources Management Professional (CHRMP);08/12/2019;31/12/2029
+;Pegawai 593;Certified Secure Computer User;14/06/2021;31/12/2029
+;Pegawai 886;EnCase Certified Examiner;24/05/2019;31/12/2029
+;Pegawai 1328;Certified Professional Management Accountant;18/12/2019;31/12/2029
+;Pegawai 1192;Certified Secure Computer User;18/10/2021;31/12/2029
+;Pegawai 1337;Certified Manpower Planner;29/07/2018;31/12/2029
+;Pegawai 1799;Insinyur;13/08/2022;31/12/2029
+;Pegawai 1071;Qualified Risk Management Professional;08/05/2018;31/12/2029
+;Pegawai 1821;Certified Information System Auditors;15/07/2020;31/12/2029
+;Pegawai 1991;Certified Human Resources Professional;19/03/2018;31/12/2029
+;Pegawai 165;Oxygen Forensic Certified;15/02/2021;31/12/2029
+;Pegawai 456;Certified Procurement Specialist;18/01/2018;31/12/2029
+;Pegawai 1085;Certificate in International Public Sector Accounting Standards;18/12/2020;31/12/2029
+;Pegawai 1714;Cellebrite Certified Operator;29/07/2018;31/12/2029
+;Pegawai 812;Certified Ethical Hacker;29/08/2018;31/12/2029
+;Pegawai 1758;Chartered Accountant;28/07/2022;31/12/2029
+;Pegawai 58;Certified Data Centre Professional;29/04/2018;31/12/2029
+;Pegawai 1265;Ahli Akuntansi Pemerintahan B;10/06/2022;31/12/2029
+;Pegawai 1798;Ahli Akuntansi Pemerintahan;06/09/2021;31/12/2029
+;Pegawai 1182;Certified Public Accountant;11/01/2022;31/12/2029
+;Pegawai 1067;Certified Government Auditing Professional;12/10/2021;31/12/2029
+;Pegawai 714;Certified Hacking Forensic Investigator;20/09/2019;31/12/2029
+;Pegawai 859;Certified Internal Control Auditor;27/05/2022;31/12/2029
+;Pegawai 1993;Certified Corporate Coach;25/07/2022;31/12/2029
+;Pegawai 181;Asean Engineeer;10/02/2021;31/12/2029
+;Pegawai 752;Ahli Akuntansi Pemerintahan A;03/07/2022;31/12/2029
+;Pegawai 1938;Qualified Internal Auditor;26/02/2018;31/12/2029
+;Pegawai 553;Oxygen Forensic Certified;09/06/2020;31/12/2029
+;Pegawai 1112;Certified Human Resources Professional;19/07/2018;31/12/2029
+;Pegawai 1951;Akuntan;28/09/2021;31/12/2029
+;Pegawai 1213;Certified Sustainability Reporting Specialist;22/03/2022;31/12/2029
+;Pegawai 1053;Enterprise Risk Management Certified Professional;06/03/2019;31/12/2029
+;Pegawai 1718;Certified Information System Auditors;13/07/2022;31/12/2029
+;Pegawai 307;Corporate Forensic Auditor;18/09/2018;31/12/2029
+;Pegawai 1903;Certificate in International Auditing;03/02/2022;31/12/2029
+;Pegawai 944;Certificate in International Public Sector Accounting Standards;06/03/2022;31/12/2029
+;Pegawai 1510;Certified Procurement Specialist;22/08/2018;31/12/2029
+;Pegawai 1712;Certified Sustainability Practitioner;15/05/2022;31/12/2029
+;Pegawai 490;Oxygen Forensic Certified;08/10/2019;31/12/2029
+;Pegawai 1164;Certified Human Resources Management Professional (CHRMP);05/04/2022;31/12/2029
+;Pegawai 1226;AccessData Certified Examiner;14/07/2018;31/12/2029
+;Pegawai 820;Teknisi Akuntansi;05/02/2019;31/12/2029
+;Pegawai 1521;Certified State Finance Auditor;14/09/2018;31/12/2029
+;Pegawai 588;Certified Manpower Planner;09/10/2022;31/12/2029
+;Pegawai 463;Certified Professional Management Accountant;15/11/2021;31/12/2029
+;Pegawai 952;Certified Professional Coach;23/11/2018;31/12/2029
+;Pegawai 1111;Certified Human Resources Management Professional (CHRMP);14/08/2018;31/12/2029
+;Pegawai 400;Certified Professional Management Accountant;08/12/2019;31/12/2029
+;Pegawai 1184;Certified Risk Management Professional;04/11/2019;31/12/2029
+;Pegawai 728;Cellebrite Certified Operator;19/01/2019;31/12/2029
+;Pegawai 707;Certification in Risk Management Assurance;01/01/2018;31/12/2029
+;Pegawai 1731;Certified Legal Auditor;16/05/2019;31/12/2029
+;Pegawai 892;Certificate in International Auditing;20/12/2022;31/12/2029
+;Pegawai 1077;Cerified Sustainability Reporting Assurer;04/11/2020;31/12/2029
+;Pegawai 1336;Certified Professional Talent Management;02/08/2020;31/12/2029
+;Pegawai 1482;Certified Ethical Hacker;12/02/2019;31/12/2029
+;Pegawai 1400;Certified Hacking Forensic Investigator;12/10/2019;31/12/2029
+;Pegawai 24;Cisco Certified Network Associate;20/05/2021;31/12/2029
+;Pegawai 499;Certified Professional Management Accountant;21/08/2019;31/12/2029
+;Pegawai 1835;ASEAN Chartered Professional Accountant;11/02/2018;31/12/2029
+;Pegawai 1862;Certified Human Resources Professional;16/07/2018;31/12/2029
+;Pegawai 1404;Ahli Akuntansi Pemerintahan A;10/12/2020;31/12/2029
+;Pegawai 1336;Certified Procurement Specialist;02/05/2022;31/12/2029
+;Pegawai 541;Certified Grafologie Analyst;06/09/2021;31/12/2029
+;Pegawai 1654;Akuntan;21/12/2018;31/12/2029
+;Pegawai 1004;Enterprise Risk Management Certified Professional;24/01/2022;31/12/2029
+;Pegawai 312;Qualified Internal Auditor;31/12/2020;31/12/2029
+;Pegawai 1738;Cellebrite Certified Physical Analyst;02/04/2019;31/12/2029
+;Pegawai 356;Certification in Risk Management Assurance;11/03/2022;31/12/2029
+;Pegawai 1581;Certificate in International Auditing;02/01/2022;31/12/2029
+;Pegawai 790;Sertifikasi Change Management;17/02/2019;31/12/2029
+;Pegawai 1967;Ahli Akuntansi Pemerintahan A;19/04/2022;31/12/2029
+;Pegawai 806;Certified IPSAS Specialist;31/01/2019;31/12/2029
+;Pegawai 991;Certified Public Accountant;03/02/2019;31/12/2029
+;Pegawai 1710;Certified Sustainability Practitioner;05/11/2021;31/12/2029
+;Pegawai 1095;Certified Professional Management Accountant;17/05/2020;31/12/2029
+;Pegawai 881;Certified Procurement Specialist;30/09/2022;31/12/2029
+;Pegawai 1501;Certified Sustainability Reporting Specialist;14/03/2021;31/12/2029
+;Pegawai 1916;Ahli Akuntansi Pemerintahan;10/06/2020;31/12/2029
+;Pegawai 1840;Certified Data Centre Professional;17/01/2018;31/12/2029
+;Pegawai 115;Certified Public Accountant;15/10/2019;31/12/2029
+;Pegawai 310;Associate Certified Public Accountant;13/06/2018;31/12/2029
+;Pegawai 642;Certified Financial Planner;12/05/2020;31/12/2029
+;Pegawai 703;Certified Professional Management Accountant;19/01/2021;31/12/2029
+;Pegawai 1637;Certified Human Resources Analyst;27/10/2021;31/12/2029
+;Pegawai 1996;Certified Pernyataan Standar Akuntansi Keuangan;16/08/2018;31/12/2029
+;Pegawai 1915;Loop Certified Corporate Coach;24/10/2022;31/12/2029
+;Pegawai 266;Certified Public Accountant;01/10/2018;31/12/2029
+;Pegawai 253;Certified Ethical Hacker;23/10/2018;31/12/2029
+;Pegawai 817;Cisco Certified Network Associate;26/01/2018;31/12/2029
+;Pegawai 831;Certified Secure Computer User;22/12/2021;31/12/2029
+;Pegawai 539;Sertifikasi Change Management;04/09/2019;31/12/2029
+;Pegawai 1413;Cellebrite Certified Operator;17/09/2018;31/12/2029
+;Pegawai 1574;Cellebrite Certified Officer;02/08/2021;31/12/2029
+;Pegawai 294;Certified State Finance Auditor;01/01/2019;31/12/2029
+;Pegawai 1703;Certified Accounting Technician;19/11/2022;31/12/2029
+;Pegawai 700;Certified Sustainability Reporting Specialist;20/01/2022;31/12/2029
+;Pegawai 489;Asean Engineeer;26/06/2021;31/12/2029
+;Pegawai 288;Certification in Risk Management Assurance;12/01/2022;31/12/2029
+;Pegawai 1186;Cisco Certified Network Associate;24/04/2021;31/12/2029
+;Pegawai 567;Certified Professional Coach;12/04/2019;31/12/2029
+;Pegawai 789;Governance  Risk Management and Compliance Audit;28/11/2019;31/12/2029
+;Pegawai 1915;Ahli Akuntansi Pemerintahan A;30/04/2019;31/12/2029
+;Pegawai 1259;Cellebrite Certified Operator;16/06/2020;31/12/2029
+;Pegawai 831;Certified Financial Planner;06/03/2020;31/12/2029
+;Pegawai 1544;Cerified Sustainability Reporting Assurer;24/07/2019;31/12/2029
+;Pegawai 1721;Certified Data Centre Professional;30/05/2019;31/12/2029
+;Pegawai 1327;Certified Government Accounting Associate;10/05/2020;31/12/2029
+;Pegawai 1864;Certified IPSAS Specialist;07/03/2022;31/12/2029
+;Pegawai 1903;Certified Management Accountants;18/10/2022;31/12/2029
+;Pegawai 66;Akuntan;18/04/2018;31/12/2029
+;Pegawai 1604;Certification in Control Self-Assessment;01/11/2019;31/12/2029
+;Pegawai 1793;EnCase Certified Examiner;14/01/2020;31/12/2029
+;Pegawai 550;Certified Financial Planner;27/02/2018;31/12/2029
+;Pegawai 670;Cellebrite Certified Physical Analyst;22/01/2022;31/12/2029
+;Pegawai 572;Certified Professional Coach;28/07/2021;31/12/2029
+;Pegawai 267;Qualified Risk Management Officer;12/08/2019;31/12/2029
+;Pegawai 672;Akuntan;13/10/2022;31/12/2029
+;Pegawai 1287;Certified Government Auditing Professional;28/04/2019;31/12/2029
+;Pegawai 654;Certified Government Auditing Professional;28/10/2020;31/12/2029
+;Pegawai 864;Certified Internal Control Auditor;03/03/2022;31/12/2029
+;Pegawai 402;Associate Certified Public Accountant;25/06/2018;31/12/2029
+;Pegawai 936;Certified Secure Computer User;28/11/2019;31/12/2029
+;Pegawai 1835;Chartered Accountant;06/02/2018;31/12/2029
+;Pegawai 719;Certified Risk Management Professional;06/05/2022;31/12/2029
+;Pegawai 1261;Certified Sustainability Reporting Specialist;25/06/2018;31/12/2029
+;Pegawai 1861;Certification in Risk Management Assurance;04/12/2019;31/12/2029
+;Pegawai 157;Asean Engineeer;19/04/2020;31/12/2029
+;Pegawai 1022;Certified Human Resources Management Professional (CHRMP);06/12/2018;31/12/2029
+;Pegawai 327;Certified Sustainability Reporting Specialist;02/08/2021;31/12/2029
+;Pegawai 448;Certified RIsk Associate;28/08/2020;31/12/2029
+;Pegawai 1456;Certification in Risk Management Assurance;24/03/2021;31/12/2029
+;Pegawai 1528;Sertifikasi Change Management;21/08/2020;31/12/2029
+;Pegawai 813;Certified Contract Management Specialist;01/02/2022;31/12/2029
+;Pegawai 8;Enterprise Risk Management Certified Professional;17/02/2022;31/12/2029
+;Pegawai 692;Corporate Forensic Auditor;13/02/2019;31/12/2029
+;Pegawai 689;Certified Hacking Forensic Investigator;19/11/2020;31/12/2029
+;Pegawai 1978;Certified Risk Management Officer;08/09/2018;31/12/2029
+;Pegawai 416;Certified IPSAS Specialist;18/05/2021;31/12/2029
+;Pegawai 1808;Certificate in International Public Sector Accounting Standards;11/12/2022;31/12/2029
+;Pegawai 463;Enterprise Risk Management Certified Professional;09/04/2020;31/12/2029
+;Pegawai 1372;Qualified Risk Management Officer;27/08/2021;31/12/2029
+;Pegawai 547;Certified Human Resources Management Professional;22/10/2020;31/12/2029
+;Pegawai 436;Ahli Akuntansi Pemerintahan;21/02/2020;31/12/2029
+;Pegawai 1968;Oxygen Forensic Certified;09/08/2021;31/12/2029
+;Pegawai 1089;Certified Human Resources Specialist;02/11/2018;31/12/2029
+;Pegawai 1714;Certified Management Accountants;13/12/2019;31/12/2029
+;Pegawai 1712;Qualified Risk Management Officer;19/10/2022;31/12/2029
+;Pegawai 334;Loop Certified Corporate Coach;03/01/2020;31/12/2029
+;Pegawai 1047;Certified Contract Management Specialist;18/09/2021;31/12/2029
+;Pegawai 431;Certified Pernyataan Standar Akuntansi Keuangan;21/08/2022;31/12/2029
+;Pegawai 1384;Cerified Sustainability Reporting Assurer;18/10/2018;31/12/2029
+;Pegawai 1329;Certified Hacking Forensic Investigator;18/10/2021;31/12/2029
+;Pegawai 1293;Certified Human Resources Management Professional (CHRMP);25/01/2020;31/12/2029
+;Pegawai 1863;EnCase Certified Examiner;21/01/2022;31/12/2029
+;Pegawai 401;Certified Hacking Forensic Investigator;29/03/2018;31/12/2029
+;Pegawai 1814;Certified Grafologie Analyst;07/10/2019;31/12/2029
+;Pegawai 1590;Certified Sustainability Practitioner;03/02/2019;31/12/2029
+;Pegawai 1812;Certified Government Auditing Professional;04/01/2018;31/12/2029
+;Pegawai 625;Loop Certified Corporate Coach;22/02/2021;31/12/2029
+;Pegawai 62;Cellebrite Certified Physical Analyst;25/03/2020;31/12/2029
+;Pegawai 1590;Certified Internal Audit Officer;06/12/2022;31/12/2029
+;Pegawai 1384;Governance  Risk Management and Compliance Audit;17/01/2021;31/12/2029
+;Pegawai 948;Teknisi Akuntansi;07/02/2019;31/12/2029
+;Pegawai 397;Certified Government Accounting Associate;20/07/2019;31/12/2029
+;Pegawai 1301;Certified Financial Planner;19/10/2018;31/12/2029
+;Pegawai 238;Sertifikasi Change Management;30/08/2021;31/12/2029
+;Pegawai 677;Cyber Security Foundation Professional;26/06/2021;31/12/2029
+;Pegawai 1528;Associate Certified Public Accountant;16/03/2022;31/12/2029
+;Pegawai 590;Certified Forensic Auditor;22/12/2022;31/12/2029
+;Pegawai 507;ASEAN Chartered Professional Accountant;20/05/2018;31/12/2029
+;Pegawai 103;AccessData Certified Examiner;24/02/2021;31/12/2029
+;Pegawai 1003;Certificate in International Public Sector Accounting Standards;17/01/2021;31/12/2029
+;Pegawai 350;Certified Pernyataan Standar Akuntansi Keuangan;03/03/2021;31/12/2029
+;Pegawai 699;Certified IPSAS Specialist;12/01/2019;31/12/2029
+;Pegawai 1183;Ahli Akuntansi Pemerintahan;28/02/2022;31/12/2029
+;Pegawai 1101;Qualified Risk Management Professional;31/08/2020;31/12/2029
+;Pegawai 1882;Cellebrite Certified Officer;02/09/2019;31/12/2029
+;Pegawai 1058;Certified Government Auditing Professional;20/06/2018;31/12/2029
+;Pegawai 1149;Certified Public Accountant;09/01/2021;31/12/2029
+;Pegawai 886;Loop Certified Corporate Coach;23/10/2022;31/12/2029
+;Pegawai 896;Certified Risk Management Officer;03/04/2022;31/12/2029
+;Pegawai 1643;ASEAN Chartered Professional Accountant;24/05/2022;31/12/2029
+;Pegawai 68;Cellebrite Certified Physical Analyst;30/01/2019;31/12/2029
+;Pegawai 862;Certification in Risk Management Assurance;31/01/2021;31/12/2029
+;Pegawai 1058;Qualified Risk Management Professional;28/05/2022;31/12/2029
+;Pegawai 1359;Certified Manpower Planner;02/01/2021;31/12/2029
+;Pegawai 1470;Qualified Risk Management Professional;06/07/2020;31/12/2029
+;Pegawai 318;Insinyur Professional Madya;18/09/2020;31/12/2029
+;Pegawai 366;Enterprise Risk Management Certified Professional;21/05/2020;31/12/2029
+;Pegawai 18;Associate Certified Public Accountant;04/06/2021;31/12/2029
+;Pegawai 1724;Certified Management Accountants;24/06/2021;31/12/2029
+;Pegawai 1839;Certified Grafologie Analyst;12/07/2021;31/12/2029
+;Pegawai 1800;Certified Public Accountant;29/06/2019;31/12/2029
+;Pegawai 632;EnCase Certified Examiner;18/03/2020;31/12/2029
+;Pegawai 1129;Certified Human Resources Specialist;09/02/2020;31/12/2029
+;Pegawai 1700;Certified Hacking Forensic Investigator;23/12/2022;31/12/2029
+;Pegawai 1198;Certified Government Auditing Professional;29/08/2019;31/12/2029
+;Pegawai 884;AccessData Certified Examiner;04/01/2020;31/12/2029
+;Pegawai 1262;Qualified Risk Management Professional;28/05/2021;31/12/2029
+;Pegawai 1832;Cellebrite Certified Physical Analyst;22/01/2022;31/12/2029
+;Pegawai 1259;Qualified Risk Management Professional;22/12/2018;31/12/2029
+;Pegawai 444;Certified Legal Auditor;15/10/2022;31/12/2029
+;Pegawai 1661;Certified Financial Planner;10/03/2019;31/12/2029
+;Pegawai 908;Asean Engineeer;25/04/2022;31/12/2029
+;Pegawai 1860;Governance Risk Management and Compliance Professional;03/03/2021;31/12/2029
+;Pegawai 523;Certificate in International Public Sector Accounting Standards;01/07/2019;31/12/2029
+;Pegawai 923;Oxygen Forensic Certified;29/03/2019;31/12/2029
+;Pegawai 750;Certified Sustainability Practitioner;21/05/2021;31/12/2029
+;Pegawai 1867;Oxygen Forensic Certified;11/03/2019;31/12/2029
+;Pegawai 1548;Certified Professional Coach;08/12/2021;31/12/2029
+;Pegawai 13;AccessData Certified Examiner;31/08/2020;31/12/2029
+;Pegawai 1989;Certified Internal Control Auditor;05/05/2018;31/12/2029
+;Pegawai 1154;Ahli Akuntansi Pemerintahan B;07/11/2020;31/12/2029
+;Pegawai 405;Oxygen Forensic Certified;29/06/2021;31/12/2029
+;Pegawai 1238;Certified Contract Management Specialist;05/05/2018;31/12/2029
+;Pegawai 1779;Certified Government Accounting Associate;18/08/2022;31/12/2029
+;Pegawai 1733;Cerified Sustainability Reporting Assurer;31/07/2021;31/12/2029
+;Pegawai 1440;Certified Financial Planner;20/01/2021;31/12/2029
+;Pegawai 1973;Certified Financial Planner;14/11/2018;31/12/2029
+;Pegawai 509;Certified Human Resources Professional;10/02/2019;31/12/2029
+;Pegawai 1256;Asean Engineeer;01/01/2020;31/12/2029
+;Pegawai 1915;Asean Engineeer;17/12/2022;31/12/2029
+;Pegawai 615;Certified Human Resources Management Professional;06/10/2019;31/12/2029
+;Pegawai 347;Enterprise Risk Management Certified Professional;25/02/2018;31/12/2029
+;Pegawai 1153;Certificate in Data Analytics;31/01/2021;31/12/2029
+;Pegawai 1745;ASEAN Chartered Professional Accountant;28/04/2018;31/12/2029
+;Pegawai 1154;Sertifikasi Change Management;15/02/2018;31/12/2029
+;Pegawai 440;Certified Risk Management Officer;26/01/2021;31/12/2029
+;Pegawai 1736;Cellebrite Certified Operator;07/05/2022;31/12/2029
+;Pegawai 352;Certified Legal Auditor;28/08/2019;31/12/2029
+;Pegawai 480;Loop Certified Corporate Coach;06/08/2022;31/12/2029
+;Pegawai 1185;Qualified Risk Management Professional;17/03/2022;31/12/2029
+;Pegawai 1001;Asean Engineeer;23/05/2022;31/12/2029
+;Pegawai 1565;ASEAN Chartered Professional Accountant;06/10/2020;31/12/2029
+;Pegawai 243;Advanced Diploma in Forensic Accounting - Level 5;22/09/2019;31/12/2029
+;Pegawai 660;Certified Manpower Planner;15/03/2018;31/12/2029
+;Pegawai 261;Certified Financial Planner;13/05/2018;31/12/2029
+;Pegawai 940;Certified Information System Auditors;20/09/2018;31/12/2029
+;Pegawai 1423;Certified Professional Talent Management;31/12/2018;31/12/2029
+;Pegawai 1093;Certified Internal Audit Officer;25/10/2020;31/12/2029
+;Pegawai 1589;Cellebrite Certified Physical Analyst;16/03/2019;31/12/2029
+;Pegawai 217;Cyber Security Foundation Professional;17/06/2019;31/12/2029
+;Pegawai 155;Qualified Government Internal Auditor;07/05/2018;31/12/2029
+;Pegawai 1047;Certified State Finance Auditor;26/09/2022;31/12/2029
+;Pegawai 832;Certified Manpower Planner;18/03/2020;31/12/2029
+;Pegawai 1731;Certified Government Chief Audit Executive;22/04/2021;31/12/2029
+;Pegawai 33;Certification in Control Self-Assessment;21/06/2019;31/12/2029
+;Pegawai 683;Enterprise Risk Management Certified Professional;30/05/2020;31/12/2029
+;Pegawai 297;Ahli Akuntansi Pemerintahan B;09/03/2020;31/12/2029
+;Pegawai 538;Certified Government Accounting Associate;01/03/2020;31/12/2029
+;Pegawai 1636;Certified Hacking Forensic Investigator;25/04/2018;31/12/2029
+;Pegawai 1552;Certified Professional Talent Management;14/12/2018;31/12/2029
+;Pegawai 417;Certified Human Resources Management Professional;28/02/2021;31/12/2029
+;Pegawai 1559;Certificate in International Public Sector Accounting Standards;02/05/2022;31/12/2029
+;Pegawai 104;Certified Data Centre Professional;16/12/2018;31/12/2029
+;Pegawai 1196;Certified RIsk Associate;30/05/2019;31/12/2029
+;Pegawai 338;Certified Risk Management Officer;18/08/2021;31/12/2029
+;Pegawai 1479;Certified Internal Audit Officer;19/05/2022;31/12/2029
+;Pegawai 461;Certified Procurement Specialist;08/12/2020;31/12/2029
+;Pegawai 965;ASEAN Chartered Professional Accountant;30/10/2021;31/12/2029
+;Pegawai 486;Certified Professional Talent Management;14/06/2018;31/12/2029
+;Pegawai 1567;Insinyur;11/04/2018;31/12/2029
+;Pegawai 471;Certified Risk Management Professional;22/08/2022;31/12/2029
+;Pegawai 1097;Certified Human Resources Analyst;15/03/2021;31/12/2029
+;Pegawai 1066;Certified Human Resources Management Professional (CHRMP);30/03/2020;31/12/2029
+;Pegawai 1112;Governance Risk Management and Compliance Professional;31/12/2022;31/12/2029
+;Pegawai 1675;Certificate in Data Analytics;18/08/2021;31/12/2029
+;Pegawai 1305;Qualified Government Internal Auditor;10/03/2021;31/12/2029
+;Pegawai 320;Ahli Akuntansi Pemerintahan A;12/12/2019;31/12/2029
+;Pegawai 875;Ahli Akuntansi Pemerintahan A;23/09/2020;31/12/2029
+;Pegawai 503;Certificate in Data Analytics;06/09/2018;31/12/2029
+;Pegawai 64;Certified IPSAS Specialist;25/01/2021;31/12/2029
+;Pegawai 1565;Asean Engineeer;30/04/2020;31/12/2029
+;Pegawai 1330;Certified Accounting Technician;08/06/2022;31/12/2029
+;Pegawai 1755;Advanced Diploma in Forensic Accounting - Level 5;18/04/2022;31/12/2029
+;Pegawai 1954;Certified RIsk Associate;17/02/2021;31/12/2029
+;Pegawai 1850;Certified Internal Auditor;21/05/2018;31/12/2029
+;Pegawai 1159;Governance Risk Management and Compliance Professional;15/08/2021;31/12/2029
+;Pegawai 147;Teknisi Akuntansi;04/03/2021;31/12/2029
+;Pegawai 194;Certified Government Accounting Associate;14/11/2018;31/12/2029
+;Pegawai 1129;Insinyur;06/04/2018;31/12/2029
+;Pegawai 901;Certified Public Accountant;31/08/2019;31/12/2029
+;Pegawai 787;Enterprise Risk Management Certified Professional;20/11/2022;31/12/2029
+;Pegawai 437;Certified Internal Audit Officer;27/11/2021;31/12/2029
+;Pegawai 1763;Certified Public Accountant;14/08/2019;31/12/2029
+;Pegawai 530;Certified Government Auditing Professional;27/07/2021;31/12/2029
+;Pegawai 1803;Certified Fraud Examiner;03/01/2018;31/12/2029
+;Pegawai 1899;Certified Internal Auditor;16/02/2022;31/12/2029
+;Pegawai 1741;ASEAN Chartered Professional Accountant;29/12/2019;31/12/2029
+;Pegawai 1165;Corporate Forensic Auditor;16/12/2020;31/12/2029
+;Pegawai 994;Certified Contract Management Specialist;23/07/2018;31/12/2029
+;Pegawai 422;Chartered Accountant;05/04/2018;31/12/2029
+;Pegawai 887;Cerified Sustainability Reporting Assurer;23/08/2022;31/12/2029
+;Pegawai 1257;Certified Risk Professional;21/12/2020;31/12/2029
+;Pegawai 1986;Enterprise Risk Management Certified Professional;16/09/2021;31/12/2029
+;Pegawai 1919;Certified Government Chief Audit Executive;25/06/2022;31/12/2029
+;Pegawai 1821;Certificate in Data Analytics;26/10/2019;31/12/2029
+;Pegawai 714;Ahli Akuntansi Pemerintahan B;12/09/2019;31/12/2029
+;Pegawai 1748;Certified Accounting Technician;11/09/2021;31/12/2029
+;Pegawai 459;Certified Data Centre Professional;02/10/2022;31/12/2029
+;Pegawai 1575;Cisco Certified Network Associate;31/07/2021;31/12/2029
+;Pegawai 140;Certified Financial Planner;01/04/2022;31/12/2029
+;Pegawai 1055;Governance  Risk Management and Compliance Audit;22/05/2021;31/12/2029
+;Pegawai 1683;Certified Information System Auditors;20/09/2019;31/12/2029
+;Pegawai 842;Certificate in Data Analytics;13/10/2019;31/12/2029
+;Pegawai 853;Certified Data Centre Professional;22/06/2021;31/12/2029
+;Pegawai 13;Certified Government Auditing Professional;04/01/2018;31/12/2029
+;Pegawai 1947;Certified Hacking Forensic Investigator;01/08/2018;31/12/2029
+;Pegawai 659;Certified Ethical Hacker;17/12/2022;31/12/2029
+;Pegawai 1650;Cellebrite Certified Officer;20/08/2022;31/12/2029
+;Pegawai 1973;Loop Certified Corporate Coach;20/02/2018;31/12/2029
+;Pegawai 761;Certified Procurement Specialist;05/09/2019;31/12/2029
+;Pegawai 1094;Certified RIsk Associate;27/06/2021;31/12/2029
+;Pegawai 1223;Certified Human Resources Professional;18/04/2018;31/12/2029
+;Pegawai 1997;Certified Professional Coach;07/12/2018;31/12/2029
+;Pegawai 773;Certified Internal Control Auditor;20/08/2021;31/12/2029
+;Pegawai 1826;Cellebrite Certified Physical Analyst;31/07/2019;31/12/2029
+;Pegawai 1772;Certification in Control Self-Assessment;17/12/2022;31/12/2029
+;Pegawai 304;Teknisi Akuntansi;11/03/2019;31/12/2029
+;Pegawai 1328;Enterprise Risk Management Certified Professional;22/02/2019;31/12/2029
+;Pegawai 1742;Certified Professional Talent Management;05/02/2020;31/12/2029
+;Pegawai 359;Certification in Risk Management Assurance;12/10/2020;31/12/2029
+;Pegawai 583;Qualified Risk Management Officer;15/01/2022;31/12/2029
+;Pegawai 565;Certified Grafologie Analyst;08/02/2019;31/12/2029
+;Pegawai 931;Certified Risk Management Professional;01/09/2020;31/12/2029
+;Pegawai 4;Governance  Risk Management and Compliance Audit;26/08/2018;31/12/2029
+;Pegawai 796;Enterprise Risk Management Associate Professional;23/09/2021;31/12/2029
+;Pegawai 1018;Certified Human Resources Specialist;18/08/2019;31/12/2029
+;Pegawai 1847;Qualified Government Internal Auditor;29/06/2018;31/12/2029
+;Pegawai 1516;Certified Human Resources Specialist;05/02/2019;31/12/2029
+;Pegawai 1123;Certified Accounting Technician;20/07/2020;31/12/2029
+;Pegawai 1531;Enterprise Risk Management Associate Professional;01/12/2021;31/12/2029
+;Pegawai 1403;Certified Government Auditing Professional;18/07/2022;31/12/2029
+;Pegawai 263;Governance Risk Management and Compliance Professional;16/09/2018;31/12/2029
+;Pegawai 1417;Qualified Risk Management Professional;29/11/2021;31/12/2029
+;Pegawai 1676;Certified Government Accounting Associate;18/01/2020;31/12/2029
+;Pegawai 1353;Cellebrite Certified Operator;19/02/2020;31/12/2029
+;Pegawai 416;Qualified Risk Management Professional;11/11/2018;31/12/2029
+;Pegawai 313;Certified Fraud Examiner;02/11/2020;31/12/2029
+;Pegawai 1201;Teknisi Akuntansi;15/06/2019;31/12/2029
+;Pegawai 266;Ahli Akuntansi Pemerintahan B;08/09/2018;31/12/2029
+;Pegawai 1177;Asean Engineeer;07/05/2021;31/12/2029
+;Pegawai 1712;Certified Human Resources Analyst;23/12/2018;31/12/2029
+;Pegawai 701;Certified Public Accountant;12/04/2022;31/12/2029
+;Pegawai 1753;Insinyur;11/12/2021;31/12/2029
+;Pegawai 942;ASEAN Chartered Professional Accountant;24/03/2020;31/12/2029
+;Pegawai 306;Certified Professional Talent Management;21/04/2019;31/12/2029
+;Pegawai 1700;Cellebrite Certified Physical Analyst;06/10/2022;31/12/2029
+;Pegawai 1837;Certified Internal Auditor;29/11/2018;31/12/2029
+;Pegawai 1768;Certified Data Centre Professional;28/08/2018;31/12/2029
+;Pegawai 1205;Governance  Risk Management and Compliance Audit;30/01/2020;31/12/2029
+;Pegawai 803;Qualified Risk Management Officer;14/12/2019;31/12/2029
+;Pegawai 859;Certified Contract Management Specialist;18/02/2020;31/12/2029
+;Pegawai 548;Certified Procurement Specialist;09/06/2021;31/12/2029
+;Pegawai 1461;Ahli Akuntansi Pemerintahan B;06/05/2018;31/12/2029
+;Pegawai 333;Certified Government Auditing Professional;19/03/2019;31/12/2029
+;Pegawai 529;Akuntan;04/07/2020;31/12/2029
+;Pegawai 1551;Qualified Government Internal Auditor;10/04/2019;31/12/2029
+;Pegawai 1056;Certified Sustainability Reporting Specialist;15/04/2021;31/12/2029
+;Pegawai 67;Certification in Control Self-Assessment;30/07/2021;31/12/2029
+;Pegawai 969;Certification in Control Self-Assessment;24/07/2019;31/12/2029
+;Pegawai 1484;Certified Financial Planner;17/11/2022;31/12/2029
+;Pegawai 145;Certified Procurement Specialist;15/07/2019;31/12/2029
+;Pegawai 1916;Qualified Government Internal Auditor;27/05/2021;31/12/2029
+;Pegawai 967;Certificate in International Auditing;29/06/2018;31/12/2029
+;Pegawai 864;Qualified Risk Management Professional;27/01/2021;31/12/2029
+;Pegawai 1450;Certified Secure Computer User;10/06/2018;31/12/2029
+;Pegawai 623;Certificate in International Auditing;18/08/2020;31/12/2029
+;Pegawai 1483;Asean Engineeer;28/02/2019;31/12/2029
+;Pegawai 1651;EnCase Certified Examiner;17/01/2019;31/12/2029
+;Pegawai 470;Certificate in International Public Sector Accounting Standards;31/10/2022;31/12/2029
+;Pegawai 752;Certified Internal Auditor;28/02/2020;31/12/2029
+;Pegawai 1426;Akuntan;02/02/2020;31/12/2029
+;Pegawai 1987;Certified Fraud Examiner;12/07/2022;31/12/2029
+;Pegawai 300;Cellebrite Certified Operator;25/04/2021;31/12/2029
+;Pegawai 1134;Ahli Akuntansi Pemerintahan B;03/10/2021;31/12/2029
+;Pegawai 587;Certified Ethical Hacker;28/01/2022;31/12/2029
+;Pegawai 1256;Certified Accounting Technician;21/06/2019;31/12/2029
+;Pegawai 1791;Governance Risk Management and Compliance Professional;24/05/2020;31/12/2029
+;Pegawai 32;Certified Government Accounting Associate;02/06/2018;31/12/2029
+;Pegawai 1656;Certificate in International Auditing;03/05/2021;31/12/2029
+;Pegawai 98;Certified Human Resources Specialist;18/04/2022;31/12/2029
+;Pegawai 1186;Certified Human Resources Specialist;17/07/2018;31/12/2029
+;Pegawai 875;Certified Forensic Auditor;30/11/2019;31/12/2029
+;Pegawai 1412;Certified Sustainability Reporting Specialist;02/09/2020;31/12/2029
+;Pegawai 1021;Certified Government Chief Audit Executive;12/04/2018;31/12/2029
+;Pegawai 1310;Chartered Accountant;24/07/2022;31/12/2029
+;Pegawai 884;Certified Legal Auditor;27/02/2020;31/12/2029
+;Pegawai 212;Corporate Forensic Auditor;20/06/2018;31/12/2029
+;Pegawai 748;Certified Contract Management Specialist;15/06/2018;31/12/2029
+;Pegawai 1411;Certified Information System Auditors;20/04/2021;31/12/2029
+;Pegawai 846;Certified Government Auditing Professional;26/02/2021;31/12/2029
+;Pegawai 1833;Ahli Akuntansi Pemerintahan B;28/04/2019;31/12/2029
+;Pegawai 453;Certified Government Chief Audit Executive;12/05/2021;31/12/2029
+;Pegawai 1786;Qualified Internal Auditor;11/03/2022;31/12/2029
+;Pegawai 599;Certified Legal Auditor;02/09/2021;31/12/2029
+;Pegawai 712;Certified Professional Management Accountant;25/07/2018;31/12/2029
+;Pegawai 778;Certified Sustainability Practitioner;23/12/2022;31/12/2029
+;Pegawai 478;Chartered Accountant;09/01/2021;31/12/2029
+;Pegawai 1589;Insinyur;01/11/2020;31/12/2029
+;Pegawai 448;Oxygen Forensic Certified;12/09/2022;31/12/2029
+;Pegawai 634;Enterprise Risk Management Certified Professional;30/09/2022;31/12/2029
+;Pegawai 1908;Certified Procurement Specialist;30/03/2020;31/12/2029
+;Pegawai 1684;Certified Risk Professional;26/06/2018;31/12/2029
+;Pegawai 86;Certified Secure Computer User;25/05/2021;31/12/2029
+;Pegawai 618;Certified Information System Auditors;09/02/2018;31/12/2029
+;Pegawai 705;Cellebrite Certified Officer;26/09/2020;31/12/2029
+;Pegawai 360;Certified Financial Planner;29/01/2019;31/12/2029
+;Pegawai 1563;Loop Certified Corporate Coach;11/11/2018;31/12/2029
+;Pegawai 1578;Certified Sustainability Reporting Specialist;24/09/2020;31/12/2029
+;Pegawai 1147;ASEAN Chartered Professional Accountant;12/05/2019;31/12/2029
+;Pegawai 781;Certified Internal Control Auditor;28/12/2021;31/12/2029
+;Pegawai 1867;Certified Internal Auditor;05/04/2021;31/12/2029
+;Pegawai 451;Certified Procurement Specialist;31/01/2022;31/12/2029
+;Pegawai 1621;Certified Ethical Hacker;09/08/2020;31/12/2029
+;Pegawai 1821;Certified Data Centre Professional;05/02/2019;31/12/2029
+;Pegawai 990;Certified Corporate Coach;01/11/2021;31/12/2029
+;Pegawai 1349;Certified Pernyataan Standar Akuntansi Keuangan;30/01/2022;31/12/2029
+;Pegawai 1492;Certified Human Resources Specialist;09/07/2018;31/12/2029
+;Pegawai 797;Certified Internal Audit Officer;10/11/2021;31/12/2029
+;Pegawai 55;Certified Risk Management Officer;27/04/2019;31/12/2029
+;Pegawai 1299;Certified Procurement Specialist;28/09/2021;31/12/2029
+;Pegawai 1343;Certified Human Resources Analyst;06/07/2019;31/12/2029
+;Pegawai 1480;Certified Government Accounting Associate;19/11/2020;31/12/2029
+;Pegawai 259;Certified Fraud Examiner;16/01/2019;31/12/2029
+;Pegawai 392;Certificate in International Public Sector Accounting Standards;10/06/2019;31/12/2029
+;Pegawai 1956;Certificate in International Public Sector Accounting Standards;15/04/2018;31/12/2029
+;Pegawai 793;Cellebrite Certified Officer;29/11/2020;31/12/2029
+;Pegawai 885;Certified Public Accountant;04/01/2018;31/12/2029
+;Pegawai 1170;Certified Risk Management Professional;11/07/2022;31/12/2029
+;Pegawai 181;Certified Hacking Forensic Investigator;04/03/2018;31/12/2029
+;Pegawai 965;Corporate Forensic Auditor;27/02/2019;31/12/2029
+;Pegawai 794;Akuntan;13/07/2020;31/12/2029
+;Pegawai 1134;Certified IPSAS Specialist;30/04/2019;31/12/2029
+;Pegawai 323;Qualified Government Internal Auditor;06/03/2021;31/12/2029
+;Pegawai 1437;Cellebrite Certified Physical Analyst;02/03/2018;31/12/2029
+;Pegawai 1125;Qualified Internal Auditor;08/01/2022;31/12/2029
+;Pegawai 1435;Certified Human Resources Professional;20/10/2020;31/12/2029
+;Pegawai 1991;Certified Forensic Auditor;19/09/2019;31/12/2029
+;Pegawai 38;Certified Contract Management Specialist;30/06/2020;31/12/2029
+;Pegawai 957;EnCase Certified Examiner;11/03/2021;31/12/2029
+;Pegawai 1761;Certified Human Resources Professional;16/09/2019;31/12/2029
+;Pegawai 785;Certified Internal Audit Officer;02/02/2020;31/12/2029
+;Pegawai 70;Certified Professional Management Accountant;24/09/2021;31/12/2029
+;Pegawai 1090;Certified Human Resources Specialist;29/02/2020;31/12/2029
+;Pegawai 400;Certified Internal Auditor;21/03/2018;31/12/2029
+;Pegawai 21;Cerified Sustainability Reporting Assurer;07/02/2019;31/12/2029
+;Pegawai 973;Certified Human Resources Management Professional;28/02/2019;31/12/2029
+;Pegawai 1951;Certified Risk Professional;21/05/2022;31/12/2029
+;Pegawai 417;Certified Professional Talent Management;17/01/2021;31/12/2029
+;Pegawai 1580;Certified State Finance Auditor;16/03/2020;31/12/2029
+;Pegawai 1297;Enterprise Risk Management Associate Professional;17/02/2019;31/12/2029
+;Pegawai 1197;Certified Public Accountant;10/01/2020;31/12/2029
+;Pegawai 1230;Certified Management Accountants;09/06/2022;31/12/2029
+;Pegawai 745;Certified Management Accountants;06/05/2019;31/12/2029
+;Pegawai 992;Loop Certified Corporate Coach;27/06/2022;31/12/2029
+;Pegawai 422;Certified Human Resources Professional;05/11/2021;31/12/2029
+;Pegawai 27;Cellebrite Certified Officer;01/03/2020;31/12/2029
+;Pegawai 112;Certified Information System Auditors;19/02/2022;31/12/2029
+;Pegawai 770;Certified Legal Auditor;13/04/2022;31/12/2029
+;Pegawai 274;Certified Data Centre Professional;02/08/2022;31/12/2029
+;Pegawai 1107;Qualified Government Internal Auditor;12/01/2021;31/12/2029
+;Pegawai 1793;Certified Procurement Specialist;11/03/2021;31/12/2029
+;Pegawai 1867;Certified Professional Management Accountant;27/01/2021;31/12/2029
+;Pegawai 855;Ahli Akuntansi Pemerintahan;13/01/2021;31/12/2029
+;Pegawai 79;Certificate in International Public Sector Accounting Standards;09/11/2019;31/12/2029
+;Pegawai 1938;Certified Internal Control Auditor;21/12/2021;31/12/2029
+;Pegawai 816;Qualified Risk Management Officer;02/10/2021;31/12/2029
+;Pegawai 627;Cellebrite Certified Operator;18/04/2022;31/12/2029
+;Pegawai 1903;Asean Engineeer;10/07/2021;31/12/2029
+;Pegawai 1109;Certified Management Accountants;09/11/2021;31/12/2029
+;Pegawai 1992;Akuntan;19/05/2021;31/12/2029
+;Pegawai 32;Certified Risk Professional;13/09/2022;31/12/2029
+;Pegawai 1712;Cellebrite Certified Physical Analyst;15/08/2020;31/12/2029
+;Pegawai 978;Cellebrite Certified Officer;29/01/2018;31/12/2029
+;Pegawai 1252;Certificate in International Auditing;16/03/2018;31/12/2029
+;Pegawai 1769;Certified Human Resources Professional;24/10/2022;31/12/2029
+;Pegawai 1204;EnCase Certified Examiner;05/08/2018;31/12/2029
+;Pegawai 1256;Certified Risk Management Professional;21/09/2021;31/12/2029
+;Pegawai 1717;Enterprise Risk Management Certified Professional;10/12/2020;31/12/2029
+;Pegawai 1321;Certified IPSAS Specialist;16/04/2020;31/12/2029
+;Pegawai 1428;Certified Risk Management Professional;26/09/2020;31/12/2029
+;Pegawai 1144;Certified Forensic Auditor;23/07/2022;31/12/2029
+;Pegawai 299;Certified Public Accountant;09/10/2021;31/12/2029
+;Pegawai 102;Cellebrite Certified Operator;08/04/2021;31/12/2029
+;Pegawai 1645;Certified Pernyataan Standar Akuntansi Keuangan;20/03/2019;31/12/2029
+;Pegawai 503;Certificate in International Public Sector Accounting Standards;15/04/2022;31/12/2029
+;Pegawai 1808;AccessData Certified Examiner;29/12/2019;31/12/2029
+;Pegawai 167;Certified Sustainability Reporting Specialist;12/06/2021;31/12/2029
+;Pegawai 1296;Certified Professional Coach;22/12/2021;31/12/2029
+;Pegawai 837;Certified Government Chief Audit Executive;27/06/2020;31/12/2029
+;Pegawai 418;AccessData Certified Examiner;11/04/2021;31/12/2029
+;Pegawai 830;Qualified Risk Management Officer;18/10/2022;31/12/2029
+;Pegawai 1255;Certified Corporate Coach;12/10/2020;31/12/2029
+;Pegawai 1962;Certified Human Resources Specialist;20/02/2021;31/12/2029
+;Pegawai 887;Certified Internal Control Auditor;13/11/2019;31/12/2029
+;Pegawai 1781;Certified Risk Professional;05/10/2020;31/12/2029
+;Pegawai 51;Certified Internal Control Auditor;28/03/2021;31/12/2029
+;Pegawai 442;Certified Sustainability Reporting Specialist;05/04/2021;31/12/2029
+;Pegawai 37;Cisco Certified Network Associate;13/03/2021;31/12/2029
+;Pegawai 1419;Governance Risk Management and Compliance Professional;21/06/2020;31/12/2029
+;Pegawai 1347;Qualified Government Internal Auditor;07/07/2020;31/12/2029
+;Pegawai 23;Cerified Sustainability Reporting Assurer;27/07/2020;31/12/2029
+;Pegawai 1476;Certified Human Resources Specialist;18/12/2021;31/12/2029
+;Pegawai 1160;Certified Procurement Specialist;22/09/2022;31/12/2029
+;Pegawai 1254;Certified Human Resources Analyst;23/05/2021;31/12/2029
+;Pegawai 544;Certified Procurement Specialist;17/03/2020;31/12/2029
+;Pegawai 1318;Certified Information System Auditors;05/06/2018;31/12/2029
+;Pegawai 1096;Certified IPSAS Specialist;01/03/2020;31/12/2029
+;Pegawai 1217;Qualified Government Internal Auditor;10/05/2022;31/12/2029
+;Pegawai 1363;EnCase Certified Examiner;13/01/2018;31/12/2029
+;Pegawai 1694;Certified RIsk Associate;16/06/2018;31/12/2029
+;Pegawai 1972;Certificate in International Auditing;14/10/2019;31/12/2029
+;Pegawai 61;Certified Risk Management Officer;02/11/2018;31/12/2029
+;Pegawai 927;Ahli Akuntansi Pemerintahan;02/01/2019;31/12/2029
+;Pegawai 549;EnCase Certified Examiner;08/11/2021;31/12/2029
+;Pegawai 753;Certified Pernyataan Standar Akuntansi Keuangan;30/07/2018;31/12/2029
+;Pegawai 935;Certified Human Resources Specialist;21/07/2019;31/12/2029
+;Pegawai 1373;AccessData Certified Examiner;25/06/2022;31/12/2029
+;Pegawai 1130;Qualified Risk Management Professional;15/05/2020;31/12/2029
+;Pegawai 605;Certified State Finance Auditor;12/12/2018;31/12/2029
+;Pegawai 1833;Cellebrite Certified Physical Analyst;17/03/2018;31/12/2029
+;Pegawai 534;Certified Data Centre Professional;19/09/2022;31/12/2029
+;Pegawai 1194;Loop Certified Corporate Coach;05/06/2019;31/12/2029
+;Pegawai 328;Qualified Risk Management Professional;01/12/2018;31/12/2029
+;Pegawai 229;Ahli Akuntansi Pemerintahan A;21/04/2022;31/12/2029
+;Pegawai 1179;Certificate in Data Analytics;05/12/2019;31/12/2029
+;Pegawai 1524;Certified Secure Computer User;01/09/2019;31/12/2029
+;Pegawai 1843;Certified Human Resources Management Professional;15/04/2019;31/12/2029
+;Pegawai 139;Cisco Certified Network Associate;12/10/2019;31/12/2029
+;Pegawai 1129;Enterprise Risk Management Associate Professional;25/02/2022;31/12/2029
+;Pegawai 1213;Insinyur Professional Madya;07/01/2022;31/12/2029
+;Pegawai 386;AccessData Certified Examiner;15/06/2018;31/12/2029
+;Pegawai 1227;Ahli Akuntansi Pemerintahan B;20/12/2019;31/12/2029
+;Pegawai 817;Loop Certified Corporate Coach;05/12/2021;31/12/2029
+;Pegawai 965;Sertifikasi Change Management;09/10/2020;31/12/2029
+;Pegawai 1132;Certified Risk Management Officer;01/10/2022;31/12/2029
+;Pegawai 1254;Certified Sustainability Reporting Specialist;10/10/2022;31/12/2029
+;Pegawai 1152;Cellebrite Certified Physical Analyst;02/10/2022;31/12/2029
+;Pegawai 1116;Sertifikasi Change Management;21/12/2020;31/12/2029
+;Pegawai 1065;Certified Government Chief Audit Executive;16/02/2018;31/12/2029
+;Pegawai 72;Oxygen Forensic Certified;30/05/2021;31/12/2029
+;Pegawai 403;Certified Financial Planner;15/11/2020;31/12/2029
+;Pegawai 1835;Certified Grafologie Analyst;03/09/2022;31/12/2029
+;Pegawai 87;Cellebrite Certified Officer;24/08/2019;31/12/2029
+;Pegawai 1252;Certified Fraud Examiner;27/08/2018;31/12/2029
+;Pegawai 1278;Certified State Finance Auditor;24/07/2019;31/12/2029
+;Pegawai 1482;Certification in Risk Management Assurance;30/07/2020;31/12/2029
+;Pegawai 1721;AccessData Certified Examiner;01/02/2022;31/12/2029
+;Pegawai 1640;Governance Risk Management and Compliance Professional;06/03/2022;31/12/2029
+;Pegawai 679;Certified Risk Management Officer;20/05/2018;31/12/2029
+;Pegawai 230;Asean Engineeer;08/02/2019;31/12/2029
+;Pegawai 1659;Certified Public Accountant;29/03/2022;31/12/2029
+;Pegawai 1642;Teknisi Akuntansi;24/04/2018;31/12/2029
+;Pegawai 1093;Enterprise Risk Management Associate Professional;11/06/2022;31/12/2029
+;Pegawai 1208;Qualified Risk Management Professional;30/11/2018;31/12/2029
+;Pegawai 659;Corporate Forensic Auditor;31/05/2018;31/12/2029
+;Pegawai 1932;Certified Risk Management Officer;02/07/2022;31/12/2029
+;Pegawai 357;ASEAN Chartered Professional Accountant;23/05/2022;31/12/2029
+;Pegawai 1980;Certificate in International Public Sector Accounting Standards;03/01/2020;31/12/2029
+;Pegawai 1120;Corporate Forensic Auditor;18/10/2019;31/12/2029
+;Pegawai 1942;Certified Secure Computer User;27/07/2018;31/12/2029
+;Pegawai 146;Ahli Akuntansi Pemerintahan;15/02/2021;31/12/2029
+;Pegawai 843;Certificate in International Auditing;26/03/2019;31/12/2029
+;Pegawai 301;Certified Sustainability Reporting Specialist;17/08/2018;31/12/2029
+;Pegawai 941;Qualified Risk Management Officer;28/05/2022;31/12/2029
+;Pegawai 1501;Governance Risk Management and Compliance Professional;09/01/2022;31/12/2029
+;Pegawai 1626;Certified Human Resources Professional;22/10/2020;31/12/2029
+;Pegawai 241;Qualified Risk Management Officer;12/09/2021;31/12/2029
+;Pegawai 410;Certification in Control Self-Assessment;12/09/2018;31/12/2029
+;Pegawai 374;Certificate in International Auditing;21/09/2019;31/12/2029
+;Pegawai 1004;Certified Secure Computer User;19/05/2021;31/12/2029
+;Pegawai 1150;Certified Manpower Planner;22/08/2022;31/12/2029
+;Pegawai 1103;Certified Information System Auditors;17/07/2018;31/12/2029
+;Pegawai 371;Certified Financial Planner;15/11/2020;31/12/2029
+;Pegawai 543;Certificate in International Auditing;07/11/2019;31/12/2029
+;Pegawai 1917;Certificate in International Auditing;21/11/2018;31/12/2029
+;Pegawai 1205;Certificate in International Auditing;03/08/2022;31/12/2029
+;Pegawai 1978;Enterprise Risk Management Associate Professional;15/09/2020;31/12/2029
+;Pegawai 463;Certified Accounting Technician;20/09/2018;31/12/2029
+;Pegawai 1537;Certified Human Resources Management Professional;25/11/2018;31/12/2029
+;Pegawai 827;Cellebrite Certified Officer;23/04/2020;31/12/2029
+;Pegawai 1867;Advanced Diploma in Forensic Accounting - Level 5;07/12/2020;31/12/2029
+;Pegawai 1505;Certified Ethical Hacker;18/05/2021;31/12/2029
+;Pegawai 500;Qualified Risk Management Professional;05/08/2021;31/12/2029
+;Pegawai 641;Enterprise Risk Management Associate Professional;19/01/2019;31/12/2029
+;Pegawai 1260;Certified Internal Control Auditor;26/06/2021;31/12/2029
+;Pegawai 1439;Cellebrite Certified Operator;10/07/2020;31/12/2029
+;Pegawai 1133;Chartered Accountant;21/11/2020;31/12/2029
+;Pegawai 1032;Certified Internal Audit Officer;03/05/2021;31/12/2029
+;Pegawai 857;Cerified Sustainability Reporting Assurer;06/05/2019;31/12/2029
+;Pegawai 84;EnCase Certified Examiner;25/12/2022;31/12/2029
+;Pegawai 1748;Enterprise Risk Management Associate Professional;12/10/2019;31/12/2029
+;Pegawai 1259;Cellebrite Certified Physical Analyst;20/05/2022;31/12/2029
+;Pegawai 1063;Certified Professional Talent Management;08/08/2020;31/12/2029
+;Pegawai 570;Certified Government Accounting Associate;19/06/2018;31/12/2029
+;Pegawai 1076;Certified Internal Audit Officer;08/02/2019;31/12/2029
+;Pegawai 65;Certified Contract Management Specialist;19/05/2021;31/12/2029
+;Pegawai 566;Certified Legal Auditor;22/06/2021;31/12/2029
+;Pegawai 1648;Sertifikasi Change Management;18/04/2019;31/12/2029
+;Pegawai 1249;Certificate in Data Analytics;01/11/2021;31/12/2029
+;Pegawai 967;Corporate Forensic Auditor;20/10/2018;31/12/2029
+;Pegawai 1684;Cyber Security Foundation Professional;27/09/2022;31/12/2029
+;Pegawai 1226;Certified Management Accountants;21/08/2020;31/12/2029
+;Pegawai 190;Insinyur Professional Madya;17/04/2019;31/12/2029
+;Pegawai 865;Certified Professional Talent Management;10/04/2021;31/12/2029
+;Pegawai 291;Certified Sustainability Reporting Specialist;20/11/2021;31/12/2029
+;Pegawai 1050;Cyber Security Foundation Professional;16/01/2019;31/12/2029
+;Pegawai 943;Certified Hacking Forensic Investigator;04/07/2018;31/12/2029
+;Pegawai 866;Certified Risk Management Professional;30/03/2018;31/12/2029
+;Pegawai 1198;ASEAN Chartered Professional Accountant;27/07/2020;31/12/2029
+;Pegawai 1912;Certified Risk Management Professional;01/08/2018;31/12/2029
+;Pegawai 1242;Cellebrite Certified Officer;19/06/2019;31/12/2029
+;Pegawai 562;AccessData Certified Examiner;02/06/2020;31/12/2029
+;Pegawai 1938;Cyber Security Foundation Professional;07/04/2021;31/12/2029
+;Pegawai 177;Certified Risk Management Officer;15/12/2021;31/12/2029
+;Pegawai 1425;Certified State Finance Auditor;13/05/2019;31/12/2029
+;Pegawai 1383;Certified Risk Management Officer;06/01/2022;31/12/2029
+;Pegawai 1234;Certified Legal Auditor;25/02/2021;31/12/2029
+;Pegawai 729;Certificate in Data Analytics;18/06/2019;31/12/2029
+;Pegawai 11;Certified Internal Auditor;23/12/2021;31/12/2029
+;Pegawai 1205;Certified Legal Auditor;23/07/2021;31/12/2029
+;Pegawai 84;Certified IPSAS Specialist;24/05/2021;31/12/2029
+;Pegawai 279;Certificate in Data Analytics;01/08/2019;31/12/2029
+;Pegawai 521;Sertifikasi Change Management;13/04/2022;31/12/2029
+;Pegawai 203;Certified Internal Control Auditor;28/10/2021;31/12/2029
+;Pegawai 306;Certified Human Resources Management Professional (CHRMP);04/10/2019;31/12/2029
+;Pegawai 1144;Certified Government Accounting Associate;22/08/2021;31/12/2029
+;Pegawai 1405;EnCase Certified Examiner;28/06/2018;31/12/2029
+;Pegawai 1143;Certificate in Data Analytics;18/01/2018;31/12/2029
+;Pegawai 1932;Cellebrite Certified Officer;14/06/2020;31/12/2029
+;Pegawai 52;Certified Human Resources Management Professional;01/04/2022;31/12/2029
+;Pegawai 872;Certified Internal Auditor;26/07/2022;31/12/2029
+;Pegawai 509;Insinyur Professional Madya;14/08/2021;31/12/2029
+;Pegawai 1126;Certified Procurement Specialist;02/01/2021;31/12/2029
+;Pegawai 49;Sertifikasi Change Management;26/08/2020;31/12/2029
+;Pegawai 1140;Certified IPSAS Specialist;30/08/2019;31/12/2029
+;Pegawai 234;Certified Human Resources Professional;21/02/2018;31/12/2029
+;Pegawai 621;Certified Public Accountant;30/04/2020;31/12/2029
+;Pegawai 1193;Enterprise Risk Management Certified Professional;02/07/2018;31/12/2029
+;Pegawai 1341;ASEAN Chartered Professional Accountant;01/08/2022;31/12/2029
+;Pegawai 1647;Certified Pernyataan Standar Akuntansi Keuangan;17/06/2022;31/12/2029
+;Pegawai 1812;Certified Internal Auditor;06/08/2021;31/12/2029
+;Pegawai 84;Certificate in International Auditing;01/05/2020;31/12/2029
+;Pegawai 706;Qualified Government Internal Auditor;01/11/2020;31/12/2029
+;Pegawai 286;Certified Human Resources Analyst;17/10/2020;31/12/2029
+;Pegawai 175;Certificate in International Public Sector Accounting Standards;11/02/2018;31/12/2029
+;Pegawai 64;Certified Information System Auditors;24/11/2019;31/12/2029
+;Pegawai 259;Corporate Forensic Auditor;26/10/2020;31/12/2029
+;Pegawai 1599;Insinyur;14/02/2018;31/12/2029
+;Pegawai 1332;Certified Internal Control Auditor;11/07/2021;31/12/2029
+;Pegawai 126;Certified Sustainability Practitioner;14/11/2019;31/12/2029
+;Pegawai 126;Certificate in International Public Sector Accounting Standards;13/06/2020;31/12/2029
+;Pegawai 85;Teknisi Akuntansi;31/12/2019;31/12/2029
+;Pegawai 299;Cellebrite Certified Officer;21/12/2020;31/12/2029
+;Pegawai 1743;Asean Engineeer;19/11/2018;31/12/2029
+;Pegawai 209;Certified Manpower Planner;30/09/2021;31/12/2029
+;Pegawai 915;Certified Information System Auditors;08/01/2019;31/12/2029
+;Pegawai 1337;Certified Information System Auditors;10/11/2022;31/12/2029
+;Pegawai 353;Certified IPSAS Specialist;24/05/2018;31/12/2029
+;Pegawai 128;Certified State Finance Auditor;21/05/2019;31/12/2029
+;Pegawai 1786;Certified Sustainability Practitioner;19/05/2022;31/12/2029
+;Pegawai 1883;Certified Government Accounting Associate;22/03/2019;31/12/2029
+;Pegawai 1503;Certified Public Accountant;11/06/2022;31/12/2029
+;Pegawai 6;Certified Government Accounting Associate;26/01/2019;31/12/2029
+;Pegawai 456;Certified Internal Auditor;11/10/2021;31/12/2029
+;Pegawai 696;Certificate in International Public Sector Accounting Standards;27/01/2021;31/12/2029
+;Pegawai 1071;Asean Engineeer;15/12/2021;31/12/2029
+;Pegawai 127;Certified Financial Planner;06/10/2020;31/12/2029
+;Pegawai 296;Certified Data Centre Professional;10/01/2022;31/12/2029
+;Pegawai 1614;Insinyur;26/03/2020;31/12/2029
+;Pegawai 1731;Certified Pernyataan Standar Akuntansi Keuangan;03/05/2022;31/12/2029
+;Pegawai 892;Certified Grafologie Analyst;09/09/2021;31/12/2029
+;Pegawai 81;Certified Professional Talent Management;28/05/2019;31/12/2029
+;Pegawai 86;Certified Internal Control Auditor;16/07/2021;31/12/2029
+;Pegawai 213;Ahli Akuntansi Pemerintahan;13/01/2018;31/12/2029
+;Pegawai 10;Associate Certified Public Accountant;15/08/2020;31/12/2029
+;Pegawai 1294;ASEAN Chartered Professional Accountant;01/12/2020;31/12/2029
+;Pegawai 872;Qualified Risk Management Officer;24/04/2018;31/12/2029
+;Pegawai 30;Loop Certified Corporate Coach;18/12/2020;31/12/2029
+;Pegawai 156;Certified State Finance Auditor;27/10/2022;31/12/2029
+;Pegawai 785;Certified Corporate Coach;14/11/2020;31/12/2029
+;Pegawai 141;Certified Contract Management Specialist;19/05/2022;31/12/2029
+;Pegawai 325;Cerified Sustainability Reporting Assurer;19/03/2021;31/12/2029
+;Pegawai 139;Qualified Risk Management Professional;26/02/2019;31/12/2029
+;Pegawai 538;Certificate in Data Analytics;22/01/2022;31/12/2029
+;Pegawai 345;Certified Professional Talent Management;21/11/2020;31/12/2029
+;Pegawai 1403;Certified Professional Coach;30/04/2020;31/12/2029
+;Pegawai 1469;Certified Hacking Forensic Investigator;17/11/2018;31/12/2029
+;Pegawai 1880;Certified Corporate Coach;16/07/2019;31/12/2029
+;Pegawai 1143;Certified Internal Control Auditor;25/06/2019;31/12/2029
+;Pegawai 1023;Certified Manpower Planner;22/09/2020;31/12/2029
+;Pegawai 71;Ahli Akuntansi Pemerintahan B;07/12/2020;31/12/2029
+;Pegawai 1886;Qualified Risk Management Officer;12/08/2020;31/12/2029
+;Pegawai 1354;Certified Risk Management Officer;11/09/2021;31/12/2029
+;Pegawai 133;Teknisi Akuntansi;15/12/2019;31/12/2029
+;Pegawai 1341;Cellebrite Certified Operator;15/06/2018;31/12/2029
+;Pegawai 1316;Certified Risk Professional;09/07/2021;31/12/2029
+;Pegawai 1427;Certified Hacking Forensic Investigator;02/03/2022;31/12/2029
+;Pegawai 1759;Certified Contract Management Specialist;04/04/2020;31/12/2029
+;Pegawai 1956;Certified Information System Auditors;17/10/2022;31/12/2029
+;Pegawai 215;Certificate in International Auditing;19/08/2019;31/12/2029
+;Pegawai 337;Cellebrite Certified Operator;24/03/2022;31/12/2029
+;Pegawai 807;Certificate in International Public Sector Accounting Standards;18/12/2018;31/12/2029
+;Pegawai 145;Insinyur;26/01/2020;31/12/2029
+;Pegawai 64;Certified Financial Planner;12/12/2019;31/12/2029
+;Pegawai 1220;Certificate in International Auditing;11/12/2020;31/12/2029
+;Pegawai 241;Certified Forensic Auditor;03/05/2019;31/12/2029
+;Pegawai 1074;Certified RIsk Associate;31/12/2019;31/12/2029
+;Pegawai 1239;Certified Professional Management Accountant;23/07/2021;31/12/2029
+;Pegawai 575;Certified Fraud Examiner;29/07/2020;31/12/2029
+;Pegawai 1746;Qualified Government Internal Auditor;08/11/2019;31/12/2029
+;Pegawai 1885;Certified Data Centre Professional;09/11/2019;31/12/2029
+;Pegawai 317;Advanced Diploma in Forensic Accounting - Level 5;13/10/2022;31/12/2029
+;Pegawai 1221;Certified Sustainability Reporting Specialist;09/11/2022;31/12/2029
+;Pegawai 258;Ahli Akuntansi Pemerintahan B;23/05/2020;31/12/2029
+;Pegawai 1236;Akuntan;03/12/2020;31/12/2029
+;Pegawai 906;Certified Procurement Specialist;16/09/2020;31/12/2029
+;Pegawai 1505;Certified Management Accountants;03/06/2022;31/12/2029
+;Pegawai 394;Governance Risk Management and Compliance Professional;18/06/2020;31/12/2029
+;Pegawai 407;Enterprise Risk Management Associate Professional;23/04/2019;31/12/2029
+;Pegawai 1105;Corporate Forensic Auditor;18/01/2019;31/12/2029
+;Pegawai 1377;Certified Government Chief Audit Executive;03/02/2019;31/12/2029
+;Pegawai 1723;Certified Accounting Technician;03/09/2019;31/12/2029
+;Pegawai 1718;Certified Manpower Planner;20/09/2018;31/12/2029
+;Pegawai 1556;Certified Professional Talent Management;04/06/2018;31/12/2029
+;Pegawai 1407;Certified Manpower Planner;07/08/2021;31/12/2029
+;Pegawai 1819;Qualified Government Internal Auditor;24/03/2020;31/12/2029
+;Pegawai 384;Qualified Internal Auditor;27/05/2022;31/12/2029
+;Pegawai 1234;Certified Human Resources Management Professional (CHRMP);12/10/2018;31/12/2029
+;Pegawai 1809;Insinyur;08/06/2019;31/12/2029
+;Pegawai 1340;Certified Human Resources Management Professional;06/08/2021;31/12/2029
+;Pegawai 1282;Cellebrite Certified Officer;16/04/2018;31/12/2029
+;Pegawai 156;Certified Legal Auditor;31/05/2018;31/12/2029
+;Pegawai 1887;Cellebrite Certified Officer;27/09/2019;31/12/2029
+;Pegawai 1691;Teknisi Akuntansi;02/06/2021;31/12/2029
+;Pegawai 1019;Certified Internal Audit Officer;11/09/2018;31/12/2029
+;Pegawai 843;Certified Human Resources Management Professional;20/07/2022;31/12/2029
+;Pegawai 1192;Akuntan;03/06/2021;31/12/2029
+;Pegawai 654;Ahli Akuntansi Pemerintahan;13/08/2018;31/12/2029
+;Pegawai 749;Advanced Diploma in Forensic Accounting - Level 5;11/08/2020;31/12/2029
+;Pegawai 521;Certified Legal Auditor;27/12/2022;31/12/2029
+;Pegawai 1330;Certificate in International Auditing;06/05/2021;31/12/2029
+;Pegawai 51;Certified Contract Management Specialist;13/08/2019;31/12/2029
+;Pegawai 1114;Cerified Sustainability Reporting Assurer;29/08/2022;31/12/2029
+;Pegawai 186;Certified Legal Auditor;08/09/2019;31/12/2029
+;Pegawai 1607;Corporate Forensic Auditor;27/04/2021;31/12/2029
+;Pegawai 276;Certified Contract Management Specialist;03/02/2021;31/12/2029
+;Pegawai 1024;Certified Public Accountant;31/10/2018;31/12/2029
+;Pegawai 1388;ASEAN Chartered Professional Accountant;25/08/2019;31/12/2029
+;Pegawai 1455;Certified Hacking Forensic Investigator;20/10/2018;31/12/2029
+;Pegawai 1599;Certified Public Accountant;14/10/2021;31/12/2029
+;Pegawai 201;Oxygen Forensic Certified;10/05/2018;31/12/2029
+;Pegawai 105;Certified Professional Coach;20/05/2022;31/12/2029
+;Pegawai 553;Certified Human Resources Management Professional (CHRMP);22/03/2021;31/12/2029
+;Pegawai 572;Certified Human Resources Specialist;30/05/2022;31/12/2029
+;Pegawai 1376;Cyber Security Foundation Professional;29/06/2018;31/12/2029
+;Pegawai 82;Ahli Akuntansi Pemerintahan;30/07/2020;31/12/2029
+;Pegawai 822;Certified Professional Management Accountant;30/05/2019;31/12/2029
+;Pegawai 982;Certified Risk Professional;30/07/2022;31/12/2029
+;Pegawai 641;Certification in Risk Management Assurance;25/01/2022;31/12/2029
+;Pegawai 1318;Qualified Government Internal Auditor;21/09/2020;31/12/2029
+;Pegawai 905;Certified Data Centre Professional;22/07/2018;31/12/2029
+;Pegawai 1804;Certified Information System Auditors;03/02/2019;31/12/2029
+;Pegawai 575;Corporate Forensic Auditor;02/07/2020;31/12/2029
+;Pegawai 1707;Ahli Akuntansi Pemerintahan;11/12/2018;31/12/2029
+;Pegawai 77;Certified Government Auditing Professional;21/12/2022;31/12/2029
+;Pegawai 44;Certified Hacking Forensic Investigator;20/05/2020;31/12/2029
+;Pegawai 138;Certified Accounting Technician;29/04/2019;31/12/2029
+;Pegawai 540;Certified Fraud Examiner;22/09/2019;31/12/2029
+;Pegawai 85;Cellebrite Certified Officer;03/11/2019;31/12/2029
+;Pegawai 1459;Chartered Accountant;11/04/2019;31/12/2029
+;Pegawai 938;Akuntan;29/09/2019;31/12/2029
+;Pegawai 826;Certified Hacking Forensic Investigator;11/04/2020;31/12/2029
+;Pegawai 1429;Certified Risk Management Officer;23/10/2021;31/12/2029
+;Pegawai 950;Certified Internal Control Auditor;10/12/2018;31/12/2029
+;Pegawai 672;Certified Accounting Technician;02/11/2022;31/12/2029
+;Pegawai 1989;Qualified Internal Auditor;09/08/2018;31/12/2029
+;Pegawai 1209;Sertifikasi Change Management;21/06/2021;31/12/2029
+;Pegawai 1211;Qualified Risk Management Officer;08/11/2019;31/12/2029
+;Pegawai 1786;Certified Pernyataan Standar Akuntansi Keuangan;18/12/2020;31/12/2029
+;Pegawai 939;Enterprise Risk Management Certified Professional;18/06/2020;31/12/2029
+;Pegawai 160;Cisco Certified Network Associate;17/04/2020;31/12/2029
+;Pegawai 1105;Certified Internal Control Auditor;08/04/2020;31/12/2029
+;Pegawai 1017;Akuntan;07/02/2022;31/12/2029
+;Pegawai 1015;Advanced Diploma in Forensic Accounting - Level 5;27/11/2022;31/12/2029
+;Pegawai 1637;Certified IPSAS Specialist;04/09/2019;31/12/2029
+;Pegawai 811;Certified Human Resources Management Professional (CHRMP);13/08/2019;31/12/2029
+;Pegawai 527;Akuntan;23/01/2019;31/12/2029
+;Pegawai 816;Qualified Risk Management Professional;14/03/2018;31/12/2029
+;Pegawai 1854;Governance  Risk Management and Compliance Audit;17/04/2019;31/12/2029
+;Pegawai 1292;Cellebrite Certified Officer;16/08/2018;31/12/2029
+;Pegawai 198;Certified Sustainability Practitioner;12/04/2021;31/12/2029
+;Pegawai 1075;Sertifikasi Change Management;20/01/2021;31/12/2029
+;Pegawai 600;Qualified Risk Management Officer;09/05/2022;31/12/2029
+;Pegawai 404;Certified Human Resources Professional;24/08/2018;31/12/2029
+;Pegawai 263;Advanced Diploma in Forensic Accounting - Level 5;28/06/2020;31/12/2029
+;Pegawai 1148;Certified Government Chief Audit Executive;28/11/2021;31/12/2029
+;Pegawai 1834;Certified Sustainability Practitioner;01/01/2022;31/12/2029
+;Pegawai 1339;Qualified Risk Management Officer;17/02/2021;31/12/2029
+;Pegawai 1108;Certified Ethical Hacker;10/11/2019;31/12/2029
+;Pegawai 121;Certified Legal Auditor;26/11/2021;31/12/2029
+;Pegawai 832;Qualified Risk Management Officer;01/12/2021;31/12/2029
+;Pegawai 999;Cyber Security Foundation Professional;13/08/2018;31/12/2029
+;Pegawai 247;Certified Hacking Forensic Investigator;12/08/2020;31/12/2029
+;Pegawai 1584;Certified Ethical Hacker;02/05/2019;31/12/2029
+;Pegawai 1967;AccessData Certified Examiner;22/05/2021;31/12/2029
+;Pegawai 364;Certified Human Resources Management Professional;26/03/2018;31/12/2029
+;Pegawai 1246;Certified Human Resources Professional;27/12/2018;31/12/2029
+;Pegawai 905;Certified Human Resources Professional;30/10/2022;31/12/2029
+;Pegawai 1372;Certified Forensic Auditor;02/05/2021;31/12/2029
+;Pegawai 1948;Certified Corporate Coach;31/12/2019;31/12/2029
+;Pegawai 1223;Certified State Finance Auditor;16/02/2020;31/12/2029
+;Pegawai 72;Certified Government Accounting Associate;17/10/2018;31/12/2029
+;Pegawai 1765;Certified Procurement Specialist;21/03/2020;31/12/2029
+;Pegawai 746;Cyber Security Foundation Professional;05/09/2019;31/12/2029
+;Pegawai 1605;Governance Risk Management and Compliance Professional;08/07/2022;31/12/2029
+;Pegawai 353;Certified Human Resources Management Professional;14/01/2018;31/12/2029
+;Pegawai 226;Certificate in International Auditing;20/02/2018;31/12/2029
+;Pegawai 1751;Certified Internal Control Auditor;11/11/2018;31/12/2029
+;Pegawai 216;Enterprise Risk Management Certified Professional;14/01/2022;31/12/2029
+;Pegawai 437;Certified Government Auditing Professional;11/09/2021;31/12/2029
+;Pegawai 808;Enterprise Risk Management Certified Professional;16/07/2020;31/12/2029
+;Pegawai 1575;Certified Data Centre Professional;06/04/2018;31/12/2029
+;Pegawai 662;Corporate Forensic Auditor;17/07/2022;31/12/2029
+;Pegawai 1717;Enterprise Risk Management Associate Professional;31/03/2019;31/12/2029
+;Pegawai 998;Ahli Akuntansi Pemerintahan B;02/01/2019;31/12/2029
+;Pegawai 1499;Certified Fraud Examiner;19/04/2019;31/12/2029
+;Pegawai 1247;Qualified Government Internal Auditor;03/03/2019;31/12/2029
+;Pegawai 1452;Cellebrite Certified Physical Analyst;19/02/2022;31/12/2029
+;Pegawai 1919;Associate Certified Public Accountant;25/04/2019;31/12/2029
+;Pegawai 1478;Cellebrite Certified Physical Analyst;09/11/2022;31/12/2029
+;Pegawai 1284;Certificate in International Public Sector Accounting Standards;11/07/2018;31/12/2029
+;Pegawai 34;Certified Accounting Technician;17/02/2022;31/12/2029
+;Pegawai 647;Certified Forensic Auditor;24/10/2020;31/12/2029
+;Pegawai 203;Certified Manpower Planner;01/10/2019;31/12/2029
+;Pegawai 862;Certified Risk Management Officer;14/02/2022;31/12/2029
+;Pegawai 1282;Cerified Sustainability Reporting Assurer;04/04/2021;31/12/2029
+;Pegawai 1514;Certified Secure Computer User;28/04/2020;31/12/2029
+;Pegawai 1622;Certified Human Resources Management Professional (CHRMP);02/11/2020;31/12/2029
+;Pegawai 294;Certified Procurement Specialist;14/02/2019;31/12/2029
+;Pegawai 158;Certified Risk Management Officer;19/06/2019;31/12/2029
+;Pegawai 1776;Certified Management Accountants;31/01/2018;31/12/2029
+;Pegawai 704;Certified Accounting Technician;17/11/2019;31/12/2029
+;Pegawai 918;Asean Engineeer;09/05/2021;31/12/2029
+;Pegawai 1162;Governance  Risk Management and Compliance Audit;27/05/2019;31/12/2029
+;Pegawai 1715;Certified Internal Control Auditor;21/02/2019;31/12/2029
+;Pegawai 496;Cellebrite Certified Physical Analyst;29/12/2020;31/12/2029
+;Pegawai 965;Certified Human Resources Specialist;08/09/2021;31/12/2029
+;Pegawai 423;Certified Pernyataan Standar Akuntansi Keuangan;21/11/2022;31/12/2029
+;Pegawai 1712;Certificate in Data Analytics;29/05/2020;31/12/2029
+;Pegawai 1094;Certified Ethical Hacker;08/03/2020;31/12/2029
+;Pegawai 1676;Certified Sustainability Practitioner;16/08/2020;31/12/2029
+;Pegawai 1936;Teknisi Akuntansi;09/02/2018;31/12/2029
+;Pegawai 1455;Certified Management Accountants;02/06/2021;31/12/2029
+;Pegawai 66;Certified Information System Auditors;18/09/2018;31/12/2029
+;Pegawai 79;Ahli Akuntansi Pemerintahan A;03/01/2019;31/12/2029
+;Pegawai 755;Certified Forensic Auditor;13/06/2018;31/12/2029
+;Pegawai 1317;Certified State Finance Auditor;28/06/2018;31/12/2029
+;Pegawai 284;Certificate in Data Analytics;07/06/2018;31/12/2029
+;Pegawai 74;Qualified Risk Management Professional;03/06/2020;31/12/2029
+;Pegawai 349;Certified Risk Management Officer;07/05/2020;31/12/2029
+;Pegawai 1145;Certified Professional Coach;13/02/2021;31/12/2029
+;Pegawai 1850;Insinyur;18/03/2018;31/12/2029
+;Pegawai 1255;Certified IPSAS Specialist;18/11/2019;31/12/2029
+;Pegawai 1726;Governance Risk Management and Compliance Professional;12/01/2021;31/12/2029
+;Pegawai 1384;Sertifikasi Change Management;02/12/2021;31/12/2029
+;Pegawai 477;Certified Sustainability Reporting Specialist;05/12/2021;31/12/2029
+;Pegawai 1635;Insinyur Professional Madya;15/05/2021;31/12/2029
+;Pegawai 966;Ahli Akuntansi Pemerintahan A;11/02/2019;31/12/2029
+;Pegawai 334;Cellebrite Certified Physical Analyst;27/07/2019;31/12/2029
+;Pegawai 971;Insinyur;27/04/2020;31/12/2029
+;Pegawai 1689;Certified Sustainability Reporting Specialist;18/08/2022;31/12/2029
+;Pegawai 243;Certified Professional Talent Management;03/10/2022;31/12/2029
+;Pegawai 464;Enterprise Risk Management Associate Professional;31/08/2021;31/12/2029
+;Pegawai 439;Certified Ethical Hacker;19/02/2022;31/12/2029
+;Pegawai 1901;Certified Human Resources Management Professional;01/10/2021;31/12/2029
+;Pegawai 1183;Certificate in International Auditing;10/07/2018;31/12/2029
+;Pegawai 211;Certificate in International Public Sector Accounting Standards;22/07/2018;31/12/2029
+;Pegawai 1653;Loop Certified Corporate Coach;09/04/2021;31/12/2029
+;Pegawai 1000;Certified Public Accountant;11/08/2021;31/12/2029
+;Pegawai 834;Certified Accounting Technician;28/03/2022;31/12/2029
+;Pegawai 1347;Certified IPSAS Specialist;13/01/2021;31/12/2029
+;Pegawai 836;Certified Sustainability Practitioner;19/11/2021;31/12/2029
+;Pegawai 1415;Certified Grafologie Analyst;21/03/2022;31/12/2029
+;Pegawai 1132;Certified Government Accounting Associate;06/02/2019;31/12/2029
+;Pegawai 503;Certified Professional Management Accountant;28/07/2020;31/12/2029
+;Pegawai 535;Loop Certified Corporate Coach;05/09/2018;31/12/2029
+;Pegawai 1134;Certified Human Resources Analyst;02/01/2020;31/12/2029
+;Pegawai 1531;Certified Ethical Hacker;14/07/2022;31/12/2029
+;Pegawai 667;Sertifikasi Change Management;17/08/2020;31/12/2029
+;Pegawai 1914;Enterprise Risk Management Certified Professional;03/10/2022;31/12/2029
+;Pegawai 17;Certification in Risk Management Assurance;04/01/2019;31/12/2029
+;Pegawai 867;Chartered Accountant;18/05/2020;31/12/2029
+;Pegawai 851;EnCase Certified Examiner;26/08/2020;31/12/2029
+;Pegawai 295;Certification in Control Self-Assessment;26/03/2018;31/12/2029
+;Pegawai 1083;Certified Human Resources Management Professional (CHRMP);05/05/2020;31/12/2029
+;Pegawai 632;Certified Professional Management Accountant;19/01/2018;31/12/2029
+;Pegawai 348;Certified Professional Management Accountant;29/11/2019;31/12/2029
+;Pegawai 1460;Certified Information System Auditors;03/03/2019;31/12/2029
+;Pegawai 154;Certified Sustainability Reporting Specialist;08/11/2022;31/12/2029
+;Pegawai 319;Certified Human Resources Specialist;04/10/2020;31/12/2029
+;Pegawai 1944;Certificate in International Public Sector Accounting Standards;04/08/2019;31/12/2029
+;Pegawai 1481;Certified Hacking Forensic Investigator;07/10/2018;31/12/2029
+;Pegawai 429;AccessData Certified Examiner;15/09/2021;31/12/2029
+;Pegawai 1072;Certified Fraud Examiner;17/10/2018;31/12/2029
+;Pegawai 1177;Certified Secure Computer User;23/03/2018;31/12/2029
+;Pegawai 1951;Certified Internal Control Auditor;09/10/2019;31/12/2029
+;Pegawai 967;Certified Corporate Coach;30/01/2018;31/12/2029
+;Pegawai 1811;Certified IPSAS Specialist;07/09/2021;31/12/2029
+;Pegawai 778;Oxygen Forensic Certified;09/11/2021;31/12/2029
+;Pegawai 1906;Certified IPSAS Specialist;23/02/2019;31/12/2029
+;Pegawai 899;Certificate in International Public Sector Accounting Standards;06/07/2021;31/12/2029
+;Pegawai 1527;Certified Information System Auditors;26/12/2018;31/12/2029
+;Pegawai 611;Certified Internal Control Auditor;18/10/2021;31/12/2029
+;Pegawai 1500;Asean Engineeer;08/01/2021;31/12/2029
+;Pegawai 917;Certified Financial Planner;24/06/2018;31/12/2029
+;Pegawai 1731;Asean Engineeer;06/04/2022;31/12/2029
+;Pegawai 811;Certified Human Resources Professional;01/07/2018;31/12/2029
+;Pegawai 298;Certified Data Centre Professional;04/05/2019;31/12/2029
+;Pegawai 1590;Certified Information System Auditors;27/12/2022;31/12/2029
+;Pegawai 1774;Loop Certified Corporate Coach;22/01/2021;31/12/2029
+;Pegawai 312;Certified Contract Management Specialist;30/08/2019;31/12/2029
+;Pegawai 1185;Certified Financial Planner;14/02/2022;31/12/2029
+;Pegawai 1565;Certified Accounting Technician;07/02/2022;31/12/2029
+;Pegawai 1811;Cellebrite Certified Officer;27/12/2019;31/12/2029
+;Pegawai 391;EnCase Certified Examiner;10/02/2022;31/12/2029
+;Pegawai 1972;Certified State Finance Auditor;08/11/2018;31/12/2029
+;Pegawai 604;Cellebrite Certified Physical Analyst;13/06/2022;31/12/2029
+;Pegawai 90;Cellebrite Certified Operator;22/09/2022;31/12/2029
+;Pegawai 1303;Certified Human Resources Management Professional (CHRMP);23/09/2018;31/12/2029
+;Pegawai 518;Certified Human Resources Management Professional (CHRMP);17/03/2018;31/12/2029
+;Pegawai 537;Certified Fraud Examiner;04/10/2019;31/12/2029
+;Pegawai 1260;EnCase Certified Examiner;04/09/2021;31/12/2029
+;Pegawai 29;Certified Risk Professional;13/11/2018;31/12/2029
+;Pegawai 852;Akuntan;15/02/2020;31/12/2029
+;Pegawai 1690;Insinyur Professional Madya;09/08/2022;31/12/2029
+;Pegawai 1663;Qualified Risk Management Officer;25/11/2022;31/12/2029
+;Pegawai 1108;Certified Fraud Examiner;09/11/2019;31/12/2029
+;Pegawai 113;Certified Human Resources Specialist;03/07/2018;31/12/2029
+;Pegawai 190;Certified Human Resources Management Professional;04/11/2019;31/12/2029
+;Pegawai 25;Insinyur Professional Madya;27/11/2018;31/12/2029
+;Pegawai 1734;Enterprise Risk Management Associate Professional;20/04/2020;31/12/2029
+;Pegawai 789;Certified Corporate Coach;09/10/2021;31/12/2029
+;Pegawai 1699;Cerified Sustainability Reporting Assurer;22/11/2019;31/12/2029
+;Pegawai 1609;Cellebrite Certified Operator;27/04/2019;31/12/2029
+;Pegawai 1115;Certificate in International Public Sector Accounting Standards;14/11/2018;31/12/2029
+;Pegawai 1027;Certified State Finance Auditor;10/12/2021;31/12/2029
+;Pegawai 786;Cerified Sustainability Reporting Assurer;17/10/2019;31/12/2029
+;Pegawai 1520;Certified Data Centre Professional;11/01/2021;31/12/2029
+;Pegawai 657;Enterprise Risk Management Certified Professional;01/06/2018;31/12/2029
+;Pegawai 999;Cyber Security Foundation Professional;08/03/2022;31/12/2029
+;Pegawai 813;Enterprise Risk Management Certified Professional;10/06/2020;31/12/2029
+;Pegawai 1653;Insinyur Professional Madya;29/03/2022;31/12/2029
+;Pegawai 242;Certified Hacking Forensic Investigator;14/04/2020;31/12/2029
+;Pegawai 509;Enterprise Risk Management Associate Professional;29/05/2022;31/12/2029
+;Pegawai 847;Cerified Sustainability Reporting Assurer;14/01/2021;31/12/2029
+;Pegawai 768;Ahli Akuntansi Pemerintahan;03/07/2020;31/12/2029
+;Pegawai 575;Certified Forensic Auditor;28/01/2019;31/12/2029
+;Pegawai 185;Certified Procurement Specialist;28/03/2021;31/12/2029

@@ -1,0 +1,227 @@
+﻿diklat_id;diklat_nama;diklat_jp;jenis_diklat;tahun_diklat
+1;Diklat Prajabatan - Gol. I;21;Pra-Jabatan;04/09/2021
+2;Diklat Prajabatan - Gol. II;12;Pra-Jabatan;04/02/2021
+3;Diklat Prajabatan - Gol. III;8;Pra-Jabatan;04/03/2021
+4;Diklat Orientasi ke-BPK-an - Gol. II;21;Orientasi Ke-BPK-AN;10/09/2021
+5;Diklat Orientasi ke-BPK-an - Gol. III;16;Orientasi Ke-BPK-AN;17/09/2022
+6;Diklat Orientasi ke-BPK-an - Tenaga Honorer dan Lolos Butuh;18;Orientasi Ke-BPK-AN;19/06/2022
+7;Diklat Kepemimpinan - I;22;Kepemimpinan;27/09/2022
+8;Diklat Kepemimpinan - II;22;Kepemimpinan;18/01/2021
+9;Diklat Kepemimpinan - III;21;Kepemimpinan;24/09/2022
+10;Diklat Kepemimpinan - IV;14;Kepemimpinan;01/11/2022
+11;Analis AnggaranAnalis Kebijakan;11;Fungsional;29/06/2021
+12;Analis KepegawaianAnggota Tim;21;Fungsional;17/06/2021
+13;Auditor Ahli Akuntansi;13;Fungsional;01/08/2021
+14;Auditor Ahli Non Akuntansi;16;Fungsional;02/05/2022
+15;Auditor Ahli-Crash Program;13;Fungsional;22/05/2022
+16;Auditor Terampil Akuntansi;21;Fungsional;14/11/2022
+17;Auditor Terampil Non Akuntansi;19;Fungsional;27/01/2021
+18;Diklat Pembentukan Jabatan Fungsional Lainya (JFL);22;Fungsional;22/03/2022
+19;Diklat Pembentukan Jabatan Fungsional Pemeriksa (JFP);14;Fungsional;03/04/2022
+20;DIKLAT PEMERIKSADiklat Peran Anggota Tim Senior (ATS);17;Fungsional;30/06/2022
+21;Diklat Peran Anggota Tim Yunior (ATY);18;Fungsional;12/04/2021
+22;Diklat Peran Ketua Tim Senior (KTS);9;Fungsional;25/07/2022
+23;Diklat Peran Ketua Tim Yunior (KTY);9;Fungsional;26/04/2022
+24;Diklat Peran Pengendali Mutu (PM);10;Fungsional;13/02/2021
+25;Diklat Peran Pengendali Teknis (PT);8;Fungsional;29/12/2022
+26;Jabatan Fungsional Pranata dan Analis Pengelolaan Keuangan APBN;17;Fungsional;11/08/2022
+27;Pengendali Teknis Yunior;22;Fungsional;28/02/2021
+28;Alih Media Digital;22;Teknis;21/12/2021
+29;Analis Kepegawaian;20;Teknis;20/10/2022
+30;Analisis dan Pengembangan Organisasi;22;Teknis;11/04/2021
+31;Analisis Pemecahan Masalah;10;Teknis;23/12/2021
+32;Aplikasi Perkantoran di BPK;20;Teknis;30/08/2021
+33;Aplikasi Teknologi Informasi dan E-Audit;21;Teknis;06/09/2021
+34;Aspek Hukum dalam Pengadaan Barang dan Jasa;20;Teknis;01/03/2021
+35;Aspek Hukum dalam Pengelolaan Keuangan Negara;14;Teknis;19/05/2022
+36;Aspek Hukum dan Tindak Pidana Korupsi;14;Teknis;19/03/2021
+37;Audit Forensik;19;Teknis;15/04/2021
+38;Bantuan Hukum dalam proses peradilan;16;Teknis;24/10/2022
+39;Berpikir Kritis dan Inovatif;8;Teknis;26/03/2021
+40;Budaya Organisasi;16;Teknis;23/09/2021
+41;Change Management;10;Teknis;27/10/2022
+42;Coaching ;9;Teknis;18/12/2021
+43;Creative Leadership;14;Teknis;17/10/2022
+44;Creative thinking;12;Teknis;06/07/2021
+45;Dasar-dasar Manajemen &amp;17;Teknis;19/08/2022
+46;Digital Forensic;21;Teknis;21/01/2021
+47;e-procurement;19;Teknis;24/05/2022
+48;Effective Communication Skills;22;Teknis;20/07/2021
+49;Effective Government Auditing;21;Teknis;08/01/2021
+50;Effective Leadership;13;Teknis;18/03/2022
+51;Etika Kerja Dalam Membangun Hubungan Kerja (PR);20;Teknis;14/02/2022
+52;Etika Profesi Bidang Telematika;13;Teknis;24/10/2022
+53;Evaluasi terhadap KAP yang memeriksa untuk dan atas nama  BPK dan evaluasi terhadap KAP yang memerik;9;Teknis;13/05/2021
+54;Event Management;19;Teknis;01/12/2022
+55;Fotografi;8;Teknis;11/05/2022
+56;Hukum Acara Pidana, Perdata dan TUN serta Penafsiran Hukum;13;Teknis;10/05/2021
+57;Hukum Pertanahan;10;Teknis;11/05/2021
+58;International Financial Reporting System (IFRS);18;Teknis;18/03/2021
+59;Investasi dan Pasar Modal;8;Teknis;11/05/2021
+60;Kearsipan dan Kesekretariatan;15;Teknis;26/04/2021
+61;Kearsipan Tingkat Lanjut;22;Teknis;27/10/2021
+62;Kehumasan;15;Teknis;01/01/2022
+63;Kepaniteraan Kerugian Negara;12;Teknis;15/05/2022
+64;Keprotokolan;13;Teknis;27/11/2022
+65;Kerugian Negara;14;Teknis;29/10/2022
+66;Komunikasi Kepemimpinan;18;Teknis;02/06/2021
+67;Konseling;20;Teknis;16/05/2021
+68;Korespondensi dan Tata Naskah Kedinasan;22;Teknis;14/12/2021
+69;Korespondensi Modern dan Report Writing;14;Teknis;11/10/2022
+70;Lain-lain;10;Teknis;26/06/2022
+71;Legal Drafting, legal review, &amp;22;Teknis;12/04/2021
+72;Logical Framework Analysis;15;Teknis;01/08/2021
+73;Managing Difficult and Conflict People;17;Teknis;01/02/2021
+74;Manajemen Kediklatan;16;Teknis;13/03/2021
+75;Manajemen Kinerja;17;Teknis;23/10/2021
+76;Manajemen Kompetensi;20;Teknis;22/11/2022
+77;Manajemen Konflik;13;Teknis;12/09/2021
+78;Manajemen Perkantoran;9;Teknis;24/06/2021
+79;Manajemen Perpustakaan;12;Teknis;27/11/2022
+80;Manajemen TI;13;Teknis;17/09/2022
+81;Master of Ceremony;16;Teknis;06/01/2021
+82;Media Handling;18;Teknis;05/03/2021
+83;Metode Penelitian Sosial;17;Teknis;23/11/2022
+84;Microsoft Excel;11;Teknis;19/06/2021
+85;Monitoring dan Evaluasi Kinerja RKA (PMK 249/2011);22;Teknis;02/12/2022
+86;NLP;11;Teknis;28/09/2022
+87;Oracle Database;11;Teknis;27/06/2022
+88;Pelatihan Lanjutan Satpam Gada Madya;19;Teknis;05/10/2022
+89;Pelayanan Prima;22;Teknis;09/06/2021
+90;Pemahaman Entitas dan Penentuan Area Potensial;10;Teknis;30/01/2022
+91;Pemasaran Sektor Publik;21;Teknis;14/12/2021
+92;Pembentukan Instruktur;10;Teknis;16/06/2021
+93;Pemberian Keterangan ahli;8;Teknis;10/05/2022
+94;Pemberian keterangan ahli;10;Teknis;12/10/2022
+95;Pemberian Pendapat Hukum dan Konsultasi Hukum;11;Teknis;09/11/2022
+96;Pemeriksaan Area Kunci;19;Teknis;24/12/2021
+97;Pemeriksaan Aset dan Investasi;9;Teknis;17/12/2021
+98;Pemeriksaan aset kawasan industri;10;Teknis;18/06/2021
+99;Pemeriksaan Aset Tetap;15;Teknis;07/12/2022
+100;Pemeriksaan Atas Laporan Keuangan;16;Teknis;27/08/2021
+101;Pemeriksaan Badan Layanan Umum (BLU);12;Teknis;24/05/2022
+102;Pemeriksaan Badan Usaha Milik Daerah (BUMD);15;Teknis;15/01/2021
+103;Pemeriksaan Belanja Daerah;15;Teknis;20/10/2022
+104;Pemeriksaan Belanja Modal dan Aset Tetap;8;Teknis;10/12/2022
+105;Pemeriksaan Bencana;12;Teknis;22/10/2021
+106;Pemeriksaan Berprespektif Lingkungan;18;Teknis;15/04/2022
+107;Pemeriksaan bisnis minyak dan gas (dan aspek perpajakannya);12;Teknis;26/05/2021
+108;Pemeriksaan dana bergulir;21;Teknis;23/06/2022
+109;Pemeriksaan Infrastruktur ;8;Teknis;03/08/2021
+110;Pemeriksaan investigatif;19;Teknis;09/05/2021
+111;Pemeriksaan Kas;10;Teknis;05/05/2021
+112;Pemeriksaan kinerja;13;Teknis;26/08/2021
+113;Pemeriksaan Kinerja  AT;20;Teknis;16/07/2021
+114;Pemeriksaan Kinerja Executive;15;Teknis;12/08/2022
+115;Pemeriksaan Kinerja KT;9;Teknis;14/09/2021
+116;Pemeriksaan Laporan Keuangan Pemerintah;12;Teknis;19/02/2021
+117;Pemeriksaan Laporan Keuangan Pemerintah Daerah (LKPD) Berbasis Akrual;21;Teknis;07/07/2021
+118;Pemeriksaan Lingkungan (pengelolaan rawa);12;Teknis;15/10/2022
+119;Pemeriksaan LKPD AT;16;Teknis;27/05/2021
+120;Pemeriksaan LKPD KT;20;Teknis;22/02/2022
+121;Pemeriksaan Manajemen Kas;14;Teknis;30/12/2021
+122;Pemeriksaan Operasional Perbankan;21;Teknis;31/05/2021
+123;Pemeriksaan pajak BUMN jasa karya;13;Teknis;17/08/2021
+124;Pemeriksaan Pasca Tambang;10;Teknis;03/07/2021
+125;Pemeriksaan PBJ;17;Teknis;12/01/2022
+126;Pemeriksaan Pendapatan ;15;Teknis;02/03/2022
+127;Pemeriksaan Pendapatan Daerah;10;Teknis;08/04/2021
+128;Pemeriksaan Pendapatan Pajak Minerba;10;Teknis;22/01/2022
+129;Pemeriksaan Pengadaan Barang dan Jasa;22;Teknis;17/01/2022
+130;Pemeriksaan PNBP dan lingkungan mineral dan pertambangan;9;Teknis;25/03/2021
+131;Pemeriksaan Terumbu Karang;16;Teknis;03/11/2021
+132;Pemrograman Berbasis Web dan Desktop;9;Teknis;22/07/2022
+133;Penanganan massa;16;Teknis;02/07/2021
+134;Penetapan Kriteria;14;Teknis;31/08/2021
+135;Pengadaan Barang dan Jasa;17;Teknis;29/05/2022
+136;Pengadaan barang dan jasa tingkat menengah;9;Teknis;26/12/2021
+137;Pengadaan infrastruktur;13;Teknis;04/01/2022
+138;Penganggaran Berbasis Kinerja;16;Teknis;05/06/2021
+139;Pengelolaan Aset Negara (BMN);12;Teknis;13/02/2022
+140;Pengelolaan dan Penggunaan Kantor Akuntan Publik (KAP);8;Teknis;13/02/2021
+141;Pengelolaan Informasi Publik;8;Teknis;01/11/2022
+142;Pengelolaan Jaringan;11;Teknis;13/06/2021
+143;Pengelolaan keuangan strategis;15;Teknis;09/05/2021
+144;Pengelolaan Perpustakaan;8;Teknis;08/08/2022
+145;Pengelolaan Website dan Sosial Media;8;Teknis;21/12/2021
+146;Penghitungan Kerugian Negara/Daerah;15;Teknis;06/02/2022
+147;Penginderaan Jauh (GIS);21;Teknis;20/09/2021
+148;Penilaian angka kredit JFP;20;Teknis;23/04/2022
+149;Penilaian Aset;9;Teknis;30/01/2022
+150;Penilaian Risiko Kecurangan dalam Pemeriksaan LKPD;8;Teknis;16/06/2022
+151;Penilaian Sistem Pengendalian Intern;19;Teknis;18/03/2022
+152;Peningkatan Kapasitas Pengelola Museum BPK RI;21;Teknis;17/05/2022
+153;Penjaminan Mutu Pemeriksaan;18;Teknis;05/10/2022
+154;Penulisan Hasil Penelitian;21;Teknis;23/11/2021
+155;Penulisan Kajian;22;Teknis;12/11/2021
+156;Penulisan Laporan (Gaya Selingkung), Kodering Temuan dan Penyusunan KKP;12;Teknis;23/06/2022
+157;Penulisan Pendapat Hukum;22;Teknis;13/04/2022
+158;Penulisan Populer dan Infografis;16;Teknis;24/05/2022
+159;Penyusunan dan analisa kontrak di lingkungan Pemerintahan;13;Teknis;17/11/2022
+160;Penyusunan dan Analisis Kontrak;8;Teknis;26/01/2021
+161;Penyusunan dan revisi anggaran RKA-KL;21;Teknis;06/04/2021
+162;Penyusunan Laporan Keuangan;12;Teknis;03/07/2022
+163;Penyusunan Naskah Pidato;16;Teknis;27/02/2022
+164;Penyusunan Prosedur Operasional Standar (POS);17;Teknis;12/01/2021
+165;Perencanaan Pengadaan;8;Teknis;13/12/2021
+166;Perencanaan Strategis;18;Teknis;08/03/2022
+167;Perpajakan bagi bendahara;20;Teknis;24/02/2022
+168;Persiapan Pemeriksaan Laporan Keuangan Pemerintah Daerah (LKPD) Berbasis Akrual;19;Teknis;12/08/2021
+169;Perumusan Opini;9;Teknis;11/08/2021
+170;PPSPM Negara Tersertifikasi;11;Teknis;19/07/2022
+171;Professional Image Grooming;8;Teknis;23/11/2021
+172;Project Management;11;Teknis;17/04/2022
+173;Prosedur Analitis;15;Teknis;11/10/2021
+174;Psikologi Pemeriksaan;22;Teknis;09/11/2022
+175;Public Speaking;11;Teknis;21/11/2021
+176;Rencana Pengembangan Individu;15;Teknis;01/01/2022
+177;Review CFE;20;Teknis;26/12/2021
+178;Reviu Opini atas LHP LK;13;Teknis;21/06/2022
+179;Reviu pengadaan barang dan jasa;19;Teknis;23/12/2022
+180;Risk Based Audit ;12;Teknis;10/01/2022
+181;Risk Based Audit dan SIAP LKPD;13;Teknis;14/06/2022
+182;SAP dan Reviu LKPD;8;Teknis;04/06/2021
+183;Sekretariat Tim Penilai Angka Kredit JFP;21;Teknis;08/02/2022
+184;Self Motivation Skill;16;Teknis;25/11/2021
+185;Sertifikasi Asesor;10;Teknis;07/04/2022
+186;Sertifikasi Bendahara Pengeluaran;17;Teknis;04/10/2021
+187;Sertifikasi konselor;14;Teknis;15/09/2022
+188;Sertifikasi Pengadaan Barang dan Jasa;14;Teknis;05/08/2022
+189;Sertifikat Kompetensi;21;Teknis;05/04/2021
+190;SIAP LKPD;9;Teknis;28/04/2022
+191;Sistem Akuntansi Pemerintah Daerah;21;Teknis;23/05/2021
+192;Sistem aplikasi di bidang keuangan dan penyusunan laporan;19;Teknis;04/03/2022
+193;Sistem Aplikasi Pemeriksaan (SiAP) LK;19;Teknis;26/03/2022
+194;Sistem aplikasi pengelolaan SDM;21;Teknis;12/04/2021
+195;Sistem Kendali Kecurangan;17;Teknis;23/02/2021
+196;Sistem Pengelolaan Keuangan Pemerintah Daerah (SPKPD);13;Teknis;03/02/2022
+197;Sistem Pengelolaan Keuangan Pemerintah Pusat (SPKPP);21;Teknis;10/08/2022
+198;Speed reading and mind mapping;19;Teknis;22/09/2022
+199;SPKPP;8;Teknis;31/10/2021
+200;Standar Akuntansi Pemerintahan;14;Teknis;13/10/2021
+201;Standar Kompetensi dan Evaluasi Jabatan;21;Teknis;11/04/2022
+202;Statistik (metode pengembangan tools);9;Teknis;21/04/2021
+203;Strategic HRM;17;Teknis;06/08/2022
+204;Stress Management;22;Teknis;23/12/2022
+205;TABK (ACL, Arbutus, IDEA, Excel);15;Teknis;26/05/2021
+206;TABK Excel;10;Teknis;10/10/2021
+207;TABK LKKL;17;Teknis;04/05/2022
+208;TABK SIMDA;15;Teknis;01/08/2021
+209;TABK-ACL;15;Teknis;18/02/2021
+210;TABK-Arbutus;15;Teknis;21/08/2021
+211;TABK-KPPN;10;Teknis;26/07/2022
+212;TABK-SAI;21;Teknis;14/11/2022
+213;Teknik Interviu dan FGD;9;Teknis;03/10/2021
+214;Teknik Membaca Cepat;20;Teknis;22/12/2022
+215;Teknik Negosiasi;8;Teknis;11/09/2021
+216;Teknik Pengumpulan dan Analisis Bukti Pemeriksaan Investigatif;21;Teknis;06/05/2022
+217;Teknik Sampling;11;Teknis;12/08/2021
+218;Teknik Wawancara;8;Teknis;27/11/2021
+219;Teknik Wawancara dan SIAP LKPD;13;Teknis;04/02/2022
+220;Teknik Wawancara Forensik;21;Teknis;12/07/2021
+221;Workshop;13;Teknis;03/06/2022
+222;Workshop persiapan pemeriksaan LK Kemenkumham, Polri dan Kejaksaan;22;Teknis;19/01/2022
+223;Workshop persiapan pemeriksaan LKPP/LKKL;11;Teknis;22/08/2022
+224;Workshop persiapan pemeriksaan tematik atas Kinerja APIP;18;Teknis;01/03/2022
+225;Workshop persiapan pemeriksaan tematik Program Keluarga Harapan;13;Teknis;20/03/2022
+226;Penataran P4;11;P4;22/09/2021

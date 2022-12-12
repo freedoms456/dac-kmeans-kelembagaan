@@ -1,0 +1,2003 @@
+﻿pegawai_id;pegawai_nama;pegawai_pendidikan;jabatan_nama;diklat;sertifikasi;bahasa;tpa;nilai_skp
+1;Pegawai 0;S2;Analis Kepegawaian Pertama ;3;5;3;509;93
+2;Pegawai 1;S2;Pemeriksa Pertama;2;4;3;435;84
+3;Pegawai 2;S2;Analis Pengelolaan Keuangan APBN Pertama ;2;3;3;745;92
+4;Pegawai 3;S2;Analis Kepegawaian Pertama ;5;4;1;698;70
+5;Pegawai 4;S2;Pranata Komputer Pertama ;2;3;1;492;99
+6;Pegawai 5;D4;Analis Pengelolaan Keuangan APBN Pertama ;2;5;3;754;93
+7;Pegawai 6;D4;Pranata Komputer Pertama ;4;2;2;638;85
+8;Pegawai 7;S1;Pemeriksa Utama;5;1;2;761;76
+9;Pegawai 8;D4;Pemeriksa Utama;3;2;2;690;82
+10;Pegawai 9;S2;Pranata Komputer Muda ;1;4;1;659;95
+11;Pegawai 10;D4;Pemeriksa Madya;5;4;2;728;87
+12;Pegawai 11;S2;Analis Pengelolaan Keuangan APBN Muda ;2;4;3;567;92
+13;Pegawai 12;S1;Pranata Komputer Muda ;2;4;3;402;85
+14;Pegawai 13;S1;Pemeriksa Utama;3;3;3;406;87
+15;Pegawai 14;S2;Analis Pengelolaan Keuangan APBN Muda ;2;5;2;675;95
+16;Pegawai 15;D4;Analis Pengelolaan Keuangan APBN Pertama ;5;2;1;578;99
+17;Pegawai 16;S1;Analis Pengelolaan Keuangan APBN Pertama ;4;3;2;610;74
+18;Pegawai 17;S1;Pranata Keuangan APBN Penyelia ;2;3;3;705;78
+19;Pegawai 18;D4;Pemeriksa Muda;5;4;2;793;74
+20;Pegawai 19;D4;Pemeriksa Muda;4;1;1;580;72
+21;Pegawai 20;D4;Pranata Keuangan APBN Penyelia ;4;4;3;677;70
+22;Pegawai 21;D4;Analis Pengelolaan Keuangan APBN Pertama ;1;1;2;553;97
+23;Pegawai 22;S2;Pranata Keuangan APBN Penyelia ;3;2;1;592;81
+24;Pegawai 23;S2;Pemeriksa Madya;4;1;1;795;81
+25;Pegawai 24;S1;Analis Kepegawaian Pertama ;3;5;3;746;97
+26;Pegawai 25;S2;Analis Pengelolaan Keuangan APBN Muda ;3;2;1;518;92
+27;Pegawai 26;D4;Pemeriksa Madya;3;4;2;634;73
+28;Pegawai 27;S2;Pranata Komputer Terampil ;3;5;1;461;74
+29;Pegawai 28;S1;Pranata Komputer Terampil ;3;5;1;545;92
+30;Pegawai 29;D4;Pemeriksa Muda;3;3;1;593;87
+31;Pegawai 30;D4;Analis Pengelolaan Keuangan APBN Pertama ;1;3;2;678;93
+32;Pegawai 31;D4;Analis Pengelolaan Keuangan APBN Pertama ;5;1;1;550;86
+33;Pegawai 32;D4;Pemeriksa Utama;5;2;1;548;82
+34;Pegawai 33;D4;Pranata Keuangan APBN Mahir ;3;2;3;773;86
+35;Pegawai 34;S1;Pranata Keuangan APBN Mahir ;5;2;2;591;76
+36;Pegawai 35;S1;Analis Pengelolaan Keuangan APBN Muda ;5;3;1;583;86
+37;Pegawai 36;D4;Analis Kepegawaian Muda ;3;2;2;629;98
+38;Pegawai 37;S1;Pranata Keuangan APBN Terampil ;3;5;1;439;80
+39;Pegawai 38;S2;Pranata Keuangan APBN Penyelia ;4;1;2;670;71
+40;Pegawai 39;D4;Pranata Keuangan APBN Terampil ;5;4;1;710;85
+41;Pegawai 40;D4;Arsiparis Muda ;4;5;1;420;74
+42;Pegawai 41;D4;Pranata Komputer Muda ;2;4;3;401;82
+43;Pegawai 42;S1;Pranata Keuangan APBN Mahir ;2;2;2;620;96
+44;Pegawai 43;D4;Pranata Komputer Muda ;2;5;3;723;87
+45;Pegawai 44;S1;Analis Pengelolaan Keuangan APBN Muda ;4;5;3;642;92
+46;Pegawai 45;S1;Pranata Keuangan APBN Terampil ;3;3;1;691;98
+47;Pegawai 46;S1;Pranata Komputer Terampil ;4;2;2;710;85
+48;Pegawai 47;D4;Analis Kepegawaian Muda ;3;2;3;645;76
+49;Pegawai 48;S1;Analis Kepegawaian Pertama ;5;1;1;665;90
+50;Pegawai 49;S1;Analis Kepegawaian Pertama ;1;4;2;532;88
+51;Pegawai 50;S1;Analis Pengelolaan Keuangan APBN Pertama ;1;3;1;425;91
+52;Pegawai 51;S1;Analis Kepegawaian Pertama ;5;5;3;455;79
+53;Pegawai 52;S2;Pranata Keuangan APBN Mahir ;3;4;3;547;89
+54;Pegawai 53;S2;Pemeriksa Muda;4;2;3;622;94
+55;Pegawai 54;S2;Pranata Komputer Muda ;3;5;1;708;74
+56;Pegawai 55;D4;Pemeriksa Muda;2;4;1;486;73
+57;Pegawai 56;D4;Analis Kepegawaian Pertama ;5;1;3;782;89
+58;Pegawai 57;D4;Pemeriksa Madya;3;3;2;604;94
+59;Pegawai 58;S1;Arsiparis Muda ;4;1;3;781;99
+60;Pegawai 59;S1;Analis Pengelolaan Keuangan APBN Pertama ;5;3;2;630;91
+61;Pegawai 60;S1;Pranata Komputer Muda ;3;3;3;658;81
+62;Pegawai 61;S1;Pranata Keuangan APBN Penyelia ;4;5;1;516;93
+63;Pegawai 62;S2;Pranata Keuangan APBN Penyelia ;4;5;1;798;82
+64;Pegawai 63;S2;Analis Kepegawaian Muda ;5;3;1;514;92
+65;Pegawai 64;S1;Pranata Keuangan APBN Mahir ;3;1;2;751;73
+66;Pegawai 65;S2;Pemeriksa Pertama;1;5;2;625;70
+67;Pegawai 66;S2;Analis Pengelolaan Keuangan APBN Pertama ;4;5;2;701;92
+68;Pegawai 67;S2;Analis Kepegawaian Muda ;5;4;2;519;83
+69;Pegawai 68;S1;Pemeriksa Utama;2;4;3;779;90
+70;Pegawai 69;D4;Pemeriksa Utama;3;5;2;660;73
+71;Pegawai 70;S2;Pemeriksa Utama;5;3;1;667;96
+72;Pegawai 71;D4;Analis Pengelolaan Keuangan APBN Pertama ;4;1;1;728;74
+73;Pegawai 72;S1;Analis Pengelolaan Keuangan APBN Muda ;1;1;1;411;95
+74;Pegawai 73;S1;Analis Pengelolaan Keuangan APBN Muda ;4;4;1;700;80
+75;Pegawai 74;S2;Analis Kepegawaian Pertama ;5;4;2;654;85
+76;Pegawai 75;S2;Pranata Komputer Terampil ;1;5;3;442;86
+77;Pegawai 76;S1;Pranata Keuangan APBN Mahir ;3;4;3;639;92
+78;Pegawai 77;S2;Pemeriksa Madya;1;5;2;532;92
+79;Pegawai 78;D4;Pranata Komputer Muda ;4;3;1;679;80
+80;Pegawai 79;S1;Analis Pengelolaan Keuangan APBN Muda ;1;3;1;502;88
+81;Pegawai 80;S1;Pemeriksa Pertama;3;3;1;659;93
+82;Pegawai 81;S1;Pranata Komputer Muda ;4;2;3;793;87
+83;Pegawai 82;D4;Analis Kepegawaian Pertama ;4;4;2;434;96
+84;Pegawai 83;S1;Analis Kepegawaian Muda ;1;3;2;704;80
+85;Pegawai 84;S2;Pranata Keuangan APBN Mahir ;2;1;3;538;76
+86;Pegawai 85;S1;Pranata Keuangan APBN Penyelia ;1;5;3;698;74
+87;Pegawai 86;D4;Arsiparis Muda ;4;4;2;525;82
+88;Pegawai 87;S2;Pranata Komputer Muda ;4;1;1;667;81
+89;Pegawai 88;S1;Analis Kepegawaian Muda ;4;1;2;798;71
+90;Pegawai 89;D4;Analis Kepegawaian Muda ;4;4;3;470;78
+91;Pegawai 90;S1;Pranata Komputer Muda ;5;4;2;730;91
+92;Pegawai 91;S2;Pranata Keuangan APBN Mahir ;5;2;2;609;91
+93;Pegawai 92;S2;Analis Pengelolaan Keuangan APBN Pertama ;1;4;2;608;78
+94;Pegawai 93;S2;Analis Pengelolaan Keuangan APBN Pertama ;5;5;3;735;84
+95;Pegawai 94;D4;Analis Kepegawaian Pertama ;4;1;2;578;93
+96;Pegawai 95;D4;Pranata Komputer Terampil ;5;1;2;721;83
+97;Pegawai 96;D4;Analis Kepegawaian Pertama ;2;3;3;753;80
+98;Pegawai 97;D4;Pemeriksa Muda;4;1;1;678;85
+99;Pegawai 98;S1;Pranata Komputer Pertama ;3;1;3;794;93
+100;Pegawai 99;D4;Analis Pengelolaan Keuangan APBN Pertama ;3;5;3;559;97
+101;Pegawai 100;D4;Analis Kepegawaian Muda ;2;1;1;637;94
+102;Pegawai 101;S1;Analis Kepegawaian Muda ;1;4;2;730;92
+103;Pegawai 102;S1;Arsiparis Muda ;2;3;1;665;78
+104;Pegawai 103;S2;Pemeriksa Utama;4;5;2;799;93
+105;Pegawai 104;S2;Analis Kepegawaian Muda ;4;5;2;685;79
+106;Pegawai 105;S2;Arsiparis Muda ;3;3;1;780;85
+107;Pegawai 106;S1;Pranata Komputer Pertama ;4;3;3;482;82
+108;Pegawai 107;S2;Pemeriksa Madya;3;3;2;668;87
+109;Pegawai 108;D4;Analis Kepegawaian Muda ;1;2;3;498;94
+110;Pegawai 109;D4;Pranata Keuangan APBN Mahir ;4;3;1;621;77
+111;Pegawai 110;S2;Pemeriksa Pertama;4;1;3;669;70
+112;Pegawai 111;S1;Pemeriksa Pertama;5;2;1;619;89
+113;Pegawai 112;S1;Analis Kepegawaian Pertama ;4;2;2;648;90
+114;Pegawai 113;D4;Pemeriksa Madya;3;2;2;674;81
+115;Pegawai 114;S1;Pemeriksa Pertama;4;4;1;679;95
+116;Pegawai 115;S2;Analis Kepegawaian Pertama ;3;5;3;768;79
+117;Pegawai 116;S1;Pranata Keuangan APBN Mahir ;3;1;1;459;72
+118;Pegawai 117;S1;Analis Pengelolaan Keuangan APBN Pertama ;1;5;1;421;76
+119;Pegawai 118;S2;Analis Kepegawaian Muda ;1;3;1;709;70
+120;Pegawai 119;S1;Pranata Keuangan APBN Penyelia ;3;1;2;613;94
+121;Pegawai 120;D4;Pranata Keuangan APBN Penyelia ;4;4;1;721;99
+122;Pegawai 121;D4;Pranata Keuangan APBN Terampil ;4;2;3;604;71
+123;Pegawai 122;D4;Pemeriksa Madya;2;3;3;541;71
+124;Pegawai 123;S1;Analis Kepegawaian Pertama ;1;1;1;642;72
+125;Pegawai 124;D4;Pemeriksa Utama;2;1;1;695;84
+126;Pegawai 125;S1;Arsiparis Muda ;4;5;3;635;76
+127;Pegawai 126;D4;Pemeriksa Madya;3;3;2;616;87
+128;Pegawai 127;S2;Pemeriksa Madya;5;5;3;417;88
+129;Pegawai 128;S1;Pranata Keuangan APBN Mahir ;5;5;1;634;72
+130;Pegawai 129;D4;Arsiparis Muda ;4;1;2;408;96
+131;Pegawai 130;S1;Pemeriksa Utama;4;5;3;487;93
+132;Pegawai 131;S2;Analis Pengelolaan Keuangan APBN Pertama ;5;4;1;566;93
+133;Pegawai 132;D4;Analis Kepegawaian Pertama ;4;2;1;406;74
+134;Pegawai 133;S2;Analis Pengelolaan Keuangan APBN Pertama ;1;3;3;446;87
+135;Pegawai 134;D4;Pranata Keuangan APBN Terampil ;1;3;3;587;70
+136;Pegawai 135;D4;Pranata Keuangan APBN Penyelia ;4;1;1;761;71
+137;Pegawai 136;S1;Analis Pengelolaan Keuangan APBN Pertama ;1;3;3;420;79
+138;Pegawai 137;S1;Pranata Komputer Pertama ;4;2;1;460;79
+139;Pegawai 138;D4;Arsiparis Muda ;3;5;2;426;82
+140;Pegawai 139;S1;Pranata Keuangan APBN Penyelia ;2;2;3;757;75
+141;Pegawai 140;S1;Pemeriksa Muda;1;1;1;768;71
+142;Pegawai 141;D4;Pemeriksa Madya;3;5;3;488;73
+143;Pegawai 142;S2;Arsiparis Muda ;1;2;2;754;92
+144;Pegawai 143;S1;Pemeriksa Utama;4;4;2;639;89
+145;Pegawai 144;S1;Pranata Komputer Muda ;4;5;3;545;87
+146;Pegawai 145;S2;Pemeriksa Pertama;1;1;3;530;89
+147;Pegawai 146;S1;Pranata Keuangan APBN Mahir ;5;2;2;720;90
+148;Pegawai 147;S2;Pranata Keuangan APBN Terampil ;3;4;2;556;87
+149;Pegawai 148;S2;Pemeriksa Muda;2;1;1;567;80
+150;Pegawai 149;S1;Arsiparis Muda ;1;5;2;552;96
+151;Pegawai 150;D4;Analis Kepegawaian Pertama ;3;5;3;599;74
+152;Pegawai 151;D4;Pranata Keuangan APBN Terampil ;2;5;2;616;90
+153;Pegawai 152;S2;Pemeriksa Utama;2;4;3;788;88
+154;Pegawai 153;S1;Analis Pengelolaan Keuangan APBN Pertama ;2;4;3;762;77
+155;Pegawai 154;S2;Pranata Keuangan APBN Terampil ;5;3;3;735;77
+156;Pegawai 155;S2;Analis Kepegawaian Pertama ;1;1;1;660;97
+157;Pegawai 156;D4;Pranata Keuangan APBN Penyelia ;3;1;1;733;70
+158;Pegawai 157;S1;Analis Pengelolaan Keuangan APBN Pertama ;3;2;1;430;78
+159;Pegawai 158;S1;Pemeriksa Muda;3;2;2;730;95
+160;Pegawai 159;S2;Pemeriksa Pertama;4;4;2;496;98
+161;Pegawai 160;S2;Pemeriksa Madya;5;5;2;621;77
+162;Pegawai 161;D4;Pranata Komputer Terampil ;2;4;2;471;86
+163;Pegawai 162;S1;Analis Pengelolaan Keuangan APBN Muda ;5;5;2;786;73
+164;Pegawai 163;D4;Pranata Komputer Pertama ;2;5;3;682;98
+165;Pegawai 164;S1;Pranata Komputer Muda ;5;4;3;621;91
+166;Pegawai 165;S2;Pranata Komputer Terampil ;5;3;2;621;94
+167;Pegawai 166;D4;Analis Kepegawaian Muda ;2;1;3;754;71
+168;Pegawai 167;S2;Arsiparis Muda ;1;3;3;632;80
+169;Pegawai 168;S2;Pranata Komputer Muda ;3;4;2;665;78
+170;Pegawai 169;S1;Pranata Komputer Terampil ;5;5;3;455;87
+171;Pegawai 170;S1;Pranata Komputer Pertama ;4;1;2;753;97
+172;Pegawai 171;S2;Pranata Keuangan APBN Penyelia ;5;3;1;556;76
+173;Pegawai 172;S2;Pranata Komputer Terampil ;4;1;2;714;72
+174;Pegawai 173;D4;Pranata Keuangan APBN Mahir ;1;4;2;787;74
+175;Pegawai 174;S1;Pranata Keuangan APBN Mahir ;2;5;2;522;74
+176;Pegawai 175;D4;Pemeriksa Madya;5;5;2;583;87
+177;Pegawai 176;S2;Pemeriksa Madya;5;1;3;694;99
+178;Pegawai 177;D4;Pemeriksa Muda;1;5;1;468;86
+179;Pegawai 178;S2;Pemeriksa Utama;4;3;2;459;95
+180;Pegawai 179;S2;Analis Kepegawaian Pertama ;4;3;3;530;76
+181;Pegawai 180;S2;Pemeriksa Utama;4;4;1;431;82
+182;Pegawai 181;S2;Pemeriksa Madya;5;1;2;745;84
+183;Pegawai 182;S1;Pranata Keuangan APBN Penyelia ;1;1;3;716;91
+184;Pegawai 183;S2;Arsiparis Muda ;3;5;3;701;77
+185;Pegawai 184;S1;Analis Kepegawaian Pertama ;4;2;2;503;91
+186;Pegawai 185;S1;Pranata Keuangan APBN Penyelia ;5;4;1;421;82
+187;Pegawai 186;D4;Analis Pengelolaan Keuangan APBN Pertama ;4;1;2;567;72
+188;Pegawai 187;D4;Pranata Keuangan APBN Mahir ;2;1;3;661;70
+189;Pegawai 188;D4;Pemeriksa Utama;2;3;3;544;88
+190;Pegawai 189;S2;Pemeriksa Utama;3;3;1;774;73
+191;Pegawai 190;S2;Analis Kepegawaian Muda ;5;1;2;461;80
+192;Pegawai 191;D4;Pranata Keuangan APBN Terampil ;1;3;2;482;91
+193;Pegawai 192;D4;Pemeriksa Utama;4;4;3;567;79
+194;Pegawai 193;D4;Analis Pengelolaan Keuangan APBN Pertama ;3;1;1;604;77
+195;Pegawai 194;S1;Pranata Keuangan APBN Terampil ;4;1;1;643;83
+196;Pegawai 195;D4;Arsiparis Muda ;3;3;2;672;95
+197;Pegawai 196;S1;Pranata Keuangan APBN Penyelia ;1;5;1;738;74
+198;Pegawai 197;D4;Pranata Komputer Terampil ;3;5;1;779;91
+199;Pegawai 198;D4;Analis Pengelolaan Keuangan APBN Muda ;5;2;3;440;74
+200;Pegawai 199;D4;Pranata Keuangan APBN Mahir ;2;5;1;659;91
+201;Pegawai 200;S2;Pranata Keuangan APBN Terampil ;1;2;3;537;93
+202;Pegawai 201;S1;Analis Pengelolaan Keuangan APBN Muda ;1;5;1;469;75
+203;Pegawai 202;S2;Pranata Komputer Muda ;1;5;1;421;87
+204;Pegawai 203;D4;Analis Kepegawaian Muda ;1;5;1;728;88
+205;Pegawai 204;D4;Pranata Keuangan APBN Mahir ;1;3;3;559;83
+206;Pegawai 205;S2;Pranata Komputer Muda ;4;4;1;437;79
+207;Pegawai 206;S1;Analis Kepegawaian Pertama ;2;5;2;789;99
+208;Pegawai 207;D4;Analis Kepegawaian Muda ;2;3;2;743;92
+209;Pegawai 208;D4;Pranata Komputer Terampil ;1;4;2;429;71
+210;Pegawai 209;D4;Analis Kepegawaian Pertama ;5;4;1;771;88
+211;Pegawai 210;S2;Pranata Komputer Terampil ;2;2;3;722;92
+212;Pegawai 211;D4;Pranata Komputer Pertama ;1;3;1;491;81
+213;Pegawai 212;D4;Arsiparis Muda ;1;5;3;699;82
+214;Pegawai 213;D4;Arsiparis Muda ;4;4;1;763;88
+215;Pegawai 214;D4;Pemeriksa Pertama;5;3;2;544;77
+216;Pegawai 215;D4;Pemeriksa Utama;5;4;2;441;75
+217;Pegawai 216;S1;Analis Kepegawaian Pertama ;1;4;2;759;99
+218;Pegawai 217;S1;Pranata Keuangan APBN Terampil ;2;3;1;758;71
+219;Pegawai 218;S2;Pranata Komputer Pertama ;4;1;1;452;98
+220;Pegawai 219;D4;Analis Kepegawaian Pertama ;4;5;2;463;74
+221;Pegawai 220;S2;Pranata Komputer Terampil ;3;4;2;689;94
+222;Pegawai 221;D4;Pranata Komputer Pertama ;2;4;2;483;97
+223;Pegawai 222;S1;Analis Pengelolaan Keuangan APBN Muda ;1;1;2;488;82
+224;Pegawai 223;S2;Arsiparis Muda ;1;3;3;709;88
+225;Pegawai 224;S2;Pranata Komputer Pertama ;3;3;1;714;73
+226;Pegawai 225;S2;Analis Kepegawaian Muda ;2;1;1;537;74
+227;Pegawai 226;D4;Analis Kepegawaian Muda ;2;5;1;723;92
+228;Pegawai 227;D4;Pemeriksa Pertama;1;3;1;793;70
+229;Pegawai 228;D4;Analis Kepegawaian Muda ;4;4;1;725;99
+230;Pegawai 229;D4;Pranata Keuangan APBN Mahir ;1;1;1;578;86
+231;Pegawai 230;S1;Pemeriksa Madya;4;4;1;499;77
+232;Pegawai 231;S2;Pranata Keuangan APBN Mahir ;2;1;1;698;95
+233;Pegawai 232;D4;Pemeriksa Muda;5;1;3;530;85
+234;Pegawai 233;D4;Pemeriksa Utama;4;3;2;663;72
+235;Pegawai 234;S2;Pranata Keuangan APBN Terampil ;3;1;2;502;88
+236;Pegawai 235;S1;Analis Pengelolaan Keuangan APBN Pertama ;2;4;1;552;96
+237;Pegawai 236;D4;Pranata Komputer Terampil ;1;3;3;630;71
+238;Pegawai 237;S1;Pranata Komputer Muda ;5;3;3;490;82
+239;Pegawai 238;D4;Pranata Keuangan APBN Penyelia ;2;1;1;783;86
+240;Pegawai 239;S1;Pranata Komputer Muda ;5;3;3;782;72
+241;Pegawai 240;S2;Pranata Keuangan APBN Mahir ;2;3;1;721;90
+242;Pegawai 241;S2;Analis Pengelolaan Keuangan APBN Muda ;1;1;3;590;82
+243;Pegawai 242;D4;Pranata Komputer Muda ;4;4;3;610;99
+244;Pegawai 243;D4;Analis Pengelolaan Keuangan APBN Pertama ;5;4;1;605;78
+245;Pegawai 244;S1;Analis Kepegawaian Pertama ;1;2;2;505;76
+246;Pegawai 245;D4;Pranata Keuangan APBN Mahir ;2;2;1;413;79
+247;Pegawai 246;S2;Arsiparis Muda ;3;1;2;490;71
+248;Pegawai 247;S1;Analis Kepegawaian Pertama ;5;1;3;453;84
+249;Pegawai 248;S2;Pemeriksa Pertama;3;1;2;567;99
+250;Pegawai 249;D4;Pranata Komputer Terampil ;3;1;2;632;97
+251;Pegawai 250;S1;Analis Kepegawaian Pertama ;2;3;2;556;93
+252;Pegawai 251;S1;Arsiparis Muda ;5;1;2;585;77
+253;Pegawai 252;S2;Pemeriksa Pertama;5;1;3;720;81
+254;Pegawai 253;S1;Pemeriksa Pertama;4;1;3;494;83
+255;Pegawai 254;S1;Pemeriksa Pertama;2;4;3;618;94
+256;Pegawai 255;S1;Pemeriksa Muda;1;3;3;443;89
+257;Pegawai 256;S2;Pemeriksa Pertama;2;4;3;742;70
+258;Pegawai 257;S2;Pranata Komputer Muda ;5;5;3;686;86
+259;Pegawai 258;S1;Pemeriksa Pertama;4;4;3;749;72
+260;Pegawai 259;S1;Pranata Keuangan APBN Penyelia ;5;1;3;687;70
+261;Pegawai 260;S1;Pranata Komputer Pertama ;2;3;2;508;87
+262;Pegawai 261;S2;Pranata Komputer Muda ;4;5;2;496;80
+263;Pegawai 262;D4;Arsiparis Muda ;3;5;2;461;95
+264;Pegawai 263;S2;Arsiparis Muda ;2;1;2;588;74
+265;Pegawai 264;S2;Pemeriksa Pertama;2;4;3;459;80
+266;Pegawai 265;S1;Analis Kepegawaian Pertama ;4;2;2;574;81
+267;Pegawai 266;S2;Pranata Keuangan APBN Penyelia ;5;1;3;643;78
+268;Pegawai 267;S1;Arsiparis Muda ;4;5;3;607;72
+269;Pegawai 268;D4;Pemeriksa Madya;2;3;3;592;95
+270;Pegawai 269;S1;Analis Pengelolaan Keuangan APBN Muda ;5;2;1;431;86
+271;Pegawai 270;S1;Pemeriksa Pertama;4;3;1;450;98
+272;Pegawai 271;S1;Pranata Komputer Pertama ;5;2;2;699;82
+273;Pegawai 272;D4;Pranata Komputer Pertama ;5;1;1;679;76
+274;Pegawai 273;S1;Analis Kepegawaian Muda ;4;2;1;429;88
+275;Pegawai 274;S2;Analis Kepegawaian Pertama ;1;1;2;762;77
+276;Pegawai 275;D4;Pemeriksa Madya;5;1;3;644;99
+277;Pegawai 276;D4;Pranata Keuangan APBN Terampil ;1;3;3;790;76
+278;Pegawai 277;S1;Pranata Komputer Terampil ;5;4;1;607;72
+279;Pegawai 278;S1;Pranata Komputer Terampil ;2;2;2;445;89
+280;Pegawai 279;S2;Pranata Komputer Pertama ;4;4;2;711;81
+281;Pegawai 280;S1;Pranata Keuangan APBN Mahir ;4;4;3;692;84
+282;Pegawai 281;D4;Pranata Keuangan APBN Mahir ;3;5;1;737;90
+283;Pegawai 282;S2;Analis Pengelolaan Keuangan APBN Muda ;3;5;2;654;99
+284;Pegawai 283;S2;Pranata Komputer Pertama ;5;4;1;753;77
+285;Pegawai 284;D4;Pranata Keuangan APBN Mahir ;4;3;3;757;98
+286;Pegawai 285;S1;Pemeriksa Pertama;3;4;2;472;90
+287;Pegawai 286;D4;Analis Kepegawaian Pertama ;2;3;3;756;88
+288;Pegawai 287;D4;Analis Pengelolaan Keuangan APBN Muda ;3;3;3;758;84
+289;Pegawai 288;S1;Pranata Keuangan APBN Terampil ;1;2;2;665;73
+290;Pegawai 289;D4;Pranata Komputer Pertama ;5;5;1;408;73
+291;Pegawai 290;D4;Analis Kepegawaian Muda ;3;3;1;594;96
+292;Pegawai 291;S1;Pranata Komputer Terampil ;4;5;3;706;74
+293;Pegawai 292;S1;Analis Kepegawaian Pertama ;2;1;3;777;79
+294;Pegawai 293;D4;Pranata Komputer Muda ;1;5;3;672;83
+295;Pegawai 294;S1;Pranata Keuangan APBN Penyelia ;5;5;1;550;71
+296;Pegawai 295;S2;Pemeriksa Madya;2;4;3;435;97
+297;Pegawai 296;S2;Pemeriksa Muda;2;3;2;431;81
+298;Pegawai 297;D4;Pranata Keuangan APBN Terampil ;2;3;2;427;90
+299;Pegawai 298;D4;Arsiparis Muda ;5;2;2;557;90
+300;Pegawai 299;D4;Analis Pengelolaan Keuangan APBN Muda ;3;4;3;462;94
+301;Pegawai 300;D4;Pemeriksa Utama;1;5;3;450;86
+302;Pegawai 301;S2;Analis Kepegawaian Pertama ;2;5;3;423;97
+303;Pegawai 302;S2;Pranata Keuangan APBN Penyelia ;3;2;3;534;94
+304;Pegawai 303;S1;Pemeriksa Muda;4;4;2;657;84
+305;Pegawai 304;S2;Pranata Komputer Terampil ;3;2;2;791;77
+306;Pegawai 305;S2;Analis Pengelolaan Keuangan APBN Muda ;5;3;2;650;84
+307;Pegawai 306;S2;Pemeriksa Pertama;3;2;2;499;84
+308;Pegawai 307;D4;Analis Kepegawaian Muda ;5;3;3;753;77
+309;Pegawai 308;S1;Analis Pengelolaan Keuangan APBN Muda ;2;2;3;475;77
+310;Pegawai 309;D4;Analis Pengelolaan Keuangan APBN Muda ;1;3;1;724;79
+311;Pegawai 310;S2;Pranata Keuangan APBN Penyelia ;2;3;3;616;75
+312;Pegawai 311;S2;Analis Kepegawaian Muda ;4;1;2;542;88
+313;Pegawai 312;S1;Pranata Komputer Pertama ;1;1;3;637;94
+314;Pegawai 313;S1;Analis Kepegawaian Pertama ;4;5;2;513;91
+315;Pegawai 314;S1;Pranata Komputer Terampil ;1;3;3;682;91
+316;Pegawai 315;S1;Pemeriksa Pertama;2;2;3;409;79
+317;Pegawai 316;S1;Pranata Keuangan APBN Terampil ;2;1;3;479;91
+318;Pegawai 317;S1;Pranata Keuangan APBN Mahir ;1;1;2;646;78
+319;Pegawai 318;S2;Analis Pengelolaan Keuangan APBN Pertama ;3;5;2;570;80
+320;Pegawai 319;S1;Pranata Keuangan APBN Terampil ;4;5;3;471;78
+321;Pegawai 320;S1;Pemeriksa Muda;3;3;3;548;81
+322;Pegawai 321;S1;Pemeriksa Utama;3;3;3;663;94
+323;Pegawai 322;S1;Pemeriksa Madya;4;5;2;512;97
+324;Pegawai 323;S2;Pranata Komputer Terampil ;5;4;1;486;88
+325;Pegawai 324;D4;Pranata Komputer Terampil ;4;4;1;443;76
+326;Pegawai 325;S2;Analis Kepegawaian Muda ;2;5;1;786;74
+327;Pegawai 326;D4;Pranata Keuangan APBN Penyelia ;3;2;1;796;97
+328;Pegawai 327;S2;Pemeriksa Muda;4;4;2;636;75
+329;Pegawai 328;S1;Pranata Keuangan APBN Terampil ;2;5;2;428;96
+330;Pegawai 329;D4;Arsiparis Muda ;1;5;3;762;84
+331;Pegawai 330;S2;Analis Pengelolaan Keuangan APBN Muda ;4;5;2;677;86
+332;Pegawai 331;S1;Analis Kepegawaian Pertama ;5;1;1;465;96
+333;Pegawai 332;S2;Pranata Komputer Terampil ;4;5;3;566;70
+334;Pegawai 333;S1;Pemeriksa Muda;4;2;1;490;87
+335;Pegawai 334;S1;Analis Kepegawaian Muda ;2;4;3;554;89
+336;Pegawai 335;S1;Pranata Keuangan APBN Penyelia ;2;4;1;667;74
+337;Pegawai 336;D4;Pemeriksa Muda;4;5;1;560;85
+338;Pegawai 337;S1;Pemeriksa Utama;5;2;1;418;71
+339;Pegawai 338;S1;Analis Pengelolaan Keuangan APBN Muda ;2;2;1;775;90
+340;Pegawai 339;S2;Analis Pengelolaan Keuangan APBN Muda ;2;4;3;424;70
+341;Pegawai 340;D4;Pranata Komputer Pertama ;2;2;1;617;81
+342;Pegawai 341;S2;Pranata Keuangan APBN Terampil ;2;1;3;411;71
+343;Pegawai 342;D4;Pemeriksa Madya;5;5;3;707;97
+344;Pegawai 343;S2;Pemeriksa Muda;3;5;3;598;85
+345;Pegawai 344;S1;Pranata Keuangan APBN Mahir ;4;3;1;666;92
+346;Pegawai 345;S1;Arsiparis Muda ;1;4;3;616;93
+347;Pegawai 346;D4;Pranata Komputer Muda ;4;3;1;784;97
+348;Pegawai 347;S2;Analis Kepegawaian Muda ;3;2;3;728;73
+349;Pegawai 348;S1;Pemeriksa Utama;3;5;1;549;95
+350;Pegawai 349;D4;Pranata Keuangan APBN Mahir ;3;3;3;641;84
+351;Pegawai 350;D4;Pemeriksa Muda;5;5;2;413;77
+352;Pegawai 351;S2;Pranata Keuangan APBN Terampil ;2;1;3;790;86
+353;Pegawai 352;S2;Pemeriksa Pertama;4;3;2;648;78
+354;Pegawai 353;D4;Pranata Keuangan APBN Penyelia ;2;2;3;721;75
+355;Pegawai 354;S1;Pranata Keuangan APBN Mahir ;2;5;3;771;93
+356;Pegawai 355;S1;Analis Kepegawaian Muda ;3;4;3;479;87
+357;Pegawai 356;S2;Analis Kepegawaian Muda ;3;5;2;530;79
+358;Pegawai 357;D4;Pemeriksa Muda;5;3;1;684;74
+359;Pegawai 358;S2;Pranata Keuangan APBN Penyelia ;5;1;3;432;70
+360;Pegawai 359;S2;Arsiparis Muda ;3;4;1;482;90
+361;Pegawai 360;S2;Analis Kepegawaian Muda ;1;3;2;565;87
+362;Pegawai 361;S1;Analis Kepegawaian Pertama ;1;1;1;594;88
+363;Pegawai 362;S1;Pranata Keuangan APBN Penyelia ;3;1;1;762;96
+364;Pegawai 363;S1;Analis Kepegawaian Pertama ;5;3;2;794;70
+365;Pegawai 364;S1;Pranata Komputer Terampil ;2;2;2;636;93
+366;Pegawai 365;S2;Pemeriksa Madya;5;1;3;558;87
+367;Pegawai 366;D4;Pranata Komputer Muda ;5;5;2;678;77
+368;Pegawai 367;S2;Analis Kepegawaian Pertama ;1;4;2;724;89
+369;Pegawai 368;D4;Pranata Keuangan APBN Penyelia ;3;1;1;631;84
+370;Pegawai 369;S1;Analis Pengelolaan Keuangan APBN Muda ;3;4;1;487;94
+371;Pegawai 370;D4;Pranata Keuangan APBN Terampil ;1;4;3;731;99
+372;Pegawai 371;S1;Analis Kepegawaian Muda ;2;4;2;713;93
+373;Pegawai 372;S1;Analis Kepegawaian Muda ;2;2;1;438;90
+374;Pegawai 373;S2;Analis Pengelolaan Keuangan APBN Pertama ;5;5;1;409;72
+375;Pegawai 374;S1;Analis Kepegawaian Muda ;2;2;2;585;77
+376;Pegawai 375;D4;Analis Pengelolaan Keuangan APBN Pertama ;5;3;1;652;84
+377;Pegawai 376;S1;Pranata Komputer Muda ;4;5;1;709;99
+378;Pegawai 377;S2;Pranata Komputer Muda ;2;5;3;523;97
+379;Pegawai 378;D4;Arsiparis Muda ;5;2;2;653;83
+380;Pegawai 379;S2;Pemeriksa Madya;5;2;1;641;90
+381;Pegawai 380;S2;Pemeriksa Utama;3;4;3;413;99
+382;Pegawai 381;D4;Pranata Keuangan APBN Terampil ;3;2;3;549;87
+383;Pegawai 382;S1;Pranata Keuangan APBN Mahir ;3;4;2;745;99
+384;Pegawai 383;S1;Arsiparis Muda ;4;4;2;410;73
+385;Pegawai 384;D4;Analis Kepegawaian Muda ;3;1;1;681;99
+386;Pegawai 385;S2;Pemeriksa Muda;3;5;1;760;85
+387;Pegawai 386;S1;Pranata Keuangan APBN Mahir ;4;4;1;584;73
+388;Pegawai 387;D4;Pemeriksa Utama;1;5;3;729;72
+389;Pegawai 388;D4;Pemeriksa Muda;2;1;3;494;87
+390;Pegawai 389;S1;Pranata Komputer Terampil ;1;1;1;524;86
+391;Pegawai 390;S2;Pranata Komputer Terampil ;4;2;2;686;89
+392;Pegawai 391;S1;Pranata Keuangan APBN Penyelia ;3;3;2;550;93
+393;Pegawai 392;D4;Arsiparis Muda ;3;4;3;496;94
+394;Pegawai 393;D4;Arsiparis Muda ;2;3;1;676;71
+395;Pegawai 394;S1;Pranata Keuangan APBN Mahir ;5;2;2;660;72
+396;Pegawai 395;S2;Pemeriksa Utama;3;5;3;578;78
+397;Pegawai 396;S2;Pemeriksa Muda;5;1;3;794;76
+398;Pegawai 397;S1;Pranata Keuangan APBN Penyelia ;2;5;2;787;97
+399;Pegawai 398;S2;Pemeriksa Pertama;4;3;3;458;93
+400;Pegawai 399;D4;Pemeriksa Utama;3;5;3;436;81
+401;Pegawai 400;S1;Pranata Komputer Terampil ;2;4;3;683;93
+402;Pegawai 401;S2;Analis Kepegawaian Pertama ;2;1;2;677;84
+403;Pegawai 402;D4;Pranata Komputer Muda ;5;1;1;744;83
+404;Pegawai 403;D4;Pranata Komputer Pertama ;1;2;2;673;85
+405;Pegawai 404;S2;Pranata Komputer Muda ;5;2;3;580;94
+406;Pegawai 405;S1;Pranata Komputer Terampil ;5;2;2;702;95
+407;Pegawai 406;S2;Analis Pengelolaan Keuangan APBN Pertama ;3;5;3;628;83
+408;Pegawai 407;S1;Arsiparis Muda ;1;2;3;689;78
+409;Pegawai 408;S1;Pranata Komputer Terampil ;1;1;1;757;94
+410;Pegawai 409;D4;Pemeriksa Madya;4;4;1;779;81
+411;Pegawai 410;S1;Pranata Komputer Muda ;1;1;1;573;84
+412;Pegawai 411;S1;Pranata Komputer Terampil ;3;2;1;666;87
+413;Pegawai 412;D4;Analis Pengelolaan Keuangan APBN Pertama ;2;5;1;504;77
+414;Pegawai 413;S2;Pranata Keuangan APBN Mahir ;1;4;1;660;99
+415;Pegawai 414;S2;Pranata Keuangan APBN Terampil ;1;4;3;584;71
+416;Pegawai 415;D4;Pranata Komputer Terampil ;5;5;1;429;90
+417;Pegawai 416;S1;Pranata Keuangan APBN Penyelia ;2;4;3;526;72
+418;Pegawai 417;D4;Analis Pengelolaan Keuangan APBN Pertama ;4;5;3;528;98
+419;Pegawai 418;S2;Pranata Komputer Muda ;5;5;1;449;89
+420;Pegawai 419;S2;Pranata Komputer Terampil ;2;2;3;719;80
+421;Pegawai 420;D4;Pranata Keuangan APBN Penyelia ;1;2;2;494;97
+422;Pegawai 421;S1;Analis Kepegawaian Pertama ;2;2;2;584;80
+423;Pegawai 422;S2;Analis Kepegawaian Pertama ;4;3;3;491;74
+424;Pegawai 423;S2;Analis Pengelolaan Keuangan APBN Muda ;3;3;3;523;95
+425;Pegawai 424;D4;Pranata Komputer Muda ;3;5;1;786;95
+426;Pegawai 425;S1;Pranata Keuangan APBN Penyelia ;5;3;3;506;95
+427;Pegawai 426;D4;Pranata Komputer Muda ;3;4;2;796;75
+428;Pegawai 427;S1;Pemeriksa Utama;3;5;1;523;73
+429;Pegawai 428;S2;Pemeriksa Muda;4;4;2;500;92
+430;Pegawai 429;S2;Pranata Komputer Muda ;2;3;3;484;88
+431;Pegawai 430;D4;Pranata Komputer Muda ;3;4;2;784;94
+432;Pegawai 431;S1;Pranata Keuangan APBN Terampil ;4;5;1;489;72
+433;Pegawai 432;S2;Pemeriksa Utama;1;2;1;507;85
+434;Pegawai 433;S2;Pranata Komputer Pertama ;4;2;2;691;74
+435;Pegawai 434;D4;Pranata Komputer Terampil ;1;3;3;788;70
+436;Pegawai 435;S2;Pranata Komputer Muda ;3;2;1;500;84
+437;Pegawai 436;D4;Pranata Komputer Muda ;3;5;1;440;88
+438;Pegawai 437;S2;Pranata Komputer Pertama ;4;2;1;523;78
+439;Pegawai 438;S2;Pranata Keuangan APBN Terampil ;5;2;2;487;90
+440;Pegawai 439;D4;Pemeriksa Utama;1;3;1;693;86
+441;Pegawai 440;S2;Analis Pengelolaan Keuangan APBN Muda ;4;1;2;800;85
+442;Pegawai 441;D4;Analis Pengelolaan Keuangan APBN Pertama ;3;2;2;432;86
+443;Pegawai 442;S1;Analis Kepegawaian Pertama ;3;2;3;711;92
+444;Pegawai 443;S2;Arsiparis Muda ;2;5;1;639;70
+445;Pegawai 444;S1;Analis Kepegawaian Muda ;4;1;3;664;71
+446;Pegawai 445;S2;Pranata Keuangan APBN Terampil ;4;1;2;699;74
+447;Pegawai 446;S1;Analis Pengelolaan Keuangan APBN Muda ;4;5;1;448;89
+448;Pegawai 447;S2;Analis Pengelolaan Keuangan APBN Pertama ;2;5;1;776;89
+449;Pegawai 448;S1;Pranata Komputer Terampil ;1;1;2;436;71
+450;Pegawai 449;S1;Analis Kepegawaian Muda ;4;2;3;629;70
+451;Pegawai 450;D4;Pranata Komputer Muda ;4;3;1;739;74
+452;Pegawai 451;S2;Analis Pengelolaan Keuangan APBN Muda ;4;4;2;722;82
+453;Pegawai 452;D4;Pranata Keuangan APBN Penyelia ;2;2;1;588;95
+454;Pegawai 453;S1;Analis Kepegawaian Muda ;5;3;2;727;98
+455;Pegawai 454;S1;Pranata Komputer Terampil ;1;3;2;770;72
+456;Pegawai 455;S1;Pemeriksa Madya;5;2;3;680;84
+457;Pegawai 456;S2;Arsiparis Muda ;1;5;3;563;87
+458;Pegawai 457;D4;Analis Pengelolaan Keuangan APBN Muda ;4;4;2;451;98
+459;Pegawai 458;S2;Pemeriksa Muda;4;3;2;548;75
+460;Pegawai 459;S1;Arsiparis Muda ;5;5;1;677;75
+461;Pegawai 460;D4;Pranata Keuangan APBN Mahir ;4;1;3;555;98
+462;Pegawai 461;S2;Pranata Komputer Muda ;3;2;3;460;99
+463;Pegawai 462;S2;Pemeriksa Muda;2;1;2;770;92
+464;Pegawai 463;S1;Pranata Keuangan APBN Penyelia ;5;3;2;623;79
+465;Pegawai 464;S1;Pranata Keuangan APBN Mahir ;3;3;1;408;95
+466;Pegawai 465;S2;Analis Pengelolaan Keuangan APBN Pertama ;3;1;3;727;73
+467;Pegawai 466;S1;Pranata Keuangan APBN Terampil ;2;3;2;523;92
+468;Pegawai 467;S2;Pranata Komputer Terampil ;3;4;1;789;90
+469;Pegawai 468;S1;Pemeriksa Utama;3;4;3;585;89
+470;Pegawai 469;S1;Pranata Komputer Pertama ;3;5;1;579;88
+471;Pegawai 470;S1;Pemeriksa Pertama;5;5;2;535;91
+472;Pegawai 471;S2;Pranata Komputer Pertama ;2;3;1;562;85
+473;Pegawai 472;S1;Pranata Keuangan APBN Terampil ;4;2;3;628;85
+474;Pegawai 473;S2;Analis Kepegawaian Pertama ;5;2;1;436;82
+475;Pegawai 474;D4;Arsiparis Muda ;1;3;1;789;79
+476;Pegawai 475;S1;Pranata Keuangan APBN Penyelia ;1;1;3;783;81
+477;Pegawai 476;S2;Analis Pengelolaan Keuangan APBN Pertama ;4;3;1;669;79
+478;Pegawai 477;S2;Pemeriksa Pertama;3;1;2;710;82
+479;Pegawai 478;D4;Pranata Komputer Pertama ;1;4;2;799;88
+480;Pegawai 479;S2;Analis Kepegawaian Muda ;5;3;2;506;78
+481;Pegawai 480;D4;Pranata Komputer Terampil ;4;4;1;416;91
+482;Pegawai 481;S2;Analis Kepegawaian Pertama ;1;5;2;500;80
+483;Pegawai 482;S1;Analis Kepegawaian Pertama ;3;1;1;696;94
+484;Pegawai 483;S2;Pemeriksa Pertama;2;2;3;452;91
+485;Pegawai 484;S2;Pranata Komputer Pertama ;4;4;1;608;95
+486;Pegawai 485;S1;Pranata Keuangan APBN Mahir ;1;1;2;580;92
+487;Pegawai 486;S1;Pranata Komputer Pertama ;5;2;2;710;77
+488;Pegawai 487;S1;Pranata Keuangan APBN Penyelia ;4;3;2;507;80
+489;Pegawai 488;S1;Pranata Keuangan APBN Mahir ;5;4;3;417;98
+490;Pegawai 489;D4;Pranata Komputer Pertama ;4;4;3;445;85
+491;Pegawai 490;S1;Pemeriksa Utama;5;5;3;752;82
+492;Pegawai 491;S1;Analis Pengelolaan Keuangan APBN Pertama ;1;2;2;427;96
+493;Pegawai 492;S1;Analis Kepegawaian Pertama ;5;4;1;457;97
+494;Pegawai 493;S2;Pranata Komputer Pertama ;4;3;2;692;72
+495;Pegawai 494;D4;Pranata Keuangan APBN Mahir ;4;1;3;670;95
+496;Pegawai 495;S1;Analis Pengelolaan Keuangan APBN Pertama ;2;5;1;517;88
+497;Pegawai 496;S2;Pranata Keuangan APBN Penyelia ;2;4;1;702;93
+498;Pegawai 497;S1;Pemeriksa Madya;4;1;1;524;85
+499;Pegawai 498;S1;Pranata Keuangan APBN Mahir ;4;1;3;450;81
+500;Pegawai 499;D4;Analis Kepegawaian Pertama ;4;3;3;709;71
+501;Pegawai 500;D4;Pranata Keuangan APBN Terampil ;4;5;1;622;83
+502;Pegawai 501;S2;Analis Pengelolaan Keuangan APBN Muda ;2;1;1;743;97
+503;Pegawai 502;S2;Analis Pengelolaan Keuangan APBN Pertama ;3;1;2;675;73
+504;Pegawai 503;D4;Analis Pengelolaan Keuangan APBN Muda ;1;2;3;550;71
+505;Pegawai 504;D4;Pranata Komputer Pertama ;4;4;2;709;77
+506;Pegawai 505;D4;Analis Kepegawaian Muda ;1;3;3;533;89
+507;Pegawai 506;D4;Pranata Komputer Pertama ;3;1;3;562;79
+508;Pegawai 507;S2;Pemeriksa Madya;1;5;3;574;98
+509;Pegawai 508;S1;Pranata Keuangan APBN Mahir ;3;1;3;528;72
+510;Pegawai 509;S1;Pranata Komputer Pertama ;4;5;3;438;74
+511;Pegawai 510;S2;Pranata Keuangan APBN Terampil ;2;2;1;521;96
+512;Pegawai 511;S1;Pemeriksa Utama;5;4;3;437;81
+513;Pegawai 512;S1;Pranata Keuangan APBN Penyelia ;4;5;3;495;93
+514;Pegawai 513;S2;Pemeriksa Utama;2;2;2;660;82
+515;Pegawai 514;S1;Arsiparis Muda ;3;4;1;538;89
+516;Pegawai 515;S1;Pemeriksa Pertama;2;3;3;577;99
+517;Pegawai 516;S2;Pemeriksa Muda;5;1;2;663;83
+518;Pegawai 517;S2;Arsiparis Muda ;5;2;1;570;96
+519;Pegawai 518;D4;Analis Kepegawaian Muda ;3;5;2;560;74
+520;Pegawai 519;S2;Analis Pengelolaan Keuangan APBN Muda ;4;2;1;592;78
+521;Pegawai 520;S1;Pemeriksa Pertama;2;2;3;494;72
+522;Pegawai 521;S1;Analis Kepegawaian Pertama ;4;4;1;718;91
+523;Pegawai 522;D4;Analis Kepegawaian Pertama ;3;1;1;431;71
+524;Pegawai 523;S1;Analis Kepegawaian Muda ;3;1;2;462;97
+525;Pegawai 524;D4;Pranata Keuangan APBN Terampil ;1;1;3;757;91
+526;Pegawai 525;D4;Analis Pengelolaan Keuangan APBN Muda ;3;3;2;556;80
+527;Pegawai 526;S1;Pranata Keuangan APBN Terampil ;1;2;1;671;73
+528;Pegawai 527;D4;Pemeriksa Utama;1;4;3;456;82
+529;Pegawai 528;S2;Arsiparis Muda ;3;2;1;434;87
+530;Pegawai 529;D4;Analis Kepegawaian Muda ;5;5;3;680;98
+531;Pegawai 530;S2;Pranata Komputer Terampil ;5;2;3;447;70
+532;Pegawai 531;S1;Pranata Komputer Pertama ;5;3;1;475;72
+533;Pegawai 532;S1;Pranata Komputer Muda ;5;1;2;480;72
+534;Pegawai 533;D4;Pranata Komputer Terampil ;4;2;1;586;86
+535;Pegawai 534;S1;Pranata Keuangan APBN Mahir ;1;1;1;774;75
+536;Pegawai 535;D4;Pemeriksa Madya;1;4;3;608;94
+537;Pegawai 536;D4;Analis Pengelolaan Keuangan APBN Pertama ;1;4;1;738;80
+538;Pegawai 537;S1;Pranata Komputer Pertama ;2;5;2;778;73
+539;Pegawai 538;D4;Analis Kepegawaian Muda ;3;5;2;799;85
+540;Pegawai 539;S1;Pemeriksa Madya;2;2;2;435;70
+541;Pegawai 540;D4;Pranata Keuangan APBN Mahir ;5;1;2;722;81
+542;Pegawai 541;S2;Analis Pengelolaan Keuangan APBN Pertama ;3;1;3;646;97
+543;Pegawai 542;S2;Pranata Komputer Muda ;5;3;2;784;79
+544;Pegawai 543;S2;Pranata Keuangan APBN Terampil ;5;2;3;648;98
+545;Pegawai 544;S1;Pemeriksa Madya;3;1;1;585;98
+546;Pegawai 545;D4;Analis Kepegawaian Muda ;3;3;3;404;97
+547;Pegawai 546;S1;Pranata Komputer Muda ;4;2;3;676;78
+548;Pegawai 547;S2;Pranata Keuangan APBN Terampil ;5;4;1;495;96
+549;Pegawai 548;S1;Analis Kepegawaian Pertama ;5;4;3;614;76
+550;Pegawai 549;S1;Pranata Keuangan APBN Mahir ;3;4;1;480;85
+551;Pegawai 550;D4;Analis Kepegawaian Muda ;4;1;3;607;70
+552;Pegawai 551;S1;Pranata Komputer Pertama ;5;3;2;570;84
+553;Pegawai 552;D4;Pranata Komputer Muda ;2;3;1;607;84
+554;Pegawai 553;S2;Arsiparis Muda ;2;5;2;787;82
+555;Pegawai 554;D4;Pemeriksa Utama;5;1;2;662;99
+556;Pegawai 555;S1;Pranata Keuangan APBN Mahir ;3;2;3;513;92
+557;Pegawai 556;S1;Pranata Keuangan APBN Penyelia ;4;4;3;550;78
+558;Pegawai 557;S1;Pemeriksa Pertama;3;3;1;628;80
+559;Pegawai 558;S2;Analis Pengelolaan Keuangan APBN Pertama ;2;3;2;619;90
+560;Pegawai 559;S1;Arsiparis Muda ;1;5;2;465;87
+561;Pegawai 560;D4;Pemeriksa Utama;2;2;2;609;71
+562;Pegawai 561;S2;Analis Kepegawaian Pertama ;5;5;3;441;83
+563;Pegawai 562;D4;Pranata Keuangan APBN Terampil ;2;2;1;786;76
+564;Pegawai 563;S1;Pemeriksa Pertama;5;1;3;487;75
+565;Pegawai 564;D4;Analis Pengelolaan Keuangan APBN Muda ;2;1;3;541;97
+566;Pegawai 565;D4;Arsiparis Muda ;1;5;2;609;77
+567;Pegawai 566;S1;Pranata Keuangan APBN Mahir ;2;4;2;430;82
+568;Pegawai 567;D4;Analis Kepegawaian Pertama ;4;5;3;422;77
+569;Pegawai 568;D4;Analis Kepegawaian Pertama ;4;1;1;753;96
+570;Pegawai 569;S1;Arsiparis Muda ;2;4;3;598;97
+571;Pegawai 570;S1;Analis Pengelolaan Keuangan APBN Pertama ;5;2;1;756;95
+572;Pegawai 571;D4;Pranata Keuangan APBN Terampil ;5;1;2;581;85
+573;Pegawai 572;S2;Analis Pengelolaan Keuangan APBN Muda ;3;4;3;672;78
+574;Pegawai 573;D4;Analis Pengelolaan Keuangan APBN Muda ;2;3;3;567;84
+575;Pegawai 574;S1;Analis Pengelolaan Keuangan APBN Muda ;3;2;3;435;89
+576;Pegawai 575;S2;Analis Pengelolaan Keuangan APBN Muda ;4;4;2;676;78
+577;Pegawai 576;D4;Pranata Komputer Pertama ;5;2;1;751;86
+578;Pegawai 577;S1;Pranata Keuangan APBN Mahir ;3;3;3;433;87
+579;Pegawai 578;S1;Pranata Komputer Terampil ;2;5;1;681;72
+580;Pegawai 579;D4;Pranata Komputer Pertama ;3;1;1;602;78
+581;Pegawai 580;D4;Analis Kepegawaian Muda ;2;3;1;401;90
+582;Pegawai 581;S2;Pemeriksa Utama;3;4;1;641;91
+583;Pegawai 582;D4;Pranata Komputer Muda ;3;5;3;619;83
+584;Pegawai 583;S2;Analis Kepegawaian Muda ;5;2;3;619;90
+585;Pegawai 584;D4;Pranata Keuangan APBN Penyelia ;1;2;3;688;77
+586;Pegawai 585;S1;Analis Pengelolaan Keuangan APBN Muda ;3;1;3;654;87
+587;Pegawai 586;D4;Pranata Komputer Terampil ;5;1;2;700;83
+588;Pegawai 587;S1;Pranata Keuangan APBN Terampil ;2;3;3;484;90
+589;Pegawai 588;D4;Pemeriksa Madya;4;5;2;523;78
+590;Pegawai 589;S2;Analis Pengelolaan Keuangan APBN Muda ;3;2;3;599;76
+591;Pegawai 590;S1;Pranata Komputer Terampil ;2;4;2;508;81
+592;Pegawai 591;S2;Pemeriksa Utama;2;1;3;510;90
+593;Pegawai 592;D4;Analis Kepegawaian Pertama ;2;5;3;633;88
+594;Pegawai 593;S1;Analis Kepegawaian Muda ;5;2;2;437;73
+595;Pegawai 594;D4;Pranata Keuangan APBN Mahir ;1;2;3;781;90
+596;Pegawai 595;S2;Pemeriksa Muda;4;3;3;735;79
+597;Pegawai 596;S1;Analis Kepegawaian Pertama ;5;3;1;520;71
+598;Pegawai 597;D4;Analis Pengelolaan Keuangan APBN Muda ;5;3;1;647;96
+599;Pegawai 598;S1;Analis Pengelolaan Keuangan APBN Muda ;5;3;3;501;83
+600;Pegawai 599;S1;Pemeriksa Madya;4;4;1;479;93
+601;Pegawai 600;S1;Pranata Komputer Muda ;2;3;1;800;89
+602;Pegawai 601;D4;Pranata Komputer Terampil ;4;4;3;481;84
+603;Pegawai 602;S2;Analis Pengelolaan Keuangan APBN Muda ;5;4;3;646;73
+604;Pegawai 603;S1;Analis Pengelolaan Keuangan APBN Pertama ;5;1;3;720;73
+605;Pegawai 604;S2;Pranata Keuangan APBN Mahir ;2;4;3;638;82
+606;Pegawai 605;S2;Pranata Keuangan APBN Penyelia ;3;2;1;498;78
+607;Pegawai 606;S2;Arsiparis Muda ;3;2;1;499;73
+608;Pegawai 607;D4;Analis Kepegawaian Pertama ;2;4;1;771;96
+609;Pegawai 608;S1;Pranata Keuangan APBN Penyelia ;4;2;3;684;82
+610;Pegawai 609;S1;Pemeriksa Muda;3;5;3;536;89
+611;Pegawai 610;D4;Pranata Komputer Muda ;3;1;3;584;89
+612;Pegawai 611;S2;Pranata Komputer Muda ;2;4;3;651;97
+613;Pegawai 612;S2;Analis Pengelolaan Keuangan APBN Pertama ;3;2;3;460;71
+614;Pegawai 613;S2;Pranata Komputer Pertama ;1;1;2;710;75
+615;Pegawai 614;S2;Pemeriksa Madya;3;3;3;737;96
+616;Pegawai 615;S2;Pemeriksa Pertama;4;3;3;435;76
+617;Pegawai 616;S1;Analis Pengelolaan Keuangan APBN Muda ;4;3;2;485;85
+618;Pegawai 617;S1;Pranata Keuangan APBN Mahir ;2;2;1;755;84
+619;Pegawai 618;S1;Arsiparis Muda ;3;5;2;603;84
+620;Pegawai 619;S2;Analis Kepegawaian Pertama ;4;2;2;773;76
+621;Pegawai 620;S2;Arsiparis Muda ;2;4;3;419;89
+622;Pegawai 621;D4;Analis Kepegawaian Pertama ;2;3;2;512;78
+623;Pegawai 622;S1;Pemeriksa Pertama;2;1;1;746;75
+624;Pegawai 623;S1;Pranata Keuangan APBN Penyelia ;3;4;2;569;76
+625;Pegawai 624;S1;Pranata Keuangan APBN Mahir ;2;5;1;548;92
+626;Pegawai 625;D4;Analis Pengelolaan Keuangan APBN Muda ;4;4;2;752;96
+627;Pegawai 626;S2;Pranata Keuangan APBN Mahir ;3;5;1;594;91
+628;Pegawai 627;D4;Pranata Komputer Muda ;4;2;1;569;92
+629;Pegawai 628;D4;Pranata Keuangan APBN Mahir ;4;2;3;655;81
+630;Pegawai 629;S2;Pranata Keuangan APBN Mahir ;5;4;2;792;73
+631;Pegawai 630;S1;Analis Kepegawaian Pertama ;4;3;1;800;85
+632;Pegawai 631;S2;Pranata Keuangan APBN Mahir ;3;1;1;698;75
+633;Pegawai 632;D4;Analis Pengelolaan Keuangan APBN Pertama ;5;3;2;596;77
+634;Pegawai 633;D4;Pemeriksa Madya;3;5;1;439;72
+635;Pegawai 634;S1;Analis Kepegawaian Muda ;5;3;3;478;98
+636;Pegawai 635;S1;Pranata Komputer Terampil ;5;4;1;602;74
+637;Pegawai 636;S1;Analis Kepegawaian Pertama ;4;2;3;665;70
+638;Pegawai 637;S1;Analis Kepegawaian Muda ;5;1;2;515;82
+639;Pegawai 638;D4;Pranata Keuangan APBN Terampil ;5;3;1;520;81
+640;Pegawai 639;D4;Pranata Keuangan APBN Terampil ;4;1;1;487;76
+641;Pegawai 640;D4;Pranata Komputer Muda ;3;5;1;451;74
+642;Pegawai 641;S1;Pranata Keuangan APBN Terampil ;3;3;1;404;80
+643;Pegawai 642;D4;Analis Kepegawaian Pertama ;3;1;1;586;88
+644;Pegawai 643;S1;Pemeriksa Muda;2;4;1;426;91
+645;Pegawai 644;S1;Arsiparis Muda ;2;4;1;401;99
+646;Pegawai 645;S1;Analis Kepegawaian Pertama ;2;4;2;484;95
+647;Pegawai 646;S1;Analis Pengelolaan Keuangan APBN Pertama ;3;3;3;468;93
+648;Pegawai 647;S2;Analis Kepegawaian Pertama ;1;5;1;547;78
+649;Pegawai 648;D4;Pranata Komputer Muda ;4;5;3;760;97
+650;Pegawai 649;S2;Pranata Komputer Pertama ;4;2;1;605;76
+651;Pegawai 650;S1;Pranata Komputer Muda ;2;3;3;728;89
+652;Pegawai 651;S1;Pranata Keuangan APBN Mahir ;1;3;1;482;80
+653;Pegawai 652;D4;Pemeriksa Madya;4;2;3;427;86
+654;Pegawai 653;D4;Pranata Keuangan APBN Mahir ;1;3;1;554;77
+655;Pegawai 654;S2;Analis Pengelolaan Keuangan APBN Pertama ;2;1;2;696;73
+656;Pegawai 655;S2;Arsiparis Muda ;5;4;2;656;86
+657;Pegawai 656;S2;Pranata Komputer Pertama ;4;1;2;408;96
+658;Pegawai 657;S2;Analis Pengelolaan Keuangan APBN Pertama ;4;1;1;750;96
+659;Pegawai 658;S1;Pranata Komputer Pertama ;2;5;1;757;83
+660;Pegawai 659;S1;Pranata Keuangan APBN Mahir ;2;3;3;507;89
+661;Pegawai 660;S2;Pranata Keuangan APBN Mahir ;5;2;1;580;83
+662;Pegawai 661;D4;Pemeriksa Pertama;5;5;3;410;79
+663;Pegawai 662;D4;Pemeriksa Utama;4;4;2;593;92
+664;Pegawai 663;S1;Analis Kepegawaian Pertama ;1;2;3;609;76
+665;Pegawai 664;S2;Analis Pengelolaan Keuangan APBN Pertama ;3;5;2;729;75
+666;Pegawai 665;S1;Analis Pengelolaan Keuangan APBN Muda ;3;3;3;644;86
+667;Pegawai 666;S2;Arsiparis Muda ;4;1;1;683;77
+668;Pegawai 667;D4;Analis Kepegawaian Muda ;3;3;2;593;96
+669;Pegawai 668;S2;Analis Kepegawaian Pertama ;2;2;1;743;90
+670;Pegawai 669;S2;Analis Pengelolaan Keuangan APBN Pertama ;5;2;2;434;82
+671;Pegawai 670;S2;Pranata Keuangan APBN Terampil ;5;3;2;424;98
+672;Pegawai 671;S2;Pranata Keuangan APBN Mahir ;1;5;2;633;89
+673;Pegawai 672;S2;Pemeriksa Madya;2;4;3;723;79
+674;Pegawai 673;S2;Pranata Keuangan APBN Penyelia ;2;1;1;660;75
+675;Pegawai 674;S1;Pranata Keuangan APBN Terampil ;3;4;2;596;73
+676;Pegawai 675;D4;Analis Pengelolaan Keuangan APBN Muda ;3;5;1;790;90
+677;Pegawai 676;S1;Pranata Keuangan APBN Mahir ;3;3;1;680;77
+678;Pegawai 677;S2;Analis Pengelolaan Keuangan APBN Muda ;5;3;2;593;79
+679;Pegawai 678;D4;Pranata Komputer Muda ;5;5;1;599;99
+680;Pegawai 679;S1;Pemeriksa Utama;2;3;2;568;86
+681;Pegawai 680;D4;Pemeriksa Madya;2;5;3;731;97
+682;Pegawai 681;S2;Pranata Komputer Muda ;5;3;2;644;87
+683;Pegawai 682;D4;Pranata Komputer Muda ;3;5;2;771;81
+684;Pegawai 683;S2;Pemeriksa Muda;3;2;3;538;74
+685;Pegawai 684;S1;Analis Kepegawaian Pertama ;4;2;2;680;94
+686;Pegawai 685;D4;Pranata Keuangan APBN Penyelia ;4;3;1;452;89
+687;Pegawai 686;S2;Pranata Keuangan APBN Mahir ;2;4;2;506;76
+688;Pegawai 687;D4;Pemeriksa Madya;3;2;2;791;98
+689;Pegawai 688;S2;Pemeriksa Pertama;2;5;1;750;84
+690;Pegawai 689;S2;Pranata Komputer Muda ;1;5;1;692;83
+691;Pegawai 690;S1;Analis Kepegawaian Pertama ;1;4;2;724;86
+692;Pegawai 691;S1;Pranata Keuangan APBN Mahir ;3;1;2;461;74
+693;Pegawai 692;D4;Analis Pengelolaan Keuangan APBN Muda ;3;3;3;441;98
+694;Pegawai 693;S1;Pranata Komputer Pertama ;5;4;2;769;87
+695;Pegawai 694;D4;Pranata Keuangan APBN Penyelia ;4;5;1;688;70
+696;Pegawai 695;S1;Pemeriksa Muda;1;2;3;598;93
+697;Pegawai 696;D4;Pranata Keuangan APBN Penyelia ;4;1;3;661;72
+698;Pegawai 697;D4;Pranata Komputer Terampil ;5;5;2;554;77
+699;Pegawai 698;S1;Analis Pengelolaan Keuangan APBN Pertama ;3;3;3;589;83
+700;Pegawai 699;S1;Pemeriksa Pertama;2;5;2;503;71
+701;Pegawai 700;S2;Pemeriksa Muda;1;2;1;637;79
+702;Pegawai 701;S1;Pranata Keuangan APBN Mahir ;1;2;1;766;83
+703;Pegawai 702;D4;Analis Kepegawaian Muda ;3;3;2;539;84
+704;Pegawai 703;D4;Analis Kepegawaian Muda ;4;4;3;586;74
+705;Pegawai 704;S1;Arsiparis Muda ;5;3;3;512;75
+706;Pegawai 705;D4;Pemeriksa Madya;4;2;2;672;88
+707;Pegawai 706;S1;Pranata Komputer Pertama ;2;1;2;407;89
+708;Pegawai 707;D4;Analis Kepegawaian Pertama ;1;1;1;756;72
+709;Pegawai 708;D4;Pemeriksa Pertama;1;4;3;735;95
+710;Pegawai 709;S2;Pranata Keuangan APBN Mahir ;2;1;2;778;92
+711;Pegawai 710;D4;Arsiparis Muda ;1;2;3;660;75
+712;Pegawai 711;S1;Analis Pengelolaan Keuangan APBN Pertama ;5;5;1;670;92
+713;Pegawai 712;D4;Analis Kepegawaian Pertama ;3;2;1;460;73
+714;Pegawai 713;D4;Pranata Keuangan APBN Penyelia ;4;3;3;789;73
+715;Pegawai 714;S2;Pranata Keuangan APBN Penyelia ;4;3;2;540;94
+716;Pegawai 715;S1;Pemeriksa Madya;2;5;1;576;90
+717;Pegawai 716;D4;Analis Pengelolaan Keuangan APBN Muda ;5;2;2;645;97
+718;Pegawai 717;S2;Analis Kepegawaian Muda ;1;2;2;562;70
+719;Pegawai 718;S2;Analis Pengelolaan Keuangan APBN Pertama ;2;1;2;653;78
+720;Pegawai 719;S1;Analis Kepegawaian Muda ;1;3;1;666;86
+721;Pegawai 720;S1;Analis Pengelolaan Keuangan APBN Pertama ;4;4;2;539;75
+722;Pegawai 721;S1;Pemeriksa Muda;4;2;2;735;91
+723;Pegawai 722;S2;Pranata Komputer Muda ;2;2;1;577;88
+724;Pegawai 723;S2;Pranata Komputer Terampil ;4;5;2;745;85
+725;Pegawai 724;S1;Pranata Keuangan APBN Penyelia ;3;3;2;664;85
+726;Pegawai 725;S2;Analis Pengelolaan Keuangan APBN Pertama ;4;2;1;489;93
+727;Pegawai 726;S2;Analis Kepegawaian Pertama ;1;1;2;752;79
+728;Pegawai 727;D4;Pemeriksa Madya;5;1;2;478;97
+729;Pegawai 728;D4;Pranata Keuangan APBN Mahir ;2;4;1;740;87
+730;Pegawai 729;D4;Pemeriksa Utama;5;4;2;560;99
+731;Pegawai 730;D4;Pranata Komputer Muda ;4;1;3;500;86
+732;Pegawai 731;D4;Pemeriksa Pertama;3;1;1;663;81
+733;Pegawai 732;S2;Analis Pengelolaan Keuangan APBN Muda ;2;3;1;531;76
+734;Pegawai 733;S1;Pemeriksa Pertama;4;2;3;429;79
+735;Pegawai 734;S2;Pranata Keuangan APBN Penyelia ;4;1;2;717;82
+736;Pegawai 735;S2;Pemeriksa Pertama;1;2;2;653;85
+737;Pegawai 736;S2;Analis Kepegawaian Muda ;3;3;2;798;94
+738;Pegawai 737;D4;Pranata Keuangan APBN Mahir ;3;1;1;547;72
+739;Pegawai 738;S2;Pranata Komputer Pertama ;5;4;1;702;82
+740;Pegawai 739;D4;Analis Pengelolaan Keuangan APBN Muda ;2;3;1;608;76
+741;Pegawai 740;S1;Pranata Keuangan APBN Mahir ;5;2;3;489;77
+742;Pegawai 741;D4;Arsiparis Muda ;3;2;3;516;90
+743;Pegawai 742;D4;Analis Pengelolaan Keuangan APBN Pertama ;5;2;1;680;99
+744;Pegawai 743;S1;Arsiparis Muda ;1;5;2;453;93
+745;Pegawai 744;S1;Arsiparis Muda ;3;4;2;682;95
+746;Pegawai 745;S2;Pranata Komputer Terampil ;1;4;3;594;78
+747;Pegawai 746;S1;Analis Kepegawaian Muda ;2;3;1;753;99
+748;Pegawai 747;S2;Analis Pengelolaan Keuangan APBN Pertama ;1;3;3;559;83
+749;Pegawai 748;S2;Pemeriksa Madya;2;1;3;484;83
+750;Pegawai 749;D4;Pranata Komputer Terampil ;3;5;3;767;87
+751;Pegawai 750;S1;Pranata Keuangan APBN Mahir ;5;2;3;716;97
+752;Pegawai 751;S1;Pemeriksa Pertama;3;4;1;691;75
+753;Pegawai 752;D4;Arsiparis Muda ;1;5;3;426;96
+754;Pegawai 753;S2;Pranata Komputer Muda ;4;3;1;798;89
+755;Pegawai 754;S2;Pranata Keuangan APBN Penyelia ;4;4;2;716;76
+756;Pegawai 755;S2;Analis Pengelolaan Keuangan APBN Muda ;5;2;3;491;97
+757;Pegawai 756;D4;Pemeriksa Madya;2;1;1;699;91
+758;Pegawai 757;S1;Pranata Komputer Muda ;5;4;1;408;92
+759;Pegawai 758;S2;Pemeriksa Muda;5;2;1;649;96
+760;Pegawai 759;D4;Pranata Keuangan APBN Terampil ;1;3;1;733;78
+761;Pegawai 760;D4;Pranata Keuangan APBN Terampil ;4;3;1;770;75
+762;Pegawai 761;S2;Pranata Keuangan APBN Penyelia ;5;1;2;547;95
+763;Pegawai 762;S2;Pemeriksa Pertama;1;2;2;547;82
+764;Pegawai 763;S1;Pemeriksa Madya;3;3;3;602;72
+765;Pegawai 764;S1;Pranata Komputer Muda ;1;5;2;519;87
+766;Pegawai 765;S2;Analis Pengelolaan Keuangan APBN Pertama ;5;1;2;756;92
+767;Pegawai 766;D4;Pemeriksa Madya;1;4;1;424;88
+768;Pegawai 767;D4;Pranata Komputer Muda ;3;3;3;413;74
+769;Pegawai 768;S2;Analis Pengelolaan Keuangan APBN Pertama ;2;4;3;455;75
+770;Pegawai 769;S1;Pemeriksa Utama;1;3;3;482;95
+771;Pegawai 770;S2;Pranata Komputer Muda ;5;1;2;558;93
+772;Pegawai 771;S1;Pranata Keuangan APBN Penyelia ;2;3;1;603;88
+773;Pegawai 772;S2;Pranata Komputer Muda ;4;5;2;500;97
+774;Pegawai 773;S2;Analis Kepegawaian Pertama ;1;2;1;792;96
+775;Pegawai 774;S2;Pemeriksa Madya;5;5;1;457;72
+776;Pegawai 775;D4;Analis Pengelolaan Keuangan APBN Pertama ;2;5;3;668;98
+777;Pegawai 776;S1;Pranata Keuangan APBN Mahir ;2;3;3;709;91
+778;Pegawai 777;S1;Pemeriksa Utama;3;2;1;779;79
+779;Pegawai 778;S1;Pranata Keuangan APBN Mahir ;2;4;3;441;91
+780;Pegawai 779;D4;Analis Kepegawaian Muda ;3;5;2;730;80
+781;Pegawai 780;S2;Analis Pengelolaan Keuangan APBN Pertama ;1;3;2;519;78
+782;Pegawai 781;S2;Pranata Keuangan APBN Penyelia ;2;2;1;548;72
+783;Pegawai 782;D4;Analis Kepegawaian Muda ;2;3;3;645;80
+784;Pegawai 783;D4;Pemeriksa Pertama;4;1;3;537;88
+785;Pegawai 784;S2;Pranata Keuangan APBN Penyelia ;3;1;3;545;84
+786;Pegawai 785;S1;Pranata Keuangan APBN Mahir ;5;4;1;777;96
+787;Pegawai 786;D4;Pranata Keuangan APBN Mahir ;2;2;3;735;92
+788;Pegawai 787;S1;Pranata Komputer Pertama ;2;5;1;719;88
+789;Pegawai 788;S2;Analis Kepegawaian Pertama ;3;3;1;683;96
+790;Pegawai 789;D4;Pranata Komputer Pertama ;3;4;3;738;86
+791;Pegawai 790;S2;Pranata Keuangan APBN Mahir ;5;4;3;565;78
+792;Pegawai 791;D4;Pranata Keuangan APBN Terampil ;2;4;2;548;98
+793;Pegawai 792;D4;Pranata Keuangan APBN Terampil ;2;1;1;685;74
+794;Pegawai 793;D4;Pranata Komputer Pertama ;4;1;2;690;93
+795;Pegawai 794;S1;Arsiparis Muda ;3;3;2;588;76
+796;Pegawai 795;D4;Pranata Keuangan APBN Penyelia ;3;2;3;505;75
+797;Pegawai 796;S2;Pranata Keuangan APBN Terampil ;1;4;2;540;98
+798;Pegawai 797;S2;Pranata Keuangan APBN Terampil ;5;1;2;612;96
+799;Pegawai 798;D4;Pemeriksa Muda;4;2;2;702;70
+800;Pegawai 799;S2;Analis Pengelolaan Keuangan APBN Muda ;1;5;3;437;72
+801;Pegawai 800;S2;Pranata Komputer Terampil ;2;1;3;612;81
+802;Pegawai 801;S2;Pranata Komputer Pertama ;5;3;1;655;79
+803;Pegawai 802;D4;Analis Kepegawaian Pertama ;5;2;3;430;75
+804;Pegawai 803;S2;Analis Pengelolaan Keuangan APBN Pertama ;3;4;3;563;96
+805;Pegawai 804;S2;Analis Pengelolaan Keuangan APBN Muda ;4;4;2;545;82
+806;Pegawai 805;D4;Analis Kepegawaian Pertama ;4;5;1;673;76
+807;Pegawai 806;S1;Pranata Keuangan APBN Mahir ;2;5;1;677;70
+808;Pegawai 807;D4;Pemeriksa Madya;3;5;2;783;99
+809;Pegawai 808;S2;Analis Pengelolaan Keuangan APBN Pertama ;4;3;1;522;99
+810;Pegawai 809;S1;Pranata Keuangan APBN Mahir ;1;1;2;613;81
+811;Pegawai 810;D4;Pemeriksa Madya;3;5;3;520;89
+812;Pegawai 811;S1;Analis Kepegawaian Muda ;2;5;3;694;77
+813;Pegawai 812;S1;Analis Pengelolaan Keuangan APBN Pertama ;4;2;3;457;86
+814;Pegawai 813;S2;Arsiparis Muda ;4;3;1;460;92
+815;Pegawai 814;S2;Pemeriksa Utama;4;1;2;771;91
+816;Pegawai 815;S1;Pemeriksa Madya;2;4;3;686;82
+817;Pegawai 816;D4;Pranata Komputer Muda ;2;2;2;498;84
+818;Pegawai 817;D4;Pranata Keuangan APBN Mahir ;4;3;1;612;78
+819;Pegawai 818;S1;Pemeriksa Pertama;2;2;3;411;84
+820;Pegawai 819;S1;Analis Pengelolaan Keuangan APBN Muda ;5;3;2;583;72
+821;Pegawai 820;S2;Pranata Keuangan APBN Mahir ;2;2;2;511;97
+822;Pegawai 821;S1;Pranata Komputer Pertama ;1;5;1;607;85
+823;Pegawai 822;D4;Arsiparis Muda ;5;1;2;771;97
+824;Pegawai 823;S1;Pemeriksa Madya;1;1;2;489;80
+825;Pegawai 824;S1;Pemeriksa Pertama;2;1;1;662;79
+826;Pegawai 825;D4;Analis Pengelolaan Keuangan APBN Pertama ;3;5;3;492;90
+827;Pegawai 826;D4;Analis Kepegawaian Muda ;2;5;3;590;87
+828;Pegawai 827;S1;Pemeriksa Madya;5;1;2;606;79
+829;Pegawai 828;S1;Pranata Keuangan APBN Terampil ;2;5;1;444;99
+830;Pegawai 829;S2;Pranata Keuangan APBN Mahir ;3;5;3;503;81
+831;Pegawai 830;S1;Pemeriksa Pertama;4;2;1;448;97
+832;Pegawai 831;S2;Analis Kepegawaian Muda ;4;3;3;743;89
+833;Pegawai 832;D4;Pranata Keuangan APBN Terampil ;4;1;1;499;83
+834;Pegawai 833;S1;Pemeriksa Madya;5;1;3;758;79
+835;Pegawai 834;S1;Analis Pengelolaan Keuangan APBN Pertama ;2;5;1;503;78
+836;Pegawai 835;D4;Analis Pengelolaan Keuangan APBN Muda ;1;5;2;557;99
+837;Pegawai 836;D4;Pranata Komputer Pertama ;4;2;3;727;96
+838;Pegawai 837;S2;Pranata Komputer Muda ;1;2;3;585;76
+839;Pegawai 838;S2;Pranata Komputer Pertama ;5;1;1;693;85
+840;Pegawai 839;D4;Analis Pengelolaan Keuangan APBN Pertama ;2;2;1;507;95
+841;Pegawai 840;S1;Analis Kepegawaian Pertama ;3;1;3;621;73
+842;Pegawai 841;D4;Analis Pengelolaan Keuangan APBN Pertama ;5;3;3;516;72
+843;Pegawai 842;S2;Pranata Keuangan APBN Penyelia ;5;4;1;574;94
+844;Pegawai 843;S2;Pranata Komputer Pertama ;5;4;1;758;87
+845;Pegawai 844;S2;Pranata Komputer Muda ;2;3;2;581;75
+846;Pegawai 845;S2;Analis Kepegawaian Muda ;5;4;3;758;72
+847;Pegawai 846;S1;Analis Pengelolaan Keuangan APBN Muda ;1;4;1;522;99
+848;Pegawai 847;S1;Pranata Keuangan APBN Mahir ;5;3;1;415;74
+849;Pegawai 848;S1;Arsiparis Muda ;3;4;3;590;75
+850;Pegawai 849;D4;Pranata Komputer Pertama ;2;4;3;697;88
+851;Pegawai 850;S1;Pranata Keuangan APBN Penyelia ;4;3;2;605;75
+852;Pegawai 851;S2;Pranata Keuangan APBN Penyelia ;3;2;1;780;74
+853;Pegawai 852;S2;Pranata Komputer Pertama ;4;2;1;505;79
+854;Pegawai 853;S1;Analis Pengelolaan Keuangan APBN Pertama ;4;4;3;515;99
+855;Pegawai 854;S1;Pemeriksa Utama;2;2;3;722;95
+856;Pegawai 855;D4;Analis Kepegawaian Pertama ;4;5;3;479;79
+857;Pegawai 856;S1;Analis Pengelolaan Keuangan APBN Muda ;1;4;1;470;81
+858;Pegawai 857;S2;Pranata Keuangan APBN Mahir ;5;4;1;621;75
+859;Pegawai 858;D4;Pemeriksa Muda;2;5;2;431;91
+860;Pegawai 859;S2;Pemeriksa Pertama;2;4;3;435;72
+861;Pegawai 860;S2;Analis Pengelolaan Keuangan APBN Muda ;2;5;1;540;78
+862;Pegawai 861;S1;Pemeriksa Madya;5;3;1;451;71
+863;Pegawai 862;D4;Pranata Keuangan APBN Penyelia ;2;2;1;407;77
+864;Pegawai 863;S1;Analis Kepegawaian Muda ;3;5;1;765;95
+865;Pegawai 864;D4;Pranata Komputer Terampil ;3;3;2;742;92
+866;Pegawai 865;D4;Analis Pengelolaan Keuangan APBN Pertama ;4;4;1;701;84
+867;Pegawai 866;D4;Analis Kepegawaian Muda ;2;2;1;587;92
+868;Pegawai 867;S2;Pemeriksa Muda;2;2;3;744;88
+869;Pegawai 868;S1;Analis Pengelolaan Keuangan APBN Muda ;1;4;1;614;71
+870;Pegawai 869;S2;Pemeriksa Pertama;1;5;2;751;81
+871;Pegawai 870;D4;Pranata Keuangan APBN Mahir ;1;5;1;604;84
+872;Pegawai 871;S1;Analis Kepegawaian Pertama ;1;2;1;448;94
+873;Pegawai 872;S1;Pranata Komputer Terampil ;1;1;1;442;93
+874;Pegawai 873;D4;Analis Pengelolaan Keuangan APBN Pertama ;2;5;1;459;78
+875;Pegawai 874;D4;Analis Kepegawaian Pertama ;1;3;2;513;79
+876;Pegawai 875;S2;Pemeriksa Muda;4;3;3;485;89
+877;Pegawai 876;D4;Pranata Komputer Pertama ;5;2;1;556;79
+878;Pegawai 877;D4;Pranata Komputer Terampil ;3;5;1;543;89
+879;Pegawai 878;S2;Pranata Keuangan APBN Terampil ;5;5;3;540;81
+880;Pegawai 879;D4;Pranata Keuangan APBN Terampil ;4;3;1;416;76
+881;Pegawai 880;S1;Arsiparis Muda ;5;3;1;690;77
+882;Pegawai 881;S1;Pranata Komputer Pertama ;1;5;3;645;84
+883;Pegawai 882;S1;Analis Pengelolaan Keuangan APBN Muda ;4;5;2;653;75
+884;Pegawai 883;S1;Analis Kepegawaian Pertama ;3;2;3;432;73
+885;Pegawai 884;S2;Analis Kepegawaian Pertama ;5;3;2;752;84
+886;Pegawai 885;S2;Pemeriksa Pertama;1;3;3;552;80
+887;Pegawai 886;S2;Pemeriksa Muda;2;4;2;466;87
+888;Pegawai 887;S2;Analis Pengelolaan Keuangan APBN Pertama ;5;4;3;719;70
+889;Pegawai 888;S1;Analis Pengelolaan Keuangan APBN Pertama ;4;3;1;709;83
+890;Pegawai 889;S2;Pemeriksa Pertama;2;1;2;608;73
+891;Pegawai 890;D4;Pranata Komputer Muda ;3;5;1;685;82
+892;Pegawai 891;S1;Analis Kepegawaian Pertama ;1;2;1;789;93
+893;Pegawai 892;S1;Pemeriksa Pertama;4;3;2;701;94
+894;Pegawai 893;D4;Pemeriksa Muda;4;2;2;564;90
+895;Pegawai 894;D4;Pemeriksa Madya;3;1;3;733;72
+896;Pegawai 895;D4;Pemeriksa Madya;2;4;1;723;73
+897;Pegawai 896;D4;Pemeriksa Muda;1;5;3;648;95
+898;Pegawai 897;S2;Analis Kepegawaian Pertama ;5;4;2;636;82
+899;Pegawai 898;S1;Analis Pengelolaan Keuangan APBN Pertama ;1;5;1;680;75
+900;Pegawai 899;D4;Pranata Komputer Pertama ;4;2;3;419;92
+901;Pegawai 900;S1;Pranata Keuangan APBN Penyelia ;1;2;2;712;86
+902;Pegawai 901;S2;Analis Kepegawaian Pertama ;4;5;1;513;90
+903;Pegawai 902;D4;Pranata Keuangan APBN Penyelia ;4;1;3;594;75
+904;Pegawai 903;D4;Pranata Komputer Terampil ;3;2;1;597;79
+905;Pegawai 904;S2;Arsiparis Muda ;3;5;3;607;78
+906;Pegawai 905;D4;Pranata Komputer Pertama ;4;4;3;684;82
+907;Pegawai 906;S2;Pemeriksa Muda;2;1;2;454;97
+908;Pegawai 907;S2;Pranata Keuangan APBN Terampil ;3;2;2;779;81
+909;Pegawai 908;D4;Pemeriksa Muda;5;1;1;476;89
+910;Pegawai 909;S1;Pranata Keuangan APBN Penyelia ;4;5;1;619;77
+911;Pegawai 910;D4;Pranata Keuangan APBN Terampil ;4;3;3;770;87
+912;Pegawai 911;S1;Analis Pengelolaan Keuangan APBN Muda ;2;4;1;630;78
+913;Pegawai 912;S2;Pemeriksa Utama;3;2;1;561;92
+914;Pegawai 913;S1;Arsiparis Muda ;5;4;3;687;96
+915;Pegawai 914;D4;Pranata Komputer Pertama ;4;2;1;527;73
+916;Pegawai 915;S1;Pranata Keuangan APBN Terampil ;2;1;2;617;86
+917;Pegawai 916;S1;Pemeriksa Madya;5;5;3;788;79
+918;Pegawai 917;D4;Analis Kepegawaian Pertama ;2;5;3;777;88
+919;Pegawai 918;D4;Arsiparis Muda ;3;3;1;786;99
+920;Pegawai 919;D4;Analis Kepegawaian Muda ;1;3;2;735;98
+921;Pegawai 920;D4;Analis Pengelolaan Keuangan APBN Muda ;2;4;3;560;74
+922;Pegawai 921;S1;Analis Pengelolaan Keuangan APBN Muda ;2;4;3;417;99
+923;Pegawai 922;D4;Pemeriksa Utama;4;5;3;517;72
+924;Pegawai 923;S2;Pranata Keuangan APBN Terampil ;1;5;1;575;73
+925;Pegawai 924;D4;Analis Pengelolaan Keuangan APBN Muda ;4;5;3;761;90
+926;Pegawai 925;S2;Pranata Komputer Muda ;2;5;2;439;70
+927;Pegawai 926;S2;Pranata Keuangan APBN Mahir ;3;1;1;697;95
+928;Pegawai 927;D4;Pranata Komputer Muda ;5;4;1;550;79
+929;Pegawai 928;S1;Analis Kepegawaian Muda ;5;4;1;605;84
+930;Pegawai 929;S1;Analis Kepegawaian Pertama ;5;1;1;618;75
+931;Pegawai 930;S1;Pranata Komputer Muda ;1;4;3;602;92
+932;Pegawai 931;D4;Pranata Komputer Pertama ;1;1;3;580;84
+933;Pegawai 932;S2;Pemeriksa Pertama;5;2;2;676;86
+934;Pegawai 933;S1;Pranata Keuangan APBN Penyelia ;1;1;3;520;97
+935;Pegawai 934;D4;Analis Kepegawaian Pertama ;5;3;1;549;70
+936;Pegawai 935;S1;Analis Pengelolaan Keuangan APBN Muda ;4;4;3;556;86
+937;Pegawai 936;S2;Analis Kepegawaian Pertama ;4;1;2;407;97
+938;Pegawai 937;S2;Analis Pengelolaan Keuangan APBN Pertama ;4;4;1;596;99
+939;Pegawai 938;S2;Pranata Keuangan APBN Mahir ;4;4;1;479;83
+940;Pegawai 939;S2;Pemeriksa Utama;3;4;1;411;82
+941;Pegawai 940;S1;Pemeriksa Madya;5;3;2;702;87
+942;Pegawai 941;S2;Pranata Komputer Terampil ;3;2;2;759;70
+943;Pegawai 942;S2;Pemeriksa Muda;4;2;1;494;71
+944;Pegawai 943;S2;Pemeriksa Pertama;1;4;2;565;88
+945;Pegawai 944;S1;Pranata Komputer Muda ;2;4;1;711;83
+946;Pegawai 945;S2;Pranata Keuangan APBN Penyelia ;4;1;2;775;88
+947;Pegawai 946;S1;Pemeriksa Madya;3;4;1;738;91
+948;Pegawai 947;S1;Analis Pengelolaan Keuangan APBN Muda ;5;5;2;635;85
+949;Pegawai 948;S1;Pemeriksa Utama;5;2;2;674;73
+950;Pegawai 949;D4;Analis Pengelolaan Keuangan APBN Muda ;2;4;3;722;93
+951;Pegawai 950;D4;Analis Kepegawaian Muda ;4;4;2;735;99
+952;Pegawai 951;S1;Pranata Keuangan APBN Terampil ;2;4;1;477;99
+953;Pegawai 952;D4;Pemeriksa Madya;4;5;2;571;88
+954;Pegawai 953;D4;Analis Kepegawaian Pertama ;2;2;2;517;85
+955;Pegawai 954;S2;Analis Kepegawaian Pertama ;4;3;2;580;93
+956;Pegawai 955;S1;Pemeriksa Utama;1;1;2;705;74
+957;Pegawai 956;S1;Pranata Komputer Muda ;3;2;3;747;76
+958;Pegawai 957;S1;Pranata Komputer Muda ;4;1;1;500;79
+959;Pegawai 958;S1;Analis Kepegawaian Pertama ;3;2;2;554;83
+960;Pegawai 959;S2;Pemeriksa Muda;5;4;2;472;80
+961;Pegawai 960;S2;Pranata Komputer Pertama ;1;3;1;682;74
+962;Pegawai 961;D4;Analis Pengelolaan Keuangan APBN Pertama ;2;5;2;502;86
+963;Pegawai 962;S1;Pemeriksa Pertama;2;2;3;624;95
+964;Pegawai 963;S1;Pranata Keuangan APBN Terampil ;5;2;3;424;87
+965;Pegawai 964;S1;Arsiparis Muda ;5;2;1;420;94
+966;Pegawai 965;S2;Pemeriksa Pertama;1;5;2;793;74
+967;Pegawai 966;S2;Pranata Komputer Terampil ;5;2;3;554;72
+968;Pegawai 967;S1;Pemeriksa Madya;5;3;2;415;83
+969;Pegawai 968;S1;Pranata Keuangan APBN Terampil ;3;2;3;407;87
+970;Pegawai 969;D4;Pranata Komputer Terampil ;1;2;3;423;82
+971;Pegawai 970;S1;Analis Kepegawaian Muda ;3;3;3;637;97
+972;Pegawai 971;D4;Pemeriksa Utama;4;4;2;740;84
+973;Pegawai 972;S2;Pranata Komputer Muda ;3;2;3;552;90
+974;Pegawai 973;S2;Analis Kepegawaian Pertama ;4;3;3;452;91
+975;Pegawai 974;S2;Pranata Keuangan APBN Mahir ;4;1;1;774;94
+976;Pegawai 975;S1;Analis Kepegawaian Pertama ;5;5;2;546;92
+977;Pegawai 976;D4;Pemeriksa Utama;5;2;2;613;78
+978;Pegawai 977;D4;Analis Pengelolaan Keuangan APBN Pertama ;3;1;1;686;71
+979;Pegawai 978;S1;Pemeriksa Pertama;5;5;1;414;78
+980;Pegawai 979;S2;Analis Kepegawaian Muda ;1;1;3;497;88
+981;Pegawai 980;D4;Analis Kepegawaian Muda ;2;3;3;575;87
+982;Pegawai 981;S2;Pemeriksa Pertama;5;3;1;705;80
+983;Pegawai 982;S1;Pemeriksa Muda;5;1;1;519;93
+984;Pegawai 983;S2;Pranata Komputer Muda ;5;4;1;683;97
+985;Pegawai 984;S1;Pranata Komputer Muda ;1;1;1;646;91
+986;Pegawai 985;D4;Pranata Komputer Pertama ;4;5;1;543;91
+987;Pegawai 986;D4;Pranata Keuangan APBN Terampil ;1;5;2;545;92
+988;Pegawai 987;S2;Pranata Komputer Terampil ;4;1;1;740;89
+989;Pegawai 988;S1;Pranata Keuangan APBN Terampil ;5;2;2;538;97
+990;Pegawai 989;S2;Pranata Komputer Terampil ;1;3;1;479;98
+991;Pegawai 990;D4;Pranata Keuangan APBN Terampil ;3;1;3;740;79
+992;Pegawai 991;S1;Analis Kepegawaian Muda ;4;4;1;424;70
+993;Pegawai 992;D4;Analis Kepegawaian Pertama ;1;5;2;686;76
+994;Pegawai 993;D4;Pranata Keuangan APBN Mahir ;3;4;3;579;88
+995;Pegawai 994;S2;Analis Pengelolaan Keuangan APBN Pertama ;1;1;3;682;85
+996;Pegawai 995;S1;Analis Kepegawaian Pertama ;5;1;3;634;87
+997;Pegawai 996;D4;Pemeriksa Madya;1;3;3;516;85
+998;Pegawai 997;D4;Analis Pengelolaan Keuangan APBN Muda ;2;4;3;598;83
+999;Pegawai 998;S2;Pranata Komputer Pertama ;3;1;2;560;94
+1000;Pegawai 999;D4;Pemeriksa Muda;2;3;2;483;78
+1001;Pegawai 1000;S2;Arsiparis Muda ;4;2;2;537;95
+1002;Pegawai 1001;D4;Pemeriksa Pertama;5;5;1;707;80
+1003;Pegawai 1002;S2;Pranata Komputer Muda ;1;4;2;769;93
+1004;Pegawai 1003;D4;Pranata Komputer Terampil ;4;4;2;413;73
+1005;Pegawai 1004;D4;Pemeriksa Madya;2;3;3;798;98
+1006;Pegawai 1005;S1;Analis Kepegawaian Pertama ;2;5;3;403;70
+1007;Pegawai 1006;S1;Pranata Keuangan APBN Terampil ;1;5;3;547;96
+1008;Pegawai 1007;S1;Pranata Komputer Muda ;4;4;2;487;71
+1009;Pegawai 1008;S2;Arsiparis Muda ;2;3;1;567;77
+1010;Pegawai 1009;S2;Pranata Keuangan APBN Terampil ;2;5;2;625;86
+1011;Pegawai 1010;S2;Pemeriksa Madya;5;3;2;538;98
+1012;Pegawai 1011;S2;Pranata Keuangan APBN Penyelia ;5;5;3;488;79
+1013;Pegawai 1012;D4;Pemeriksa Utama;4;5;1;787;92
+1014;Pegawai 1013;S1;Pranata Keuangan APBN Terampil ;4;3;2;714;86
+1015;Pegawai 1014;S2;Pranata Komputer Terampil ;1;5;2;460;95
+1016;Pegawai 1015;S2;Pranata Komputer Pertama ;5;1;1;678;93
+1017;Pegawai 1016;D4;Pranata Keuangan APBN Mahir ;2;5;1;491;97
+1018;Pegawai 1017;S2;Pranata Komputer Pertama ;2;1;1;558;96
+1019;Pegawai 1018;S2;Arsiparis Muda ;4;2;2;625;97
+1020;Pegawai 1019;S2;Pemeriksa Madya;3;1;2;774;79
+1021;Pegawai 1020;S1;Pranata Komputer Muda ;4;2;1;457;94
+1022;Pegawai 1021;S1;Pranata Keuangan APBN Terampil ;1;2;1;765;80
+1023;Pegawai 1022;S2;Analis Pengelolaan Keuangan APBN Muda ;1;4;1;776;91
+1024;Pegawai 1023;S1;Pranata Keuangan APBN Terampil ;4;3;2;667;85
+1025;Pegawai 1024;S1;Analis Kepegawaian Pertama ;2;5;2;794;83
+1026;Pegawai 1025;D4;Pranata Komputer Muda ;2;4;2;649;92
+1027;Pegawai 1026;D4;Analis Kepegawaian Pertama ;4;4;2;749;97
+1028;Pegawai 1027;S1;Analis Kepegawaian Pertama ;5;4;2;630;87
+1029;Pegawai 1028;S2;Analis Kepegawaian Pertama ;4;1;1;560;95
+1030;Pegawai 1029;S1;Analis Pengelolaan Keuangan APBN Pertama ;2;4;2;713;82
+1031;Pegawai 1030;S1;Pemeriksa Utama;3;1;1;736;92
+1032;Pegawai 1031;D4;Analis Kepegawaian Pertama ;5;5;3;593;85
+1033;Pegawai 1032;D4;Pemeriksa Madya;3;3;3;796;94
+1034;Pegawai 1033;S1;Pemeriksa Pertama;5;2;1;439;72
+1035;Pegawai 1034;S1;Analis Pengelolaan Keuangan APBN Muda ;4;5;2;520;77
+1036;Pegawai 1035;D4;Pranata Keuangan APBN Penyelia ;4;3;3;528;74
+1037;Pegawai 1036;S2;Pranata Keuangan APBN Penyelia ;1;2;1;749;88
+1038;Pegawai 1037;D4;Pranata Komputer Pertama ;2;4;2;751;86
+1039;Pegawai 1038;D4;Pemeriksa Pertama;2;2;1;709;97
+1040;Pegawai 1039;S1;Pranata Komputer Terampil ;2;5;2;668;78
+1041;Pegawai 1040;S2;Pemeriksa Pertama;2;4;1;784;97
+1042;Pegawai 1041;S2;Pranata Keuangan APBN Penyelia ;4;5;3;604;81
+1043;Pegawai 1042;S1;Pemeriksa Utama;4;1;2;404;97
+1044;Pegawai 1043;S2;Analis Pengelolaan Keuangan APBN Muda ;3;3;2;512;82
+1045;Pegawai 1044;S1;Pranata Keuangan APBN Mahir ;4;5;1;658;83
+1046;Pegawai 1045;D4;Pemeriksa Madya;2;2;2;788;87
+1047;Pegawai 1046;S1;Pranata Komputer Muda ;4;5;3;635;99
+1048;Pegawai 1047;S2;Pranata Komputer Pertama ;5;2;3;462;89
+1049;Pegawai 1048;S2;Pranata Keuangan APBN Penyelia ;5;3;3;515;79
+1050;Pegawai 1049;S1;Pemeriksa Muda;2;2;2;689;80
+1051;Pegawai 1050;S2;Analis Pengelolaan Keuangan APBN Muda ;2;1;2;604;90
+1052;Pegawai 1051;D4;Pranata Komputer Terampil ;5;5;2;636;76
+1053;Pegawai 1052;S1;Pemeriksa Pertama;5;1;2;754;74
+1054;Pegawai 1053;S2;Analis Kepegawaian Muda ;5;1;3;711;89
+1055;Pegawai 1054;S2;Pranata Komputer Pertama ;2;4;3;668;90
+1056;Pegawai 1055;D4;Pranata Komputer Muda ;3;4;3;586;73
+1057;Pegawai 1056;S2;Pemeriksa Muda;4;4;1;704;93
+1058;Pegawai 1057;S1;Pranata Keuangan APBN Terampil ;1;4;2;403;83
+1059;Pegawai 1058;S1;Pranata Komputer Terampil ;4;2;2;480;99
+1060;Pegawai 1059;S1;Analis Kepegawaian Muda ;2;1;1;443;84
+1061;Pegawai 1060;D4;Pemeriksa Madya;5;1;1;767;96
+1062;Pegawai 1061;D4;Pranata Komputer Pertama ;3;1;3;748;90
+1063;Pegawai 1062;D4;Pemeriksa Madya;3;5;1;558;96
+1064;Pegawai 1063;S1;Pranata Keuangan APBN Penyelia ;5;2;3;724;87
+1065;Pegawai 1064;S1;Pranata Keuangan APBN Mahir ;1;5;1;640;99
+1066;Pegawai 1065;S2;Pranata Keuangan APBN Penyelia ;4;1;3;545;73
+1067;Pegawai 1066;D4;Pemeriksa Utama;4;1;2;644;80
+1068;Pegawai 1067;S2;Analis Pengelolaan Keuangan APBN Muda ;4;5;3;654;83
+1069;Pegawai 1068;S1;Arsiparis Muda ;5;4;3;485;83
+1070;Pegawai 1069;S2;Pranata Komputer Pertama ;1;5;2;511;96
+1071;Pegawai 1070;S1;Pranata Komputer Pertama ;2;1;2;617;94
+1072;Pegawai 1071;S1;Analis Pengelolaan Keuangan APBN Pertama ;4;2;1;690;79
+1073;Pegawai 1072;D4;Pemeriksa Muda;1;5;3;677;88
+1074;Pegawai 1073;S1;Pemeriksa Muda;5;5;1;662;92
+1075;Pegawai 1074;S2;Pemeriksa Muda;2;5;2;597;74
+1076;Pegawai 1075;S2;Pemeriksa Pertama;3;4;3;452;81
+1077;Pegawai 1076;S2;Pranata Keuangan APBN Penyelia ;1;4;2;731;79
+1078;Pegawai 1077;S1;Arsiparis Muda ;4;3;2;466;90
+1079;Pegawai 1078;S1;Pemeriksa Utama;1;3;3;452;98
+1080;Pegawai 1079;D4;Analis Pengelolaan Keuangan APBN Muda ;4;2;2;728;83
+1081;Pegawai 1080;S2;Pranata Komputer Pertama ;5;2;1;723;83
+1082;Pegawai 1081;D4;Analis Pengelolaan Keuangan APBN Muda ;1;1;2;710;99
+1083;Pegawai 1082;S2;Pranata Komputer Terampil ;5;2;1;727;70
+1084;Pegawai 1083;S2;Arsiparis Muda ;4;1;1;513;78
+1085;Pegawai 1084;S1;Analis Kepegawaian Pertama ;2;3;3;547;97
+1086;Pegawai 1085;S1;Pemeriksa Muda;1;3;1;469;79
+1087;Pegawai 1086;S1;Pranata Keuangan APBN Terampil ;5;1;2;417;81
+1088;Pegawai 1087;S2;Pranata Keuangan APBN Penyelia ;4;3;1;757;77
+1089;Pegawai 1088;S1;Pemeriksa Madya;2;3;2;681;76
+1090;Pegawai 1089;S1;Pemeriksa Madya;1;5;2;539;94
+1091;Pegawai 1090;D4;Pemeriksa Madya;3;5;1;531;97
+1092;Pegawai 1091;D4;Pranata Keuangan APBN Mahir ;5;5;2;694;84
+1093;Pegawai 1092;S2;Pranata Komputer Terampil ;3;3;2;440;94
+1094;Pegawai 1093;S2;Analis Pengelolaan Keuangan APBN Muda ;1;5;1;703;85
+1095;Pegawai 1094;S2;Analis Pengelolaan Keuangan APBN Muda ;2;2;3;487;79
+1096;Pegawai 1095;D4;Pemeriksa Utama;1;2;3;588;81
+1097;Pegawai 1096;S1;Pemeriksa Pertama;4;3;3;633;73
+1098;Pegawai 1097;D4;Pranata Komputer Muda ;4;3;1;540;71
+1099;Pegawai 1098;S1;Analis Pengelolaan Keuangan APBN Muda ;5;4;2;525;76
+1100;Pegawai 1099;S2;Pemeriksa Muda;1;3;3;669;72
+1101;Pegawai 1100;S2;Analis Kepegawaian Pertama ;2;1;2;664;99
+1102;Pegawai 1101;S2;Pranata Keuangan APBN Mahir ;1;5;1;649;92
+1103;Pegawai 1102;S2;Pemeriksa Pertama;3;4;2;715;86
+1104;Pegawai 1103;D4;Analis Pengelolaan Keuangan APBN Pertama ;4;2;1;593;85
+1105;Pegawai 1104;S1;Pemeriksa Muda;2;5;1;507;93
+1106;Pegawai 1105;S1;Analis Kepegawaian Muda ;5;2;2;639;83
+1107;Pegawai 1106;S1;Pemeriksa Utama;4;2;1;545;88
+1108;Pegawai 1107;D4;Analis Kepegawaian Pertama ;3;4;3;508;85
+1109;Pegawai 1108;S2;Pemeriksa Muda;4;4;2;796;73
+1110;Pegawai 1109;S1;Analis Kepegawaian Pertama ;1;5;3;792;95
+1111;Pegawai 1110;S1;Pemeriksa Pertama;3;5;3;745;79
+1112;Pegawai 1111;S2;Pemeriksa Madya;3;3;2;573;81
+1113;Pegawai 1112;S2;Pranata Keuangan APBN Terampil ;2;4;3;714;95
+1114;Pegawai 1113;S2;Analis Kepegawaian Muda ;2;5;3;430;85
+1115;Pegawai 1114;D4;Pranata Keuangan APBN Terampil ;4;5;3;738;91
+1116;Pegawai 1115;D4;Pemeriksa Utama;4;3;1;597;96
+1117;Pegawai 1116;S2;Pranata Komputer Muda ;2;4;1;588;96
+1118;Pegawai 1117;S1;Pranata Komputer Terampil ;3;4;1;559;86
+1119;Pegawai 1118;D4;Pranata Komputer Pertama ;2;2;2;678;97
+1120;Pegawai 1119;D4;Pranata Keuangan APBN Terampil ;2;2;3;569;84
+1121;Pegawai 1120;S1;Pemeriksa Utama;1;3;2;672;85
+1122;Pegawai 1121;S1;Pranata Keuangan APBN Terampil ;4;2;3;745;71
+1123;Pegawai 1122;S2;Pemeriksa Muda;1;5;3;492;79
+1124;Pegawai 1123;S2;Pranata Keuangan APBN Penyelia ;3;3;2;519;87
+1125;Pegawai 1124;S1;Pranata Keuangan APBN Mahir ;5;2;3;624;96
+1126;Pegawai 1125;D4;Pemeriksa Muda;1;3;1;770;91
+1127;Pegawai 1126;S1;Pranata Keuangan APBN Mahir ;1;5;2;622;86
+1128;Pegawai 1127;S1;Pranata Komputer Muda ;4;3;2;659;98
+1129;Pegawai 1128;S2;Pemeriksa Madya;1;4;3;479;94
+1130;Pegawai 1129;S2;Pemeriksa Madya;3;2;3;723;92
+1131;Pegawai 1130;D4;Analis Kepegawaian Pertama ;2;1;1;539;76
+1132;Pegawai 1131;S1;Pemeriksa Muda;2;1;1;719;95
+1133;Pegawai 1132;S2;Analis Kepegawaian Pertama ;5;1;3;459;87
+1134;Pegawai 1133;D4;Pranata Komputer Pertama ;5;3;3;694;88
+1135;Pegawai 1134;S1;Pranata Komputer Pertama ;1;1;3;462;71
+1136;Pegawai 1135;S1;Pranata Keuangan APBN Terampil ;3;2;2;430;86
+1137;Pegawai 1136;S2;Pranata Keuangan APBN Terampil ;5;5;3;758;89
+1138;Pegawai 1137;D4;Analis Pengelolaan Keuangan APBN Pertama ;1;4;3;683;87
+1139;Pegawai 1138;S1;Analis Kepegawaian Muda ;3;1;2;598;85
+1140;Pegawai 1139;D4;Analis Kepegawaian Pertama ;1;4;3;694;77
+1141;Pegawai 1140;D4;Pranata Komputer Muda ;2;3;1;506;85
+1142;Pegawai 1141;S2;Pemeriksa Pertama;1;1;3;436;83
+1143;Pegawai 1142;D4;Analis Pengelolaan Keuangan APBN Pertama ;4;3;1;699;84
+1144;Pegawai 1143;D4;Pranata Keuangan APBN Penyelia ;4;3;1;655;90
+1145;Pegawai 1144;S2;Pemeriksa Utama;2;3;2;651;78
+1146;Pegawai 1145;S1;Pranata Keuangan APBN Terampil ;5;3;2;643;89
+1147;Pegawai 1146;S2;Pemeriksa Madya;1;5;2;456;89
+1148;Pegawai 1147;S2;Pemeriksa Muda;1;4;3;429;95
+1149;Pegawai 1148;S1;Arsiparis Muda ;2;3;1;454;89
+1150;Pegawai 1149;S2;Pemeriksa Muda;5;3;2;430;78
+1151;Pegawai 1150;S1;Pemeriksa Muda;1;4;3;795;83
+1152;Pegawai 1151;S2;Pranata Komputer Terampil ;4;3;1;435;93
+1153;Pegawai 1152;S1;Analis Pengelolaan Keuangan APBN Pertama ;2;3;1;678;73
+1154;Pegawai 1153;S2;Analis Pengelolaan Keuangan APBN Pertama ;5;3;2;472;95
+1155;Pegawai 1154;S1;Pranata Keuangan APBN Terampil ;1;4;3;442;91
+1156;Pegawai 1155;S1;Pranata Keuangan APBN Mahir ;3;4;2;448;79
+1157;Pegawai 1156;S1;Analis Kepegawaian Muda ;3;4;1;598;84
+1158;Pegawai 1157;S1;Analis Kepegawaian Pertama ;5;5;1;510;76
+1159;Pegawai 1158;D4;Analis Pengelolaan Keuangan APBN Pertama ;3;3;1;408;85
+1160;Pegawai 1159;S1;Pemeriksa Madya;1;4;3;517;81
+1161;Pegawai 1160;S1;Pemeriksa Pertama;3;5;1;663;84
+1162;Pegawai 1161;D4;Pemeriksa Muda;2;1;1;464;89
+1163;Pegawai 1162;S1;Analis Pengelolaan Keuangan APBN Pertama ;1;1;3;762;87
+1164;Pegawai 1163;S2;Pranata Keuangan APBN Terampil ;3;2;2;660;89
+1165;Pegawai 1164;D4;Pranata Keuangan APBN Penyelia ;2;5;2;616;70
+1166;Pegawai 1165;D4;Pranata Keuangan APBN Mahir ;4;3;2;647;84
+1167;Pegawai 1166;D4;Pranata Keuangan APBN Penyelia ;5;1;3;531;70
+1168;Pegawai 1167;D4;Analis Pengelolaan Keuangan APBN Pertama ;1;1;3;730;90
+1169;Pegawai 1168;D4;Pranata Keuangan APBN Mahir ;1;5;1;473;74
+1170;Pegawai 1169;S1;Pranata Keuangan APBN Mahir ;4;2;2;530;97
+1171;Pegawai 1170;S1;Pemeriksa Pertama;2;4;3;791;81
+1172;Pegawai 1171;D4;Analis Kepegawaian Pertama ;4;3;2;553;80
+1173;Pegawai 1172;S1;Pemeriksa Pertama;2;3;2;719;84
+1174;Pegawai 1173;S2;Pemeriksa Utama;5;1;2;730;72
+1175;Pegawai 1174;S1;Pranata Komputer Muda ;4;5;2;548;98
+1176;Pegawai 1175;S1;Arsiparis Muda ;2;5;1;654;97
+1177;Pegawai 1176;D4;Pemeriksa Pertama;4;5;2;626;98
+1178;Pegawai 1177;D4;Analis Pengelolaan Keuangan APBN Muda ;4;4;2;495;98
+1179;Pegawai 1178;S2;Pranata Komputer Pertama ;3;5;3;758;78
+1180;Pegawai 1179;D4;Pranata Komputer Muda ;5;3;1;435;98
+1181;Pegawai 1180;S2;Pemeriksa Utama;1;3;1;604;81
+1182;Pegawai 1181;S1;Arsiparis Muda ;3;1;2;452;89
+1183;Pegawai 1182;S1;Pranata Keuangan APBN Mahir ;5;3;1;747;90
+1184;Pegawai 1183;D4;Pranata Komputer Pertama ;5;4;1;498;86
+1185;Pegawai 1184;S2;Pranata Keuangan APBN Mahir ;3;4;1;590;84
+1186;Pegawai 1185;D4;Pranata Keuangan APBN Penyelia ;5;5;1;587;90
+1187;Pegawai 1186;D4;Pemeriksa Madya;3;5;2;449;95
+1188;Pegawai 1187;S1;Pranata Keuangan APBN Terampil ;1;1;2;610;90
+1189;Pegawai 1188;D4;Analis Kepegawaian Muda ;1;2;1;537;93
+1190;Pegawai 1189;S2;Pranata Keuangan APBN Terampil ;2;1;2;484;70
+1191;Pegawai 1190;S1;Pemeriksa Muda;4;4;1;559;70
+1192;Pegawai 1191;S2;Analis Kepegawaian Pertama ;2;4;1;551;82
+1193;Pegawai 1192;D4;Pranata Keuangan APBN Penyelia ;1;3;1;451;77
+1194;Pegawai 1193;D4;Pemeriksa Madya;3;3;3;752;96
+1195;Pegawai 1194;S1;Pranata Keuangan APBN Penyelia ;2;3;3;445;87
+1196;Pegawai 1195;S2;Pranata Keuangan APBN Penyelia ;5;5;2;661;76
+1197;Pegawai 1196;S1;Analis Pengelolaan Keuangan APBN Pertama ;1;3;1;669;94
+1198;Pegawai 1197;S1;Analis Pengelolaan Keuangan APBN Muda ;5;4;3;686;95
+1199;Pegawai 1198;S2;Pranata Keuangan APBN Mahir ;1;1;1;445;92
+1200;Pegawai 1199;S1;Analis Kepegawaian Pertama ;4;5;2;760;97
+1201;Pegawai 1200;S1;Analis Kepegawaian Pertama ;1;3;2;650;76
+1202;Pegawai 1201;S1;Pranata Keuangan APBN Mahir ;4;3;1;694;89
+1203;Pegawai 1202;D4;Pranata Komputer Muda ;5;1;1;698;70
+1204;Pegawai 1203;D4;Pemeriksa Madya;5;2;2;692;78
+1205;Pegawai 1204;S2;Pemeriksa Madya;4;1;1;621;73
+1206;Pegawai 1205;D4;Pranata Komputer Muda ;4;5;1;684;93
+1207;Pegawai 1206;S2;Pemeriksa Utama;2;2;2;582;92
+1208;Pegawai 1207;D4;Pemeriksa Muda;5;1;2;634;79
+1209;Pegawai 1208;D4;Pranata Komputer Pertama ;3;5;2;569;70
+1210;Pegawai 1209;S2;Pranata Keuangan APBN Mahir ;3;2;3;681;86
+1211;Pegawai 1210;S2;Pranata Keuangan APBN Penyelia ;2;5;3;610;83
+1212;Pegawai 1211;D4;Pranata Komputer Terampil ;5;4;2;676;99
+1213;Pegawai 1212;D4;Pemeriksa Utama;2;3;3;428;86
+1214;Pegawai 1213;S1;Analis Kepegawaian Muda ;3;2;1;728;72
+1215;Pegawai 1214;S2;Analis Kepegawaian Muda ;2;4;1;774;72
+1216;Pegawai 1215;D4;Pranata Komputer Pertama ;3;3;2;449;74
+1217;Pegawai 1216;S2;Analis Kepegawaian Muda ;3;4;2;614;88
+1218;Pegawai 1217;S2;Analis Pengelolaan Keuangan APBN Pertama ;2;1;3;718;88
+1219;Pegawai 1218;D4;Pemeriksa Pertama;1;4;1;561;75
+1220;Pegawai 1219;S1;Analis Kepegawaian Muda ;5;4;3;506;86
+1221;Pegawai 1220;S1;Analis Pengelolaan Keuangan APBN Muda ;3;3;3;467;74
+1222;Pegawai 1221;S1;Pemeriksa Madya;2;5;1;713;91
+1223;Pegawai 1222;S1;Pemeriksa Madya;4;4;2;592;70
+1224;Pegawai 1223;D4;Analis Pengelolaan Keuangan APBN Muda ;2;5;3;474;90
+1225;Pegawai 1224;S1;Pranata Komputer Terampil ;2;5;1;419;90
+1226;Pegawai 1225;S2;Analis Pengelolaan Keuangan APBN Muda ;2;3;1;616;76
+1227;Pegawai 1226;S1;Analis Kepegawaian Pertama ;1;3;1;550;83
+1228;Pegawai 1227;S2;Arsiparis Muda ;1;2;3;582;79
+1229;Pegawai 1228;S1;Analis Kepegawaian Muda ;5;4;2;591;78
+1230;Pegawai 1229;S2;Pemeriksa Pertama;1;1;2;630;81
+1231;Pegawai 1230;S1;Analis Kepegawaian Pertama ;4;3;1;710;70
+1232;Pegawai 1231;D4;Pemeriksa Utama;3;2;1;787;76
+1233;Pegawai 1232;D4;Pemeriksa Muda;2;2;1;463;72
+1234;Pegawai 1233;D4;Pranata Keuangan APBN Penyelia ;1;2;3;727;97
+1235;Pegawai 1234;S2;Pranata Keuangan APBN Penyelia ;1;4;2;789;80
+1236;Pegawai 1235;S1;Analis Pengelolaan Keuangan APBN Pertama ;1;5;3;495;98
+1237;Pegawai 1236;S2;Pranata Komputer Pertama ;3;4;1;785;83
+1238;Pegawai 1237;S2;Pranata Komputer Terampil ;3;2;3;452;82
+1239;Pegawai 1238;S2;Pemeriksa Muda;1;4;1;432;83
+1240;Pegawai 1239;D4;Pemeriksa Madya;3;4;1;680;90
+1241;Pegawai 1240;D4;Pemeriksa Utama;1;4;1;414;74
+1242;Pegawai 1241;S2;Pranata Komputer Muda ;5;3;3;722;94
+1243;Pegawai 1242;S2;Pranata Komputer Pertama ;5;4;3;660;98
+1244;Pegawai 1243;S1;Pranata Komputer Muda ;2;2;2;600;98
+1245;Pegawai 1244;D4;Pranata Keuangan APBN Penyelia ;5;5;1;582;83
+1246;Pegawai 1245;D4;Analis Kepegawaian Pertama ;2;2;1;685;85
+1247;Pegawai 1246;S1;Pemeriksa Madya;2;3;3;406;89
+1248;Pegawai 1247;D4;Pranata Keuangan APBN Penyelia ;4;4;3;572;97
+1249;Pegawai 1248;D4;Pemeriksa Utama;3;4;3;592;74
+1250;Pegawai 1249;S1;Pemeriksa Utama;5;2;2;676;85
+1251;Pegawai 1250;S2;Pranata Keuangan APBN Mahir ;5;1;1;650;98
+1252;Pegawai 1251;S1;Pranata Komputer Muda ;1;5;3;525;83
+1253;Pegawai 1252;D4;Pranata Keuangan APBN Penyelia ;4;3;2;708;86
+1254;Pegawai 1253;S2;Pranata Komputer Muda ;4;1;1;430;85
+1255;Pegawai 1254;D4;Analis Kepegawaian Muda ;4;4;1;442;80
+1256;Pegawai 1255;D4;Pemeriksa Pertama;4;4;3;425;86
+1257;Pegawai 1256;D4;Pranata Komputer Pertama ;1;1;2;561;90
+1258;Pegawai 1257;S1;Arsiparis Muda ;4;2;1;432;99
+1259;Pegawai 1258;S2;Pranata Keuangan APBN Terampil ;4;4;1;647;89
+1260;Pegawai 1259;S2;Analis Kepegawaian Muda ;3;1;1;728;79
+1261;Pegawai 1260;D4;Pranata Keuangan APBN Penyelia ;4;4;2;438;86
+1262;Pegawai 1261;S1;Pranata Keuangan APBN Penyelia ;5;1;2;752;70
+1263;Pegawai 1262;D4;Pemeriksa Muda;1;2;1;437;72
+1264;Pegawai 1263;S1;Pemeriksa Muda;2;3;3;773;95
+1265;Pegawai 1264;S2;Analis Kepegawaian Pertama ;5;5;3;663;73
+1266;Pegawai 1265;S2;Analis Kepegawaian Muda ;5;1;2;613;81
+1267;Pegawai 1266;S1;Pranata Komputer Muda ;5;5;2;428;94
+1268;Pegawai 1267;D4;Pemeriksa Muda;3;5;3;640;84
+1269;Pegawai 1268;S1;Pemeriksa Muda;4;3;1;664;92
+1270;Pegawai 1269;S2;Pemeriksa Pertama;4;3;3;459;96
+1271;Pegawai 1270;D4;Arsiparis Muda ;1;1;1;608;95
+1272;Pegawai 1271;D4;Analis Kepegawaian Muda ;2;5;3;597;99
+1273;Pegawai 1272;D4;Pemeriksa Pertama;1;3;1;503;79
+1274;Pegawai 1273;D4;Pranata Keuangan APBN Penyelia ;3;3;3;463;93
+1275;Pegawai 1274;D4;Pranata Komputer Muda ;3;5;3;409;88
+1276;Pegawai 1275;D4;Pranata Komputer Terampil ;5;4;3;771;94
+1277;Pegawai 1276;D4;Analis Pengelolaan Keuangan APBN Pertama ;4;5;2;662;80
+1278;Pegawai 1277;S1;Analis Pengelolaan Keuangan APBN Pertama ;1;2;2;534;88
+1279;Pegawai 1278;D4;Pemeriksa Pertama;2;3;3;567;88
+1280;Pegawai 1279;S2;Pemeriksa Madya;5;2;2;776;70
+1281;Pegawai 1280;D4;Analis Kepegawaian Pertama ;1;2;2;713;89
+1282;Pegawai 1281;D4;Pemeriksa Muda;3;2;1;636;95
+1283;Pegawai 1282;S1;Analis Kepegawaian Pertama ;3;3;3;769;77
+1284;Pegawai 1283;S2;Pranata Komputer Pertama ;2;5;2;540;74
+1285;Pegawai 1284;S2;Pemeriksa Muda;3;2;2;704;97
+1286;Pegawai 1285;S1;Pranata Keuangan APBN Terampil ;3;4;1;742;85
+1287;Pegawai 1286;S1;Pranata Komputer Muda ;5;5;3;684;73
+1288;Pegawai 1287;S1;Pranata Komputer Terampil ;1;3;1;446;84
+1289;Pegawai 1288;D4;Pranata Keuangan APBN Terampil ;1;4;1;618;88
+1290;Pegawai 1289;S2;Pranata Komputer Pertama ;1;3;2;408;87
+1291;Pegawai 1290;S1;Pemeriksa Pertama;5;3;2;625;94
+1292;Pegawai 1291;D4;Pemeriksa Pertama;2;4;1;414;93
+1293;Pegawai 1292;S2;Analis Pengelolaan Keuangan APBN Pertama ;1;1;3;683;94
+1294;Pegawai 1293;S2;Pemeriksa Madya;5;1;3;755;72
+1295;Pegawai 1294;D4;Analis Kepegawaian Muda ;4;3;1;605;70
+1296;Pegawai 1295;S2;Pranata Komputer Muda ;1;4;1;648;73
+1297;Pegawai 1296;S1;Analis Kepegawaian Muda ;5;5;3;419;91
+1298;Pegawai 1297;D4;Pemeriksa Muda;5;2;3;488;70
+1299;Pegawai 1298;D4;Pemeriksa Muda;3;1;3;525;91
+1300;Pegawai 1299;S1;Pranata Komputer Pertama ;5;1;2;782;91
+1301;Pegawai 1300;D4;Pranata Keuangan APBN Mahir ;1;2;1;512;70
+1302;Pegawai 1301;S1;Pranata Keuangan APBN Terampil ;1;2;2;796;70
+1303;Pegawai 1302;D4;Analis Pengelolaan Keuangan APBN Pertama ;5;4;1;450;79
+1304;Pegawai 1303;S1;Pranata Keuangan APBN Penyelia ;4;4;3;742;85
+1305;Pegawai 1304;D4;Pemeriksa Utama;5;3;3;517;84
+1306;Pegawai 1305;D4;Pranata Komputer Pertama ;1;4;1;541;92
+1307;Pegawai 1306;D4;Analis Pengelolaan Keuangan APBN Pertama ;4;5;2;407;86
+1308;Pegawai 1307;S1;Pranata Keuangan APBN Penyelia ;4;3;2;630;89
+1309;Pegawai 1308;D4;Pranata Keuangan APBN Mahir ;1;1;2;552;99
+1310;Pegawai 1309;S2;Analis Pengelolaan Keuangan APBN Muda ;1;3;1;748;88
+1311;Pegawai 1310;S2;Analis Pengelolaan Keuangan APBN Pertama ;4;4;2;754;85
+1312;Pegawai 1311;S1;Pranata Komputer Pertama ;1;4;2;556;75
+1313;Pegawai 1312;S1;Pemeriksa Pertama;4;4;3;667;73
+1314;Pegawai 1313;D4;Pemeriksa Muda;1;2;1;444;79
+1315;Pegawai 1314;D4;Pemeriksa Pertama;2;1;1;543;73
+1316;Pegawai 1315;S2;Pranata Komputer Muda ;2;4;1;731;87
+1317;Pegawai 1316;S2;Pranata Komputer Pertama ;5;3;2;605;88
+1318;Pegawai 1317;S1;Pranata Keuangan APBN Penyelia ;5;1;3;687;99
+1319;Pegawai 1318;S2;Pemeriksa Utama;3;2;1;798;75
+1320;Pegawai 1319;D4;Analis Pengelolaan Keuangan APBN Pertama ;3;5;1;588;78
+1321;Pegawai 1320;S2;Pranata Keuangan APBN Mahir ;2;5;1;635;83
+1322;Pegawai 1321;D4;Analis Pengelolaan Keuangan APBN Pertama ;4;5;3;790;88
+1323;Pegawai 1322;S1;Pemeriksa Pertama;3;5;1;559;82
+1324;Pegawai 1323;S1;Pranata Keuangan APBN Penyelia ;5;4;1;684;71
+1325;Pegawai 1324;S1;Pemeriksa Utama;3;2;3;534;86
+1326;Pegawai 1325;S2;Pranata Komputer Pertama ;4;4;1;565;97
+1327;Pegawai 1326;S1;Arsiparis Muda ;4;2;1;760;95
+1328;Pegawai 1327;S2;Pranata Keuangan APBN Mahir ;2;3;2;520;97
+1329;Pegawai 1328;S1;Pemeriksa Utama;4;3;2;418;94
+1330;Pegawai 1329;S1;Pemeriksa Pertama;4;4;2;532;86
+1331;Pegawai 1330;S2;Analis Pengelolaan Keuangan APBN Muda ;5;4;1;743;77
+1332;Pegawai 1331;D4;Pranata Komputer Muda ;2;2;2;480;94
+1333;Pegawai 1332;D4;Pranata Komputer Muda ;5;1;2;495;75
+1334;Pegawai 1333;S2;Pemeriksa Pertama;3;5;1;438;88
+1335;Pegawai 1334;S2;Analis Pengelolaan Keuangan APBN Pertama ;5;2;3;490;97
+1336;Pegawai 1335;D4;Pemeriksa Muda;2;2;2;473;74
+1337;Pegawai 1336;S2;Pranata Keuangan APBN Penyelia ;3;4;1;615;73
+1338;Pegawai 1337;D4;Analis Kepegawaian Pertama ;1;5;1;762;96
+1339;Pegawai 1338;S1;Pranata Komputer Muda ;1;5;1;626;84
+1340;Pegawai 1339;S1;Analis Kepegawaian Pertama ;5;4;2;474;98
+1341;Pegawai 1340;D4;Pemeriksa Madya;1;3;3;545;99
+1342;Pegawai 1341;D4;Analis Pengelolaan Keuangan APBN Pertama ;5;2;3;612;77
+1343;Pegawai 1342;S1;Analis Kepegawaian Muda ;4;2;1;638;83
+1344;Pegawai 1343;S1;Pranata Keuangan APBN Terampil ;4;3;2;495;95
+1345;Pegawai 1344;D4;Pranata Keuangan APBN Terampil ;2;5;2;557;81
+1346;Pegawai 1345;S2;Pranata Komputer Terampil ;3;5;2;581;71
+1347;Pegawai 1346;S1;Pranata Keuangan APBN Terampil ;3;2;3;732;84
+1348;Pegawai 1347;S2;Pranata Keuangan APBN Penyelia ;4;2;1;705;94
+1349;Pegawai 1348;S1;Pranata Keuangan APBN Terampil ;4;2;1;740;91
+1350;Pegawai 1349;D4;Pemeriksa Utama;4;3;1;741;74
+1351;Pegawai 1350;S2;Pemeriksa Madya;1;2;2;703;75
+1352;Pegawai 1351;D4;Analis Pengelolaan Keuangan APBN Pertama ;5;1;2;746;91
+1353;Pegawai 1352;S2;Pemeriksa Madya;1;2;2;741;91
+1354;Pegawai 1353;D4;Analis Kepegawaian Muda ;3;1;3;670;71
+1355;Pegawai 1354;D4;Pranata Keuangan APBN Terampil ;4;1;2;696;94
+1356;Pegawai 1355;S2;Pemeriksa Muda;4;1;3;634;70
+1357;Pegawai 1356;D4;Pemeriksa Pertama;2;5;2;402;78
+1358;Pegawai 1357;S1;Pemeriksa Utama;3;2;1;561;94
+1359;Pegawai 1358;D4;Analis Kepegawaian Muda ;1;4;1;409;78
+1360;Pegawai 1359;S2;Pemeriksa Madya;4;5;3;583;80
+1361;Pegawai 1360;D4;Pemeriksa Madya;3;3;3;777;78
+1362;Pegawai 1361;D4;Pemeriksa Madya;2;2;2;582;89
+1363;Pegawai 1362;S2;Pemeriksa Madya;3;1;3;560;85
+1364;Pegawai 1363;S2;Pranata Keuangan APBN Terampil ;2;4;2;413;95
+1365;Pegawai 1364;S2;Pemeriksa Utama;4;3;3;670;99
+1366;Pegawai 1365;D4;Pemeriksa Muda;5;3;3;753;72
+1367;Pegawai 1366;S1;Analis Kepegawaian Muda ;3;4;1;526;76
+1368;Pegawai 1367;S2;Pranata Komputer Pertama ;4;4;3;411;87
+1369;Pegawai 1368;S2;Pemeriksa Madya;4;4;1;417;78
+1370;Pegawai 1369;S2;Arsiparis Muda ;5;1;3;409;90
+1371;Pegawai 1370;S2;Pemeriksa Utama;5;4;3;764;78
+1372;Pegawai 1371;S1;Analis Kepegawaian Pertama ;1;4;1;704;84
+1373;Pegawai 1372;S2;Pranata Keuangan APBN Penyelia ;1;1;2;777;96
+1374;Pegawai 1373;S1;Analis Pengelolaan Keuangan APBN Muda ;5;1;1;424;81
+1375;Pegawai 1374;D4;Pranata Keuangan APBN Mahir ;3;2;3;606;86
+1376;Pegawai 1375;D4;Pranata Komputer Muda ;2;2;3;693;82
+1377;Pegawai 1376;D4;Pemeriksa Muda;1;4;2;447;77
+1378;Pegawai 1377;S2;Pemeriksa Utama;3;3;2;574;96
+1379;Pegawai 1378;S2;Pranata Komputer Muda ;1;5;1;687;82
+1380;Pegawai 1379;D4;Pemeriksa Madya;3;3;2;464;72
+1381;Pegawai 1380;S1;Analis Kepegawaian Pertama ;2;1;1;597;77
+1382;Pegawai 1381;D4;Pranata Keuangan APBN Terampil ;1;5;3;551;94
+1383;Pegawai 1382;S2;Pranata Komputer Muda ;1;3;1;692;78
+1384;Pegawai 1383;S2;Analis Kepegawaian Muda ;2;2;3;504;87
+1385;Pegawai 1384;S2;Arsiparis Muda ;5;3;2;622;98
+1386;Pegawai 1385;S1;Pranata Keuangan APBN Mahir ;2;5;2;425;95
+1387;Pegawai 1386;S2;Pranata Keuangan APBN Mahir ;5;5;3;420;86
+1388;Pegawai 1387;S1;Analis Pengelolaan Keuangan APBN Muda ;4;2;1;525;84
+1389;Pegawai 1388;S1;Pemeriksa Pertama;4;3;1;418;74
+1390;Pegawai 1389;S2;Arsiparis Muda ;1;3;3;690;99
+1391;Pegawai 1390;D4;Pranata Keuangan APBN Penyelia ;5;1;1;467;73
+1392;Pegawai 1391;D4;Analis Kepegawaian Pertama ;3;4;3;643;87
+1393;Pegawai 1392;D4;Pranata Komputer Muda ;2;4;3;789;84
+1394;Pegawai 1393;D4;Pemeriksa Pertama;3;5;2;408;96
+1395;Pegawai 1394;S1;Analis Pengelolaan Keuangan APBN Pertama ;1;5;3;519;95
+1396;Pegawai 1395;S1;Pranata Keuangan APBN Mahir ;1;2;2;799;93
+1397;Pegawai 1396;S1;Pemeriksa Muda;3;1;1;633;92
+1398;Pegawai 1397;S1;Pranata Keuangan APBN Penyelia ;1;5;2;517;70
+1399;Pegawai 1398;D4;Pranata Keuangan APBN Mahir ;1;3;2;579;87
+1400;Pegawai 1399;S1;Pranata Komputer Terampil ;3;1;1;687;97
+1401;Pegawai 1400;S2;Pemeriksa Pertama;3;4;2;434;88
+1402;Pegawai 1401;D4;Pemeriksa Utama;3;2;1;696;76
+1403;Pegawai 1402;D4;Pemeriksa Muda;2;3;3;497;96
+1404;Pegawai 1403;S1;Analis Kepegawaian Pertama ;3;4;1;643;86
+1405;Pegawai 1404;S2;Pemeriksa Pertama;5;3;3;598;85
+1406;Pegawai 1405;S2;Pemeriksa Utama;5;1;2;800;72
+1407;Pegawai 1406;S2;Analis Pengelolaan Keuangan APBN Muda ;5;5;1;708;73
+1408;Pegawai 1407;D4;Pemeriksa Pertama;4;3;1;458;88
+1409;Pegawai 1408;S2;Analis Pengelolaan Keuangan APBN Pertama ;2;1;2;764;83
+1410;Pegawai 1409;S2;Pranata Keuangan APBN Terampil ;4;4;2;797;85
+1411;Pegawai 1410;S2;Pemeriksa Muda;2;3;1;531;77
+1412;Pegawai 1411;D4;Analis Pengelolaan Keuangan APBN Pertama ;1;2;2;702;89
+1413;Pegawai 1412;S2;Analis Pengelolaan Keuangan APBN Muda ;2;3;2;707;83
+1414;Pegawai 1413;D4;Pranata Keuangan APBN Terampil ;3;2;3;757;81
+1415;Pegawai 1414;S1;Pranata Keuangan APBN Mahir ;2;4;1;720;96
+1416;Pegawai 1415;S2;Analis Pengelolaan Keuangan APBN Muda ;2;2;1;473;73
+1417;Pegawai 1416;S1;Pranata Keuangan APBN Mahir ;3;5;2;482;84
+1418;Pegawai 1417;S2;Analis Pengelolaan Keuangan APBN Muda ;5;4;3;633;99
+1419;Pegawai 1418;S2;Pemeriksa Utama;5;2;3;480;81
+1420;Pegawai 1419;S1;Pemeriksa Utama;4;1;1;575;90
+1421;Pegawai 1420;S1;Pranata Keuangan APBN Terampil ;2;4;2;673;86
+1422;Pegawai 1421;D4;Pemeriksa Muda;5;4;1;412;94
+1423;Pegawai 1422;S1;Pemeriksa Utama;3;2;1;559;82
+1424;Pegawai 1423;D4;Pemeriksa Madya;4;2;3;592;75
+1425;Pegawai 1424;D4;Pranata Keuangan APBN Terampil ;1;2;3;526;75
+1426;Pegawai 1425;S1;Arsiparis Muda ;1;4;2;433;70
+1427;Pegawai 1426;S2;Pemeriksa Pertama;3;3;1;792;72
+1428;Pegawai 1427;S1;Pranata Keuangan APBN Terampil ;1;4;2;462;79
+1429;Pegawai 1428;S1;Pranata Komputer Muda ;3;3;2;606;75
+1430;Pegawai 1429;D4;Pranata Keuangan APBN Terampil ;5;2;2;716;88
+1431;Pegawai 1430;S1;Pemeriksa Pertama;4;4;3;426;98
+1432;Pegawai 1431;D4;Analis Kepegawaian Muda ;3;5;3;503;75
+1433;Pegawai 1432;S2;Pemeriksa Madya;2;5;3;498;79
+1434;Pegawai 1433;S1;Analis Pengelolaan Keuangan APBN Pertama ;1;2;1;769;98
+1435;Pegawai 1434;S2;Arsiparis Muda ;2;5;1;607;72
+1436;Pegawai 1435;D4;Pemeriksa Pertama;3;3;1;474;72
+1437;Pegawai 1436;S1;Pranata Keuangan APBN Terampil ;2;5;2;503;93
+1438;Pegawai 1437;S1;Pranata Komputer Terampil ;2;2;2;787;83
+1439;Pegawai 1438;S1;Pranata Keuangan APBN Penyelia ;5;4;1;677;96
+1440;Pegawai 1439;S2;Pranata Keuangan APBN Mahir ;5;5;1;623;73
+1441;Pegawai 1440;S1;Analis Pengelolaan Keuangan APBN Muda ;1;1;1;587;71
+1442;Pegawai 1441;D4;Analis Kepegawaian Pertama ;1;2;2;689;89
+1443;Pegawai 1442;S1;Pranata Komputer Terampil ;4;5;2;425;93
+1444;Pegawai 1443;D4;Pemeriksa Utama;1;5;3;742;80
+1445;Pegawai 1444;D4;Pranata Keuangan APBN Penyelia ;3;2;2;597;94
+1446;Pegawai 1445;S2;Pranata Komputer Pertama ;2;2;2;507;80
+1447;Pegawai 1446;S2;Pranata Komputer Muda ;2;3;1;707;71
+1448;Pegawai 1447;D4;Analis Kepegawaian Pertama ;4;1;2;591;98
+1449;Pegawai 1448;D4;Pemeriksa Pertama;5;2;3;692;80
+1450;Pegawai 1449;S2;Analis Kepegawaian Pertama ;4;4;2;447;79
+1451;Pegawai 1450;S1;Pranata Komputer Terampil ;3;2;2;686;98
+1452;Pegawai 1451;S1;Analis Kepegawaian Muda ;5;2;3;591;71
+1453;Pegawai 1452;S2;Pranata Komputer Pertama ;1;3;2;421;96
+1454;Pegawai 1453;D4;Analis Kepegawaian Muda ;2;5;1;649;88
+1455;Pegawai 1454;S2;Pemeriksa Madya;2;2;2;567;79
+1456;Pegawai 1455;S2;Arsiparis Muda ;2;2;1;542;92
+1457;Pegawai 1456;S1;Analis Kepegawaian Pertama ;4;3;2;734;93
+1458;Pegawai 1457;D4;Arsiparis Muda ;1;2;1;789;82
+1459;Pegawai 1458;D4;Analis Kepegawaian Pertama ;5;4;1;685;86
+1460;Pegawai 1459;S1;Arsiparis Muda ;3;1;3;729;88
+1461;Pegawai 1460;S2;Pemeriksa Utama;4;3;3;729;72
+1462;Pegawai 1461;D4;Analis Pengelolaan Keuangan APBN Pertama ;4;2;1;724;91
+1463;Pegawai 1462;D4;Pranata Keuangan APBN Terampil ;5;3;2;400;99
+1464;Pegawai 1463;D4;Pemeriksa Pertama;5;4;1;756;87
+1465;Pegawai 1464;S2;Analis Pengelolaan Keuangan APBN Pertama ;5;5;1;631;79
+1466;Pegawai 1465;S1;Pranata Komputer Muda ;2;2;2;446;87
+1467;Pegawai 1466;D4;Pranata Komputer Pertama ;1;5;1;587;73
+1468;Pegawai 1467;S2;Pemeriksa Utama;3;2;2;445;95
+1469;Pegawai 1468;S1;Pemeriksa Utama;3;2;1;787;91
+1470;Pegawai 1469;S1;Pemeriksa Utama;3;3;1;705;80
+1471;Pegawai 1470;S2;Pranata Komputer Pertama ;3;2;1;703;99
+1472;Pegawai 1471;S1;Pranata Komputer Pertama ;3;5;1;548;95
+1473;Pegawai 1472;D4;Pemeriksa Muda;2;4;2;586;84
+1474;Pegawai 1473;S2;Analis Kepegawaian Muda ;4;5;1;655;90
+1475;Pegawai 1474;S2;Pranata Keuangan APBN Penyelia ;3;1;2;515;75
+1476;Pegawai 1475;D4;Analis Kepegawaian Muda ;3;2;1;497;93
+1477;Pegawai 1476;S2;Pemeriksa Pertama;1;1;2;680;81
+1478;Pegawai 1477;D4;Pranata Keuangan APBN Penyelia ;4;5;1;677;82
+1479;Pegawai 1478;D4;Pranata Komputer Pertama ;4;3;3;547;88
+1480;Pegawai 1479;D4;Analis Kepegawaian Pertama ;1;5;2;511;74
+1481;Pegawai 1480;S1;Pranata Komputer Terampil ;2;1;1;546;83
+1482;Pegawai 1481;S1;Pemeriksa Utama;2;1;2;741;76
+1483;Pegawai 1482;D4;Pranata Keuangan APBN Penyelia ;5;2;1;525;98
+1484;Pegawai 1483;S1;Pranata Keuangan APBN Terampil ;2;5;2;754;95
+1485;Pegawai 1484;S1;Arsiparis Muda ;5;1;2;459;94
+1486;Pegawai 1485;D4;Pranata Keuangan APBN Terampil ;1;2;2;719;72
+1487;Pegawai 1486;S1;Pemeriksa Muda;1;3;1;588;75
+1488;Pegawai 1487;S2;Pranata Komputer Terampil ;4;2;1;605;86
+1489;Pegawai 1488;D4;Pranata Komputer Pertama ;2;1;1;746;70
+1490;Pegawai 1489;S1;Analis Kepegawaian Pertama ;3;1;3;768;76
+1491;Pegawai 1490;D4;Pemeriksa Madya;2;1;1;408;87
+1492;Pegawai 1491;S1;Pranata Komputer Pertama ;1;5;1;498;90
+1493;Pegawai 1492;S2;Pemeriksa Pertama;4;3;2;422;76
+1494;Pegawai 1493;S2;Analis Pengelolaan Keuangan APBN Muda ;2;3;2;632;89
+1495;Pegawai 1494;D4;Analis Kepegawaian Pertama ;1;5;3;646;83
+1496;Pegawai 1495;S2;Arsiparis Muda ;1;1;3;693;73
+1497;Pegawai 1496;S2;Analis Kepegawaian Pertama ;5;2;3;614;91
+1498;Pegawai 1497;S1;Pranata Keuangan APBN Penyelia ;4;1;1;611;83
+1499;Pegawai 1498;S1;Arsiparis Muda ;2;1;1;430;86
+1500;Pegawai 1499;D4;Pemeriksa Pertama;2;3;1;530;93
+1501;Pegawai 1500;D4;Pemeriksa Utama;4;5;3;775;92
+1502;Pegawai 1501;S1;Arsiparis Muda ;5;3;2;600;75
+1503;Pegawai 1502;S2;Pranata Komputer Terampil ;2;4;3;789;86
+1504;Pegawai 1503;S2;Pemeriksa Utama;4;3;1;587;70
+1505;Pegawai 1504;S2;Arsiparis Muda ;3;1;1;563;70
+1506;Pegawai 1505;S2;Pranata Keuangan APBN Penyelia ;1;3;2;750;74
+1507;Pegawai 1506;D4;Analis Pengelolaan Keuangan APBN Muda ;3;3;1;406;87
+1508;Pegawai 1507;S1;Pranata Komputer Pertama ;1;3;1;466;79
+1509;Pegawai 1508;D4;Analis Kepegawaian Muda ;3;3;2;617;88
+1510;Pegawai 1509;S1;Analis Kepegawaian Muda ;1;3;2;501;93
+1511;Pegawai 1510;S1;Pranata Keuangan APBN Terampil ;4;1;3;762;97
+1512;Pegawai 1511;S2;Analis Kepegawaian Muda ;1;3;3;669;99
+1513;Pegawai 1512;D4;Pranata Keuangan APBN Terampil ;5;5;3;657;83
+1514;Pegawai 1513;D4;Pemeriksa Muda;2;2;1;570;81
+1515;Pegawai 1514;S1;Pemeriksa Utama;3;4;2;597;83
+1516;Pegawai 1515;S2;Arsiparis Muda ;4;2;3;563;86
+1517;Pegawai 1516;S1;Pranata Komputer Terampil ;3;3;2;530;80
+1518;Pegawai 1517;D4;Pranata Keuangan APBN Terampil ;3;1;3;405;79
+1519;Pegawai 1518;S2;Pranata Keuangan APBN Penyelia ;2;5;2;709;73
+1520;Pegawai 1519;D4;Pemeriksa Madya;4;2;1;427;91
+1521;Pegawai 1520;D4;Analis Pengelolaan Keuangan APBN Pertama ;2;2;3;571;74
+1522;Pegawai 1521;S1;Pranata Komputer Terampil ;3;2;1;411;71
+1523;Pegawai 1522;S1;Pranata Komputer Pertama ;1;2;1;761;83
+1524;Pegawai 1523;D4;Arsiparis Muda ;1;5;2;545;93
+1525;Pegawai 1524;S1;Pemeriksa Pertama;3;5;3;622;95
+1526;Pegawai 1525;S2;Pemeriksa Utama;5;3;1;742;93
+1527;Pegawai 1526;D4;Analis Pengelolaan Keuangan APBN Muda ;3;4;2;728;82
+1528;Pegawai 1527;D4;Pranata Keuangan APBN Terampil ;5;1;1;533;89
+1529;Pegawai 1528;S1;Pemeriksa Pertama;3;2;2;492;90
+1530;Pegawai 1529;D4;Arsiparis Muda ;1;2;2;538;82
+1531;Pegawai 1530;D4;Pranata Keuangan APBN Terampil ;4;4;3;659;78
+1532;Pegawai 1531;S2;Pemeriksa Madya;5;2;1;470;72
+1533;Pegawai 1532;D4;Pemeriksa Utama;2;1;1;410;70
+1534;Pegawai 1533;D4;Analis Kepegawaian Muda ;5;5;2;590;82
+1535;Pegawai 1534;S2;Analis Pengelolaan Keuangan APBN Pertama ;1;3;2;768;98
+1536;Pegawai 1535;S2;Pemeriksa Madya;2;4;3;611;77
+1537;Pegawai 1536;S1;Pranata Komputer Terampil ;5;5;3;631;74
+1538;Pegawai 1537;D4;Analis Pengelolaan Keuangan APBN Pertama ;5;5;3;601;93
+1539;Pegawai 1538;S1;Pemeriksa Muda;5;5;3;653;88
+1540;Pegawai 1539;S2;Pranata Keuangan APBN Mahir ;4;4;1;490;89
+1541;Pegawai 1540;S1;Analis Pengelolaan Keuangan APBN Pertama ;1;1;2;533;87
+1542;Pegawai 1541;S1;Pemeriksa Utama;3;3;1;554;96
+1543;Pegawai 1542;S1;Analis Pengelolaan Keuangan APBN Pertama ;4;4;3;639;76
+1544;Pegawai 1543;S1;Pemeriksa Madya;3;1;2;482;93
+1545;Pegawai 1544;D4;Pemeriksa Pertama;3;4;2;400;85
+1546;Pegawai 1545;S1;Arsiparis Muda ;5;2;1;552;76
+1547;Pegawai 1546;D4;Pranata Komputer Muda ;2;5;2;600;71
+1548;Pegawai 1547;S2;Pemeriksa Muda;3;2;3;500;96
+1549;Pegawai 1548;D4;Pemeriksa Utama;5;1;3;688;91
+1550;Pegawai 1549;S2;Analis Kepegawaian Muda ;1;4;3;504;86
+1551;Pegawai 1550;S2;Analis Pengelolaan Keuangan APBN Pertama ;3;4;1;540;74
+1552;Pegawai 1551;S1;Pemeriksa Pertama;3;4;1;794;85
+1553;Pegawai 1552;S2;Pranata Keuangan APBN Penyelia ;4;5;2;723;94
+1554;Pegawai 1553;D4;Pemeriksa Muda;3;3;1;668;77
+1555;Pegawai 1554;S2;Pemeriksa Muda;1;4;3;500;86
+1556;Pegawai 1555;S1;Arsiparis Muda ;5;5;1;627;81
+1557;Pegawai 1556;S2;Pranata Keuangan APBN Terampil ;5;4;3;634;70
+1558;Pegawai 1557;S2;Arsiparis Muda ;5;4;3;629;81
+1559;Pegawai 1558;S1;Pemeriksa Pertama;2;4;2;476;87
+1560;Pegawai 1559;S1;Analis Pengelolaan Keuangan APBN Muda ;2;3;3;524;95
+1561;Pegawai 1560;D4;Pranata Komputer Muda ;4;4;3;604;85
+1562;Pegawai 1561;D4;Pranata Keuangan APBN Penyelia ;4;1;1;463;75
+1563;Pegawai 1562;S2;Pranata Keuangan APBN Terampil ;4;1;1;768;87
+1564;Pegawai 1563;D4;Pranata Keuangan APBN Penyelia ;3;1;1;594;84
+1565;Pegawai 1564;S2;Pranata Komputer Muda ;2;2;1;660;77
+1566;Pegawai 1565;S1;Pranata Keuangan APBN Terampil ;2;2;1;488;99
+1567;Pegawai 1566;S1;Pranata Komputer Muda ;5;5;1;659;88
+1568;Pegawai 1567;S2;Pranata Keuangan APBN Mahir ;4;3;1;693;87
+1569;Pegawai 1568;D4;Pemeriksa Pertama;5;5;3;469;96
+1570;Pegawai 1569;S1;Pranata Keuangan APBN Terampil ;1;3;1;677;83
+1571;Pegawai 1570;S1;Pranata Komputer Pertama ;1;1;3;587;81
+1572;Pegawai 1571;D4;Pranata Komputer Pertama ;5;3;2;740;72
+1573;Pegawai 1572;S1;Analis Pengelolaan Keuangan APBN Pertama ;1;2;2;675;80
+1574;Pegawai 1573;S2;Analis Pengelolaan Keuangan APBN Pertama ;1;1;3;595;74
+1575;Pegawai 1574;S2;Analis Pengelolaan Keuangan APBN Muda ;5;4;3;622;95
+1576;Pegawai 1575;D4;Analis Kepegawaian Pertama ;1;2;1;784;80
+1577;Pegawai 1576;D4;Pranata Keuangan APBN Terampil ;1;2;2;626;80
+1578;Pegawai 1577;S1;Analis Pengelolaan Keuangan APBN Pertama ;3;3;2;734;81
+1579;Pegawai 1578;D4;Pemeriksa Utama;4;2;3;431;86
+1580;Pegawai 1579;D4;Arsiparis Muda ;2;2;1;724;95
+1581;Pegawai 1580;S2;Arsiparis Muda ;1;1;3;658;94
+1582;Pegawai 1581;D4;Arsiparis Muda ;4;4;1;557;91
+1583;Pegawai 1582;D4;Pranata Komputer Pertama ;4;3;3;757;82
+1584;Pegawai 1583;D4;Pranata Keuangan APBN Terampil ;5;4;2;585;95
+1585;Pegawai 1584;D4;Pemeriksa Madya;1;5;1;707;79
+1586;Pegawai 1585;S1;Pranata Keuangan APBN Penyelia ;5;1;3;426;91
+1587;Pegawai 1586;S1;Pranata Komputer Pertama ;1;3;1;794;91
+1588;Pegawai 1587;S1;Pemeriksa Pertama;2;2;2;798;86
+1589;Pegawai 1588;D4;Analis Kepegawaian Muda ;4;1;2;427;73
+1590;Pegawai 1589;S2;Arsiparis Muda ;5;1;3;637;87
+1591;Pegawai 1590;S2;Pemeriksa Pertama;4;4;2;445;90
+1592;Pegawai 1591;D4;Pemeriksa Pertama;3;5;2;755;82
+1593;Pegawai 1592;D4;Analis Pengelolaan Keuangan APBN Muda ;2;4;2;765;77
+1594;Pegawai 1593;S2;Pemeriksa Utama;5;3;2;604;74
+1595;Pegawai 1594;S2;Analis Kepegawaian Pertama ;2;3;3;405;91
+1596;Pegawai 1595;S1;Analis Pengelolaan Keuangan APBN Muda ;2;2;3;461;75
+1597;Pegawai 1596;S1;Pranata Keuangan APBN Terampil ;5;4;2;542;75
+1598;Pegawai 1597;S2;Analis Kepegawaian Pertama ;3;1;3;622;78
+1599;Pegawai 1598;S2;Analis Pengelolaan Keuangan APBN Pertama ;2;4;2;683;98
+1600;Pegawai 1599;D4;Arsiparis Muda ;1;5;1;478;88
+1601;Pegawai 1600;S1;Pranata Keuangan APBN Terampil ;2;4;1;639;77
+1602;Pegawai 1601;S2;Pranata Keuangan APBN Terampil ;2;2;2;707;97
+1603;Pegawai 1602;D4;Arsiparis Muda ;1;1;1;417;80
+1604;Pegawai 1603;S1;Analis Pengelolaan Keuangan APBN Muda ;2;2;1;571;72
+1605;Pegawai 1604;S1;Pemeriksa Pertama;3;4;2;499;90
+1606;Pegawai 1605;S2;Pemeriksa Muda;5;4;3;429;96
+1607;Pegawai 1606;S1;Pemeriksa Pertama;1;5;2;771;99
+1608;Pegawai 1607;D4;Pranata Komputer Pertama ;4;4;3;701;77
+1609;Pegawai 1608;D4;Pemeriksa Pertama;5;3;3;689;98
+1610;Pegawai 1609;S1;Analis Pengelolaan Keuangan APBN Muda ;3;3;3;722;87
+1611;Pegawai 1610;S1;Analis Pengelolaan Keuangan APBN Pertama ;1;2;3;689;92
+1612;Pegawai 1611;S1;Pranata Keuangan APBN Mahir ;2;2;2;795;91
+1613;Pegawai 1612;S1;Pranata Keuangan APBN Terampil ;2;1;1;758;90
+1614;Pegawai 1613;S2;Pranata Komputer Terampil ;1;3;3;755;95
+1615;Pegawai 1614;D4;Pemeriksa Madya;5;5;3;653;81
+1616;Pegawai 1615;S2;Pranata Keuangan APBN Mahir ;4;1;3;553;76
+1617;Pegawai 1616;S1;Arsiparis Muda ;3;3;2;552;72
+1618;Pegawai 1617;S2;Pranata Komputer Pertama ;4;2;1;680;73
+1619;Pegawai 1618;S1;Pemeriksa Pertama;3;5;3;400;97
+1620;Pegawai 1619;S2;Analis Kepegawaian Pertama ;2;5;3;431;93
+1621;Pegawai 1620;S2;Pranata Komputer Terampil ;1;3;2;449;83
+1622;Pegawai 1621;D4;Arsiparis Muda ;2;5;1;708;86
+1623;Pegawai 1622;S1;Pranata Komputer Pertama ;3;5;3;556;78
+1624;Pegawai 1623;S1;Pranata Keuangan APBN Penyelia ;2;1;1;679;74
+1625;Pegawai 1624;D4;Pemeriksa Muda;3;2;3;605;89
+1626;Pegawai 1625;S1;Analis Pengelolaan Keuangan APBN Muda ;5;2;2;625;84
+1627;Pegawai 1626;D4;Pemeriksa Utama;2;2;1;784;84
+1628;Pegawai 1627;S2;Pranata Komputer Muda ;4;5;3;774;75
+1629;Pegawai 1628;D4;Pemeriksa Pertama;1;4;3;438;95
+1630;Pegawai 1629;S1;Pranata Komputer Pertama ;4;2;1;779;78
+1631;Pegawai 1630;D4;Pranata Keuangan APBN Mahir ;3;5;1;642;85
+1632;Pegawai 1631;S2;Pemeriksa Utama;3;4;1;711;94
+1633;Pegawai 1632;S2;Pranata Komputer Pertama ;5;2;2;410;80
+1634;Pegawai 1633;S2;Pranata Komputer Terampil ;2;3;1;523;82
+1635;Pegawai 1634;D4;Pemeriksa Pertama;1;4;3;535;98
+1636;Pegawai 1635;S2;Analis Pengelolaan Keuangan APBN Muda ;3;4;2;582;75
+1637;Pegawai 1636;S1;Pemeriksa Madya;5;3;2;758;76
+1638;Pegawai 1637;S2;Pemeriksa Madya;5;2;2;549;94
+1639;Pegawai 1638;S1;Pemeriksa Muda;1;5;2;527;83
+1640;Pegawai 1639;S2;Analis Pengelolaan Keuangan APBN Pertama ;1;2;1;688;89
+1641;Pegawai 1640;D4;Analis Kepegawaian Muda ;2;2;1;651;75
+1642;Pegawai 1641;S2;Pemeriksa Muda;4;4;1;661;85
+1643;Pegawai 1642;S1;Pemeriksa Pertama;4;1;2;782;95
+1644;Pegawai 1643;D4;Pranata Komputer Pertama ;4;5;2;456;96
+1645;Pegawai 1644;S1;Pranata Komputer Terampil ;2;4;1;781;70
+1646;Pegawai 1645;S2;Analis Kepegawaian Muda ;3;5;2;782;97
+1647;Pegawai 1646;S1;Pranata Komputer Terampil ;2;2;2;499;96
+1648;Pegawai 1647;D4;Pemeriksa Pertama;1;1;2;490;91
+1649;Pegawai 1648;S2;Pemeriksa Utama;5;3;3;686;99
+1650;Pegawai 1649;S1;Pemeriksa Pertama;4;2;2;414;82
+1651;Pegawai 1650;S2;Pranata Komputer Pertama ;2;3;3;428;83
+1652;Pegawai 1651;S2;Pranata Komputer Muda ;5;5;3;697;80
+1653;Pegawai 1652;S2;Pranata Keuangan APBN Penyelia ;2;2;3;463;72
+1654;Pegawai 1653;S2;Pemeriksa Utama;2;1;3;518;97
+1655;Pegawai 1654;S2;Analis Kepegawaian Pertama ;2;1;2;456;84
+1656;Pegawai 1655;S1;Arsiparis Muda ;1;1;3;692;87
+1657;Pegawai 1656;S1;Pemeriksa Madya;3;2;3;565;84
+1658;Pegawai 1657;S2;Arsiparis Muda ;1;3;2;644;85
+1659;Pegawai 1658;S2;Pemeriksa Utama;4;1;3;589;71
+1660;Pegawai 1659;S2;Analis Kepegawaian Pertama ;2;1;2;661;73
+1661;Pegawai 1660;S2;Pemeriksa Madya;5;1;1;559;74
+1662;Pegawai 1661;D4;Pemeriksa Pertama;2;2;1;527;70
+1663;Pegawai 1662;S2;Pranata Keuangan APBN Penyelia ;2;3;2;759;81
+1664;Pegawai 1663;D4;Pemeriksa Utama;5;1;2;712;71
+1665;Pegawai 1664;S2;Pemeriksa Muda;1;1;2;491;99
+1666;Pegawai 1665;S1;Analis Pengelolaan Keuangan APBN Muda ;4;2;2;433;81
+1667;Pegawai 1666;S1;Pemeriksa Utama;1;5;3;787;92
+1668;Pegawai 1667;S1;Pemeriksa Muda;1;2;3;499;86
+1669;Pegawai 1668;S1;Analis Kepegawaian Pertama ;1;5;2;420;71
+1670;Pegawai 1669;S1;Pranata Komputer Pertama ;3;2;1;753;77
+1671;Pegawai 1670;S2;Pranata Komputer Terampil ;3;2;3;725;80
+1672;Pegawai 1671;S1;Pranata Keuangan APBN Terampil ;5;2;2;422;87
+1673;Pegawai 1672;S2;Pranata Keuangan APBN Mahir ;4;1;2;516;83
+1674;Pegawai 1673;S2;Pranata Keuangan APBN Terampil ;1;4;3;684;76
+1675;Pegawai 1674;S2;Analis Pengelolaan Keuangan APBN Muda ;4;4;2;650;85
+1676;Pegawai 1675;D4;Pemeriksa Muda;4;1;3;555;76
+1677;Pegawai 1676;S2;Pranata Komputer Pertama ;3;2;3;745;77
+1678;Pegawai 1677;D4;Pranata Keuangan APBN Terampil ;1;4;2;722;92
+1679;Pegawai 1678;S1;Pranata Komputer Pertama ;3;5;2;710;97
+1680;Pegawai 1679;S1;Pemeriksa Pertama;2;2;2;771;86
+1681;Pegawai 1680;D4;Pemeriksa Muda;1;4;3;791;99
+1682;Pegawai 1681;S1;Pemeriksa Pertama;1;2;2;658;82
+1683;Pegawai 1682;D4;Pranata Keuangan APBN Terampil ;4;3;2;774;76
+1684;Pegawai 1683;D4;Pranata Komputer Terampil ;4;5;1;458;77
+1685;Pegawai 1684;D4;Pemeriksa Muda;2;5;3;740;80
+1686;Pegawai 1685;S1;Pemeriksa Muda;3;2;2;691;75
+1687;Pegawai 1686;S2;Analis Kepegawaian Pertama ;1;1;1;763;92
+1688;Pegawai 1687;D4;Pemeriksa Muda;5;2;1;457;95
+1689;Pegawai 1688;S2;Pranata Keuangan APBN Mahir ;1;3;1;747;94
+1690;Pegawai 1689;D4;Analis Kepegawaian Muda ;1;3;2;451;95
+1691;Pegawai 1690;S2;Analis Pengelolaan Keuangan APBN Muda ;5;2;3;418;88
+1692;Pegawai 1691;D4;Pranata Komputer Muda ;1;1;2;718;85
+1693;Pegawai 1692;D4;Pemeriksa Muda;4;3;1;528;76
+1694;Pegawai 1693;S1;Pemeriksa Utama;3;4;2;781;81
+1695;Pegawai 1694;S2;Pemeriksa Utama;4;5;3;541;81
+1696;Pegawai 1695;S2;Pranata Keuangan APBN Terampil ;4;4;1;516;71
+1697;Pegawai 1696;S1;Arsiparis Muda ;5;1;2;769;87
+1698;Pegawai 1697;D4;Pranata Komputer Terampil ;4;5;1;783;73
+1699;Pegawai 1698;S2;Pranata Keuangan APBN Mahir ;3;5;1;680;71
+1700;Pegawai 1699;S2;Analis Pengelolaan Keuangan APBN Pertama ;1;2;2;617;73
+1701;Pegawai 1700;S2;Pemeriksa Muda;1;3;1;594;89
+1702;Pegawai 1701;D4;Pranata Keuangan APBN Penyelia ;5;2;3;429;72
+1703;Pegawai 1702;S1;Pemeriksa Madya;4;3;3;542;73
+1704;Pegawai 1703;D4;Pranata Komputer Muda ;3;1;3;511;76
+1705;Pegawai 1704;S1;Arsiparis Muda ;2;2;2;722;74
+1706;Pegawai 1705;D4;Pranata Komputer Muda ;4;3;1;536;71
+1707;Pegawai 1706;S2;Pemeriksa Utama;5;2;3;668;84
+1708;Pegawai 1707;S1;Analis Kepegawaian Pertama ;2;4;3;542;97
+1709;Pegawai 1708;S1;Pranata Komputer Muda ;3;2;3;775;71
+1710;Pegawai 1709;S2;Pranata Keuangan APBN Penyelia ;1;1;1;675;82
+1711;Pegawai 1710;S2;Pemeriksa Pertama;2;1;2;749;80
+1712;Pegawai 1711;D4;Analis Pengelolaan Keuangan APBN Muda ;1;1;1;643;94
+1713;Pegawai 1712;D4;Pemeriksa Pertama;5;5;1;417;88
+1714;Pegawai 1713;S1;Analis Pengelolaan Keuangan APBN Pertama ;5;5;1;567;89
+1715;Pegawai 1714;D4;Pemeriksa Madya;5;1;3;452;87
+1716;Pegawai 1715;S1;Pemeriksa Utama;2;1;2;525;88
+1717;Pegawai 1716;D4;Analis Pengelolaan Keuangan APBN Pertama ;1;4;2;542;85
+1718;Pegawai 1717;S1;Analis Kepegawaian Muda ;2;5;2;573;84
+1719;Pegawai 1718;D4;Pranata Komputer Muda ;4;3;2;402;74
+1720;Pegawai 1719;S2;Pranata Komputer Muda ;3;5;3;402;98
+1721;Pegawai 1720;S1;Pranata Komputer Pertama ;5;1;1;506;94
+1722;Pegawai 1721;D4;Analis Kepegawaian Muda ;4;1;1;534;96
+1723;Pegawai 1722;S2;Pranata Komputer Pertama ;1;3;1;674;93
+1724;Pegawai 1723;D4;Pemeriksa Muda;2;1;3;464;98
+1725;Pegawai 1724;S1;Pemeriksa Madya;1;1;1;768;93
+1726;Pegawai 1725;S2;Analis Pengelolaan Keuangan APBN Muda ;5;1;3;722;83
+1727;Pegawai 1726;S2;Pranata Komputer Terampil ;2;3;2;573;98
+1728;Pegawai 1727;D4;Pemeriksa Pertama;2;2;2;721;76
+1729;Pegawai 1728;S1;Pranata Keuangan APBN Penyelia ;2;2;2;426;99
+1730;Pegawai 1729;S2;Pranata Komputer Pertama ;4;1;3;796;74
+1731;Pegawai 1730;D4;Pemeriksa Utama;5;2;2;513;74
+1732;Pegawai 1731;S1;Pranata Keuangan APBN Terampil ;1;1;1;444;72
+1733;Pegawai 1732;S1;Pemeriksa Madya;1;5;3;508;83
+1734;Pegawai 1733;D4;Analis Pengelolaan Keuangan APBN Pertama ;3;3;3;506;97
+1735;Pegawai 1734;S2;Pemeriksa Utama;2;1;2;453;89
+1736;Pegawai 1735;S2;Analis Pengelolaan Keuangan APBN Muda ;2;3;2;709;99
+1737;Pegawai 1736;S2;Analis Pengelolaan Keuangan APBN Muda ;3;2;1;553;89
+1738;Pegawai 1737;S1;Pranata Keuangan APBN Penyelia ;4;5;1;538;81
+1739;Pegawai 1738;S1;Analis Kepegawaian Muda ;5;1;3;526;90
+1740;Pegawai 1739;S2;Analis Kepegawaian Pertama ;1;1;1;447;84
+1741;Pegawai 1740;S2;Analis Kepegawaian Pertama ;5;5;3;658;83
+1742;Pegawai 1741;S2;Pranata Komputer Muda ;3;2;3;444;98
+1743;Pegawai 1742;S2;Pemeriksa Madya;3;5;3;597;98
+1744;Pegawai 1743;S2;Pranata Keuangan APBN Penyelia ;3;2;2;420;72
+1745;Pegawai 1744;D4;Pemeriksa Muda;4;5;1;648;84
+1746;Pegawai 1745;S1;Pranata Komputer Terampil ;3;4;1;538;75
+1747;Pegawai 1746;S2;Pranata Keuangan APBN Penyelia ;3;2;3;684;96
+1748;Pegawai 1747;S1;Analis Kepegawaian Muda ;1;3;2;690;92
+1749;Pegawai 1748;D4;Pranata Keuangan APBN Penyelia ;2;4;1;794;99
+1750;Pegawai 1749;S2;Arsiparis Muda ;4;4;3;797;98
+1751;Pegawai 1750;S2;Pemeriksa Utama;1;4;3;406;86
+1752;Pegawai 1751;D4;Analis Kepegawaian Pertama ;5;3;1;593;81
+1753;Pegawai 1752;D4;Pemeriksa Madya;4;4;2;550;84
+1754;Pegawai 1753;S2;Pranata Komputer Muda ;5;5;3;786;81
+1755;Pegawai 1754;D4;Arsiparis Muda ;2;4;1;782;99
+1756;Pegawai 1755;S2;Pranata Komputer Terampil ;2;3;3;640;80
+1757;Pegawai 1756;D4;Analis Kepegawaian Muda ;1;2;1;482;80
+1758;Pegawai 1757;S1;Pemeriksa Muda;1;3;2;614;71
+1759;Pegawai 1758;D4;Pemeriksa Madya;3;1;3;759;95
+1760;Pegawai 1759;D4;Pranata Keuangan APBN Terampil ;1;1;3;406;78
+1761;Pegawai 1760;S2;Pranata Komputer Pertama ;5;3;1;475;87
+1762;Pegawai 1761;S1;Pranata Komputer Pertama ;1;5;2;526;70
+1763;Pegawai 1762;S2;Pranata Keuangan APBN Mahir ;4;5;3;483;79
+1764;Pegawai 1763;D4;Arsiparis Muda ;5;4;3;624;97
+1765;Pegawai 1764;S1;Analis Kepegawaian Pertama ;1;3;3;589;71
+1766;Pegawai 1765;S1;Pemeriksa Pertama;5;4;1;727;93
+1767;Pegawai 1766;S1;Analis Pengelolaan Keuangan APBN Muda ;2;3;2;546;93
+1768;Pegawai 1767;S2;Pranata Keuangan APBN Mahir ;4;1;2;668;98
+1769;Pegawai 1768;S1;Pranata Keuangan APBN Mahir ;3;2;2;767;88
+1770;Pegawai 1769;S2;Pranata Keuangan APBN Penyelia ;1;3;2;462;99
+1771;Pegawai 1770;S2;Pranata Komputer Terampil ;3;2;2;583;80
+1772;Pegawai 1771;S2;Pemeriksa Pertama;3;5;3;791;91
+1773;Pegawai 1772;D4;Pranata Keuangan APBN Mahir ;4;2;1;648;88
+1774;Pegawai 1773;D4;Pemeriksa Utama;3;1;2;681;77
+1775;Pegawai 1774;S1;Pranata Komputer Terampil ;4;5;1;559;74
+1776;Pegawai 1775;D4;Pranata Keuangan APBN Mahir ;5;2;2;547;70
+1777;Pegawai 1776;S2;Pranata Keuangan APBN Terampil ;1;4;2;789;80
+1778;Pegawai 1777;D4;Analis Kepegawaian Muda ;5;3;3;483;86
+1779;Pegawai 1778;S2;Pemeriksa Utama;3;3;3;646;86
+1780;Pegawai 1779;S1;Pemeriksa Madya;3;5;3;575;89
+1781;Pegawai 1780;D4;Analis Pengelolaan Keuangan APBN Pertama ;3;2;2;558;70
+1782;Pegawai 1781;S1;Arsiparis Muda ;2;3;1;437;96
+1783;Pegawai 1782;D4;Pranata Komputer Muda ;5;2;3;765;83
+1784;Pegawai 1783;S1;Pranata Komputer Muda ;1;5;2;776;73
+1785;Pegawai 1784;S2;Pemeriksa Madya;5;2;2;632;75
+1786;Pegawai 1785;D4;Pemeriksa Utama;2;5;1;469;82
+1787;Pegawai 1786;D4;Analis Kepegawaian Muda ;1;2;1;577;79
+1788;Pegawai 1787;S2;Pranata Komputer Pertama ;5;5;2;449;91
+1789;Pegawai 1788;D4;Analis Pengelolaan Keuangan APBN Muda ;4;3;2;638;71
+1790;Pegawai 1789;S2;Analis Pengelolaan Keuangan APBN Muda ;5;2;2;761;98
+1791;Pegawai 1790;D4;Pranata Keuangan APBN Mahir ;3;2;1;500;91
+1792;Pegawai 1791;S1;Pemeriksa Pertama;1;5;3;500;79
+1793;Pegawai 1792;D4;Analis Pengelolaan Keuangan APBN Muda ;4;3;2;726;97
+1794;Pegawai 1793;D4;Pranata Keuangan APBN Mahir ;1;2;1;626;74
+1795;Pegawai 1794;S1;Pranata Keuangan APBN Terampil ;5;5;1;742;71
+1796;Pegawai 1795;S1;Pemeriksa Utama;4;2;2;707;94
+1797;Pegawai 1796;S2;Pemeriksa Muda;1;2;1;595;92
+1798;Pegawai 1797;D4;Pranata Keuangan APBN Terampil ;5;5;3;745;77
+1799;Pegawai 1798;S1;Arsiparis Muda ;1;4;1;586;83
+1800;Pegawai 1799;D4;Pranata Komputer Terampil ;2;5;1;777;75
+1801;Pegawai 1800;D4;Pemeriksa Muda;1;1;2;709;99
+1802;Pegawai 1801;S2;Pemeriksa Pertama;3;5;3;642;75
+1803;Pegawai 1802;S1;Pemeriksa Pertama;1;1;1;538;82
+1804;Pegawai 1803;D4;Pranata Komputer Muda ;2;5;3;745;74
+1805;Pegawai 1804;D4;Pranata Keuangan APBN Mahir ;2;5;3;596;95
+1806;Pegawai 1805;S1;Pranata Komputer Terampil ;1;1;2;556;93
+1807;Pegawai 1806;S2;Pranata Komputer Pertama ;2;3;3;690;92
+1808;Pegawai 1807;S2;Pranata Komputer Pertama ;5;3;1;553;71
+1809;Pegawai 1808;S2;Analis Kepegawaian Pertama ;2;3;1;479;90
+1810;Pegawai 1809;D4;Pemeriksa Muda;5;2;1;750;88
+1811;Pegawai 1810;D4;Pranata Keuangan APBN Mahir ;5;2;3;664;93
+1812;Pegawai 1811;S2;Arsiparis Muda ;2;2;3;610;75
+1813;Pegawai 1812;S2;Analis Kepegawaian Pertama ;2;2;2;754;75
+1814;Pegawai 1813;S1;Analis Pengelolaan Keuangan APBN Pertama ;2;5;2;784;72
+1815;Pegawai 1814;S2;Pranata Keuangan APBN Terampil ;4;1;2;598;70
+1816;Pegawai 1815;S1;Pemeriksa Muda;2;4;3;703;71
+1817;Pegawai 1816;S1;Pranata Keuangan APBN Terampil ;2;4;1;445;77
+1818;Pegawai 1817;S1;Pemeriksa Utama;5;5;2;618;85
+1819;Pegawai 1818;D4;Pranata Komputer Pertama ;2;1;2;531;82
+1820;Pegawai 1819;D4;Pemeriksa Pertama;1;2;3;402;88
+1821;Pegawai 1820;S2;Arsiparis Muda ;4;2;1;724;91
+1822;Pegawai 1821;S1;Analis Pengelolaan Keuangan APBN Muda ;4;5;1;725;84
+1823;Pegawai 1822;D4;Analis Pengelolaan Keuangan APBN Muda ;3;3;1;416;77
+1824;Pegawai 1823;S1;Analis Pengelolaan Keuangan APBN Pertama ;2;4;2;685;77
+1825;Pegawai 1824;S1;Pranata Komputer Pertama ;4;1;1;441;95
+1826;Pegawai 1825;S2;Analis Kepegawaian Muda ;4;5;3;656;85
+1827;Pegawai 1826;S1;Analis Kepegawaian Pertama ;1;3;1;430;93
+1828;Pegawai 1827;S1;Pemeriksa Madya;1;3;1;669;77
+1829;Pegawai 1828;S1;Pemeriksa Pertama;1;4;3;613;98
+1830;Pegawai 1829;D4;Pemeriksa Utama;4;2;3;456;88
+1831;Pegawai 1830;D4;Analis Pengelolaan Keuangan APBN Pertama ;4;3;2;566;77
+1832;Pegawai 1831;S2;Pranata Komputer Terampil ;5;2;1;734;77
+1833;Pegawai 1832;S2;Pranata Keuangan APBN Penyelia ;2;5;1;748;95
+1834;Pegawai 1833;D4;Arsiparis Muda ;4;1;2;524;80
+1835;Pegawai 1834;S2;Pranata Komputer Terampil ;5;1;1;577;76
+1836;Pegawai 1835;S1;Pranata Keuangan APBN Mahir ;2;4;1;527;75
+1837;Pegawai 1836;S1;Pranata Komputer Muda ;4;4;2;766;75
+1838;Pegawai 1837;S2;Pemeriksa Utama;1;4;1;457;81
+1839;Pegawai 1838;S2;Pemeriksa Utama;1;5;2;627;98
+1840;Pegawai 1839;S1;Pranata Komputer Muda ;5;4;3;703;88
+1841;Pegawai 1840;S2;Pemeriksa Pertama;2;4;3;410;89
+1842;Pegawai 1841;S1;Pranata Keuangan APBN Mahir ;4;5;1;684;96
+1843;Pegawai 1842;D4;Pemeriksa Pertama;2;2;3;629;86
+1844;Pegawai 1843;S2;Analis Pengelolaan Keuangan APBN Muda ;5;5;3;670;72
+1845;Pegawai 1844;S1;Pranata Keuangan APBN Terampil ;1;5;2;457;98
+1846;Pegawai 1845;D4;Pemeriksa Madya;3;5;3;611;90
+1847;Pegawai 1846;S2;Pranata Komputer Pertama ;4;3;2;638;95
+1848;Pegawai 1847;D4;Pemeriksa Pertama;5;3;3;504;90
+1849;Pegawai 1848;S2;Analis Pengelolaan Keuangan APBN Muda ;1;5;2;628;88
+1850;Pegawai 1849;S2;Analis Kepegawaian Muda ;1;1;3;500;82
+1851;Pegawai 1850;D4;Pemeriksa Madya;1;4;2;521;76
+1852;Pegawai 1851;S2;Pemeriksa Utama;4;5;1;492;85
+1853;Pegawai 1852;D4;Analis Pengelolaan Keuangan APBN Muda ;4;1;3;718;80
+1854;Pegawai 1853;S2;Pemeriksa Muda;4;1;2;595;86
+1855;Pegawai 1854;S2;Pranata Komputer Muda ;1;4;3;476;75
+1856;Pegawai 1855;S1;Arsiparis Muda ;2;1;3;651;99
+1857;Pegawai 1856;S2;Analis Kepegawaian Muda ;5;1;3;760;78
+1858;Pegawai 1857;S1;Pranata Komputer Pertama ;2;3;1;443;87
+1859;Pegawai 1858;D4;Analis Pengelolaan Keuangan APBN Muda ;1;4;3;793;81
+1860;Pegawai 1859;S2;Analis Pengelolaan Keuangan APBN Muda ;4;5;3;637;76
+1861;Pegawai 1860;D4;Pranata Keuangan APBN Penyelia ;3;1;2;516;88
+1862;Pegawai 1861;D4;Analis Pengelolaan Keuangan APBN Pertama ;4;1;2;586;92
+1863;Pegawai 1862;D4;Pemeriksa Muda;3;5;1;443;72
+1864;Pegawai 1863;S2;Pranata Komputer Terampil ;4;2;1;681;90
+1865;Pegawai 1864;D4;Analis Kepegawaian Muda ;3;2;2;559;77
+1866;Pegawai 1865;S1;Pranata Komputer Terampil ;5;3;2;537;86
+1867;Pegawai 1866;S2;Pranata Keuangan APBN Penyelia ;4;3;2;676;99
+1868;Pegawai 1867;D4;Analis Kepegawaian Muda ;2;2;2;750;90
+1869;Pegawai 1868;S1;Analis Pengelolaan Keuangan APBN Muda ;5;5;2;548;70
+1870;Pegawai 1869;D4;Analis Kepegawaian Pertama ;5;4;3;766;71
+1871;Pegawai 1870;D4;Pemeriksa Muda;5;1;2;570;70
+1872;Pegawai 1871;S2;Analis Pengelolaan Keuangan APBN Muda ;2;4;3;688;80
+1873;Pegawai 1872;S2;Analis Pengelolaan Keuangan APBN Muda ;2;1;3;793;87
+1874;Pegawai 1873;S1;Analis Kepegawaian Pertama ;5;4;2;730;76
+1875;Pegawai 1874;S1;Pemeriksa Muda;4;3;2;694;77
+1876;Pegawai 1875;S1;Pranata Keuangan APBN Mahir ;4;5;1;742;70
+1877;Pegawai 1876;S1;Pranata Komputer Muda ;1;2;1;605;71
+1878;Pegawai 1877;S2;Pranata Komputer Terampil ;2;3;2;523;82
+1879;Pegawai 1878;S2;Pemeriksa Pertama;5;3;1;739;74
+1880;Pegawai 1879;S2;Pranata Keuangan APBN Mahir ;4;4;1;454;99
+1881;Pegawai 1880;S1;Pemeriksa Madya;5;2;1;628;85
+1882;Pegawai 1881;S1;Pranata Keuangan APBN Penyelia ;2;1;2;639;73
+1883;Pegawai 1882;S2;Pranata Komputer Muda ;5;4;2;607;78
+1884;Pegawai 1883;D4;Pranata Keuangan APBN Terampil ;1;1;3;407;77
+1885;Pegawai 1884;S2;Pranata Keuangan APBN Penyelia ;2;3;1;484;88
+1886;Pegawai 1885;D4;Analis Pengelolaan Keuangan APBN Pertama ;2;4;3;794;70
+1887;Pegawai 1886;D4;Pranata Komputer Pertama ;1;2;1;406;79
+1888;Pegawai 1887;D4;Pemeriksa Madya;5;1;2;684;94
+1889;Pegawai 1888;S2;Pranata Komputer Muda ;4;1;3;449;88
+1890;Pegawai 1889;S2;Arsiparis Muda ;1;3;1;412;77
+1891;Pegawai 1890;S2;Pranata Komputer Terampil ;2;5;2;606;97
+1892;Pegawai 1891;S2;Pranata Komputer Terampil ;4;3;1;454;71
+1893;Pegawai 1892;S2;Pranata Keuangan APBN Terampil ;4;2;3;621;75
+1894;Pegawai 1893;D4;Analis Kepegawaian Pertama ;5;5;2;713;86
+1895;Pegawai 1894;S2;Pemeriksa Pertama;3;4;2;707;99
+1896;Pegawai 1895;S2;Analis Pengelolaan Keuangan APBN Pertama ;3;2;2;769;84
+1897;Pegawai 1896;S2;Pranata Keuangan APBN Penyelia ;3;5;2;614;87
+1898;Pegawai 1897;D4;Arsiparis Muda ;4;5;2;463;82
+1899;Pegawai 1898;D4;Pemeriksa Utama;3;2;2;481;75
+1900;Pegawai 1899;S2;Pranata Komputer Pertama ;3;4;1;416;96
+1901;Pegawai 1900;S1;Analis Kepegawaian Pertama ;5;1;3;405;89
+1902;Pegawai 1901;S1;Pranata Keuangan APBN Terampil ;4;3;1;531;74
+1903;Pegawai 1902;D4;Pemeriksa Utama;5;1;1;454;72
+1904;Pegawai 1903;D4;Pranata Keuangan APBN Terampil ;2;1;1;518;99
+1905;Pegawai 1904;S1;Pranata Komputer Muda ;1;4;2;421;87
+1906;Pegawai 1905;S2;Pranata Komputer Pertama ;5;5;2;502;89
+1907;Pegawai 1906;S1;Analis Pengelolaan Keuangan APBN Pertama ;1;5;3;503;78
+1908;Pegawai 1907;S1;Analis Kepegawaian Pertama ;2;3;1;526;99
+1909;Pegawai 1908;D4;Analis Pengelolaan Keuangan APBN Muda ;2;4;2;604;83
+1910;Pegawai 1909;S1;Pranata Komputer Terampil ;4;3;3;690;98
+1911;Pegawai 1910;S2;Pranata Komputer Pertama ;5;5;2;411;77
+1912;Pegawai 1911;D4;Pranata Keuangan APBN Terampil ;2;1;1;718;84
+1913;Pegawai 1912;S2;Pemeriksa Madya;2;3;1;592;80
+1914;Pegawai 1913;D4;Pemeriksa Madya;2;1;2;775;73
+1915;Pegawai 1914;D4;Pemeriksa Madya;2;5;1;743;98
+1916;Pegawai 1915;D4;Pranata Keuangan APBN Terampil ;4;5;2;766;79
+1917;Pegawai 1916;S2;Pemeriksa Utama;5;2;2;438;79
+1918;Pegawai 1917;S2;Arsiparis Muda ;4;4;3;413;78
+1919;Pegawai 1918;S2;Pemeriksa Muda;1;1;3;666;85
+1920;Pegawai 1919;S2;Pranata Keuangan APBN Terampil ;5;1;1;561;87
+1921;Pegawai 1920;S2;Pemeriksa Madya;3;1;2;448;75
+1922;Pegawai 1921;S2;Analis Pengelolaan Keuangan APBN Pertama ;5;3;3;690;74
+1923;Pegawai 1922;S2;Pemeriksa Madya;3;5;2;702;90
+1924;Pegawai 1923;S2;Analis Kepegawaian Muda ;4;3;2;690;79
+1925;Pegawai 1924;S1;Analis Kepegawaian Muda ;4;5;3;724;82
+1926;Pegawai 1925;S1;Pranata Keuangan APBN Terampil ;1;4;1;636;72
+1927;Pegawai 1926;S2;Pranata Keuangan APBN Mahir ;1;3;2;550;99
+1928;Pegawai 1927;S1;Pemeriksa Muda;2;2;3;516;93
+1929;Pegawai 1928;S1;Pemeriksa Muda;2;4;1;757;77
+1930;Pegawai 1929;S1;Pemeriksa Madya;4;5;2;790;81
+1931;Pegawai 1930;D4;Pemeriksa Utama;2;3;3;464;99
+1932;Pegawai 1931;S1;Pranata Keuangan APBN Mahir ;5;5;2;753;99
+1933;Pegawai 1932;D4;Pranata Komputer Pertama ;1;3;2;625;89
+1934;Pegawai 1933;S2;Pranata Komputer Muda ;4;5;1;734;72
+1935;Pegawai 1934;D4;Analis Kepegawaian Pertama ;5;3;3;588;76
+1936;Pegawai 1935;S2;Pemeriksa Madya;5;2;1;720;73
+1937;Pegawai 1936;D4;Pranata Keuangan APBN Mahir ;5;2;2;729;84
+1938;Pegawai 1937;D4;Analis Kepegawaian Pertama ;2;4;3;541;89
+1939;Pegawai 1938;D4;Pranata Komputer Muda ;1;4;3;460;95
+1940;Pegawai 1939;D4;Analis Pengelolaan Keuangan APBN Pertama ;1;5;1;446;92
+1941;Pegawai 1940;S1;Analis Pengelolaan Keuangan APBN Muda ;2;1;2;515;90
+1942;Pegawai 1941;S1;Pemeriksa Muda;5;4;1;751;92
+1943;Pegawai 1942;D4;Pemeriksa Muda;1;3;1;493;72
+1944;Pegawai 1943;S1;Pranata Komputer Muda ;4;4;1;536;98
+1945;Pegawai 1944;D4;Pranata Komputer Muda ;3;4;3;490;92
+1946;Pegawai 1945;D4;Pranata Komputer Muda ;1;1;2;761;77
+1947;Pegawai 1946;S2;Pranata Keuangan APBN Mahir ;4;5;3;469;88
+1948;Pegawai 1947;S2;Analis Kepegawaian Pertama ;2;1;1;787;90
+1949;Pegawai 1948;S2;Pranata Komputer Muda ;2;5;2;746;85
+1950;Pegawai 1949;S2;Arsiparis Muda ;5;1;2;559;99
+1951;Pegawai 1950;S1;Pranata Keuangan APBN Penyelia ;1;5;3;661;94
+1952;Pegawai 1951;S1;Analis Pengelolaan Keuangan APBN Pertama ;1;2;1;724;99
+1953;Pegawai 1952;S2;Analis Kepegawaian Muda ;3;3;1;465;83
+1954;Pegawai 1953;S1;Analis Kepegawaian Pertama ;5;2;1;582;92
+1955;Pegawai 1954;S2;Pemeriksa Utama;2;5;2;485;78
+1956;Pegawai 1955;D4;Pranata Keuangan APBN Terampil ;2;1;1;707;73
+1957;Pegawai 1956;S1;Analis Pengelolaan Keuangan APBN Pertama ;5;3;1;623;72
+1958;Pegawai 1957;S1;Pranata Keuangan APBN Mahir ;5;1;2;553;84
+1959;Pegawai 1958;D4;Analis Kepegawaian Muda ;3;4;2;447;92
+1960;Pegawai 1959;S1;Analis Kepegawaian Muda ;2;2;3;570;87
+1961;Pegawai 1960;D4;Pranata Komputer Pertama ;3;3;3;496;92
+1962;Pegawai 1961;D4;Pranata Komputer Muda ;5;3;1;568;90
+1963;Pegawai 1962;D4;Pemeriksa Pertama;5;5;3;400;74
+1964;Pegawai 1963;S2;Pranata Komputer Terampil ;4;3;1;749;70
+1965;Pegawai 1964;S1;Arsiparis Muda ;1;2;2;769;74
+1966;Pegawai 1965;D4;Analis Pengelolaan Keuangan APBN Pertama ;3;1;1;644;70
+1967;Pegawai 1966;S2;Analis Pengelolaan Keuangan APBN Muda ;1;1;2;785;96
+1968;Pegawai 1967;S2;Pranata Keuangan APBN Mahir ;2;2;3;417;82
+1969;Pegawai 1968;D4;Pemeriksa Pertama;5;3;2;420;75
+1970;Pegawai 1969;S1;Pemeriksa Madya;3;2;3;611;71
+1971;Pegawai 1970;S1;Analis Pengelolaan Keuangan APBN Pertama ;1;4;1;412;97
+1972;Pegawai 1971;D4;Pranata Keuangan APBN Terampil ;4;2;3;417;84
+1973;Pegawai 1972;D4;Pranata Keuangan APBN Mahir ;1;1;2;713;78
+1974;Pegawai 1973;S2;Analis Pengelolaan Keuangan APBN Pertama ;1;5;1;665;99
+1975;Pegawai 1974;S1;Analis Kepegawaian Muda ;2;1;1;724;75
+1976;Pegawai 1975;S1;Pemeriksa Muda;5;5;1;464;93
+1977;Pegawai 1976;S2;Pranata Komputer Terampil ;4;2;3;568;90
+1978;Pegawai 1977;S1;Pemeriksa Muda;3;4;3;799;86
+1979;Pegawai 1978;D4;Pranata Komputer Pertama ;2;5;2;622;82
+1980;Pegawai 1979;S2;Analis Kepegawaian Pertama ;1;3;1;723;91
+1981;Pegawai 1980;D4;Analis Kepegawaian Pertama ;1;5;3;592;87
+1982;Pegawai 1981;S2;Analis Pengelolaan Keuangan APBN Muda ;1;4;2;750;71
+1983;Pegawai 1982;S2;Analis Kepegawaian Pertama ;5;4;2;783;84
+1984;Pegawai 1983;D4;Pranata Komputer Muda ;1;1;3;784;73
+1985;Pegawai 1984;S2;Pemeriksa Muda;3;2;3;438;95
+1986;Pegawai 1985;S2;Analis Kepegawaian Pertama ;4;4;1;799;88
+1987;Pegawai 1986;S1;Pemeriksa Muda;4;2;2;586;83
+1988;Pegawai 1987;S1;Pranata Komputer Terampil ;4;3;2;460;74
+1989;Pegawai 1988;D4;Pranata Komputer Pertama ;1;4;1;588;74
+1990;Pegawai 1989;S2;Pranata Keuangan APBN Mahir ;1;4;3;627;78
+1991;Pegawai 1990;S2;Pemeriksa Pertama;3;3;2;774;74
+1992;Pegawai 1991;D4;Arsiparis Muda ;1;4;2;545;96
+1993;Pegawai 1992;S1;Analis Kepegawaian Pertama ;5;5;2;453;79
+1994;Pegawai 1993;D4;Pranata Keuangan APBN Mahir ;4;1;3;758;98
+1995;Pegawai 1994;S1;Pranata Keuangan APBN Terampil ;4;3;2;408;90
+1996;Pegawai 1995;S1;Pemeriksa Pertama;4;5;2;497;70
+1997;Pegawai 1996;D4;Arsiparis Muda ;5;4;1;786;89
+1998;Pegawai 1997;D4;Pemeriksa Utama;3;4;2;685;92
+1999;Pegawai 1998;S1;Pranata Keuangan APBN Penyelia ;4;5;1;541;70
+2000;Pegawai 1999;S2;Pemeriksa Muda;4;5;1;619;90
+2001;Pegawai 2000;S1;Pranata Keuangan APBN Mahir ;3;5;1;401;87
+2002;Pegawai 2001;S1;Pranata Komputer Muda ;1;1;3;798;77
