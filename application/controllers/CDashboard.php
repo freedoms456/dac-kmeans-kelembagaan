@@ -17,24 +17,27 @@ class CDashboard extends CI_Controller{
 	} 
 	function do_upload(){
 		// dd($_POST);
-		$postLength = count($_POST) -1 ;
-		$kriteria = array();
-		// for($a=0;$a<$postLength; $a++){
-		// 	$tempKriteria = array (
-		// 		"namaKriteria" => $_POST['kriteria'][$a],
-		// 		"bobot" => $_POST['bobot'][$a]
-		// 	);
-		// 	array_push($kriteria,$tempKriteria);
-	
-		// }
-		$kriteria = [
-			["namaKriteria" => "diklat", "bobot" => "0.2"],
-			["namaKriteria" => "sertifikasi", "bobot" => "0.3"],
-			["namaKriteria" => "bahasa", "bobot" => "0.1"],
-			["namaKriteria" => "tpa", "bobot" => "0.2"],
-			["namaKriteria" => "nilai_skp", "bobot" => "0.2"],
 		
-		];
+		$postLength = count($_POST['kriteria'])  ;
+		// dd($_POST);
+		$kriteria = array();
+		for($a=0;$a<$postLength; $a++){
+			$tempKriteria = array (
+				"namaKriteria" => $_POST['kriteria'][$a],
+				"bobot" => $_POST['bobot'][$a]
+			);
+			array_push($kriteria,$tempKriteria);
+	
+		}
+		// dd($kriteria);
+		// $kriteria = [
+		// 	["namaKriteria" => "diklat", "bobot" => "0.2"],
+		// 	["namaKriteria" => "sertifikasi", "bobot" => "0.3"],
+		// 	["namaKriteria" => "bahasa", "bobot" => "0.1"],
+		// 	["namaKriteria" => "tpa", "bobot" => "0.2"],
+		// 	["namaKriteria" => "nilai_skp", "bobot" => "0.2"],
+		
+		// ];
 		
 		$csvData = $this->csvreader->parse_csv($_FILES['userfile']['tmp_name']);
 		if(!empty($csvData)){
@@ -80,31 +83,8 @@ class CDashboard extends CI_Controller{
 					$row++;
 				}
 
-				// dd($arrayDataPegawai);
-
-				// // Dibobotin dan nambah nilai akhir
-				// foreach ($nilaiHasilBagiAntaraNilaiKriteriaDanNilaiMaxKriteria as $n) {
-				// $val = array(
-				// 	'pegawai_nama' => $n['pegawai_nama'],
-				// 	'Pendidikan' => $n['pegawai_pendidikan'],
-				// 	'Jabatan' => $n['jabatan_nama'],
-				// 	'Tahun' => $n['tahun'],
-				// 	'Pegawai Perwakilan' => $n['pegawai_perwakilan'],
+				dd($arrayDataPegawai);
 				
-				// 	'Diklat' => ($n['hasil_akhir'][0]['hasil'] * $kriteria[0]['bobot']),
-				// 	'Sertifikasi' => ($n['hasil_akhir'][1]['hasil'] * $kriteria[1]['bobot']),
-				// 	'Bahasa' => ($n['hasil_akhir'][2]['hasil'] * $kriteria[2]['bobot']),
-				// 	'TPA' => ($n['hasil_akhir'][2]['hasil'] * $kriteria[3]['bobot']),
-				// 	'Nilai_Skp' => ($n['hasil_akhir'][2]['hasil'] * $kriteria[4]['bobot']),
-				// 	'total_nilai' => ($n['hasil_akhir'][0]['hasil'] * $kriteria[0]['bobot']) +
-				// 	($n['hasil_akhir'][1]['hasil'] * $kriteria[1]['bobot']) +
-				// 	($n['hasil_akhir'][2]['hasil'] * $kriteria[2]['bobot']) +
-				// 	($n['hasil_akhir'][3]['hasil'] * $kriteria[3]['bobot']) +
-				// 	($n['hasil_akhir'][4]['hasil'] * $kriteria[4]['bobot']),
-		
-				// );
-				// array_push($nilaiFinal,$val);
-				// }
 
 				//   EXPORT TO CSV
 				  $delimiter = ","; 

@@ -196,7 +196,7 @@
    
       $('#add').click(function(){  
            i++;  
-           $('#dynamic_field').append('<tr id="row'+i+'" class="dynamic-added"><td><input type="text" name="kriteria[]" placeholder="Masukkan Kriteria" class="form-control name_list" required /></td><td><input type="text" name="bobot[]" placeholder="Masukkan Bobot Kriteria" class="form-control name_list" required /></td><td><button type="button" name="remove" id="'+i+'" class="btn btn-danger btn_remove">X</button></td></tr>');  
+           $('#dynamic_field').append('<tr id="row'+i+'" class="dynamic-added"><td><input type="text" name="kriteria[]" placeholder="Tuliskan Kriteria" class="form-control name_list" required /></td><td><input type="text" name="bobot[]" placeholder="Tuliskan Bobot Kriteria" class="form-control name_list" required /></td><td><button type="button" name="remove" id="'+i+'" class="btn btn-danger btn_remove">X</button></td></tr>');  
       });
   
       $(document).on('click', '.btn_remove', function(){  
