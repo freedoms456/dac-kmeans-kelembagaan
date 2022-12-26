@@ -109,7 +109,7 @@
 					<h1 class="h3 mb-3"><strong>Tools</strong> Perhitungan SAW </h1>
 
 									<div class="row">
-						<div class="col-xl-6 col-xxl-6 d-flex">
+						<div class="col-xl-12 col-xxl-12 d-flex">
 						<div class="card flex-fill w-100">
 								<div class="card-header">
 
@@ -117,19 +117,27 @@
 								</div>
 								<div class="card-body py-3">
 								<?php echo form_open_multipart('CDashboard/do_upload');?>
+									<div class="row">
+										<div class="table-responsive">  
+										<label class="form-label">Kriteria</label>
+											<table class="table table-bordered" id="dynamic_field">  
+												<tr class="dyanamic-rows">  
+													<td><input type="text" name="kriteria[]" placeholder="Tuliskan Kriteria" class="form-control name_list" required="" /></td>  
+													<td><input type="text" name="bobot[]" placeholder="Tuliskan Bobot Kriteria" class="form-control name_list" required="" /></td>  
+													<td><button type="button" name="add" id="add" class="btn btn-primary">Tambah Kriteria</button></td>  
+												</tr>  
+											</table>  
+										</div>
+									</div>
 									<label class="form-label">Upload File</label>
 										<div class="row">
-										<div class="mb-3" style="width:70% ;">
-											
-											<input class="form-control form-control-lg" type="file" name="userfile" >
+											<div class="mb-3" style="width:100% ;">
+												<input class="form-control form-control-lg" type="file" name="userfile" >
+											</div>
+											<div class="text-center mb-3" style="width:100% ;float:right;">
+											<input type="submit" class="btn btn-primary w-50 float-right" style="float:right" name="importSubmit" value="Hitung SAW">
+											</div>
 										</div>
-								
-										<div class="text-center mb-3 w-30" style="width:30% ;">
-										<input type="submit" class="btn btn-primary" name="importSubmit" value="upload">
-										</div>
-
-										</div>
-										
 									</form>
 								</div>
 							</div>
@@ -173,9 +181,29 @@
 	</div>
 
 	<script src="assets/static/js/app.js"></script>
-
+	<script
+		src="https://code.jquery.com/jquery-3.6.3.slim.min.js"
+		integrity="sha256-ZwqZIVdD3iXNyGHbSYdsmWP//UBokj2FHAxKuSBKDSo="
+		crossorigin="anonymous"></script>
 	
 
 </body>
 
+
+<script type="text/javascript">
+    $(document).ready(function(){      
+      var i=1;  
+   
+      $('#add').click(function(){  
+           i++;  
+           $('#dynamic_field').append('<tr id="row'+i+'" class="dynamic-added"><td><input type="text" name="kriteria[]" placeholder="Masukkan Kriteria" class="form-control name_list" required /></td><td><input type="text" name="bobot[]" placeholder="Masukkan Bobot Kriteria" class="form-control name_list" required /></td><td><button type="button" name="remove" id="'+i+'" class="btn btn-danger btn_remove">X</button></td></tr>');  
+      });
+  
+      $(document).on('click', '.btn_remove', function(){  
+           var button_id = $(this).attr("id");   
+           $('#row'+button_id+'').remove();  
+      });  
+  
+    });  
+</script>
 </html>

@@ -16,33 +16,36 @@ class CDashboard extends CI_Controller{
 							 $array));
 	} 
 	function do_upload(){
-		// Kriteria
+		// dd($_POST);
+		$postLength = count($_POST) -1 ;
+		$kriteria = array();
+		// for($a=0;$a<$postLength; $a++){
+		// 	$tempKriteria = array (
+		// 		"namaKriteria" => $_POST['kriteria'][$a],
+		// 		"bobot" => $_POST['bobot'][$a]
+		// 	);
+		// 	array_push($kriteria,$tempKriteria);
+	
+		// }
 		$kriteria = [
-			["namaKriteria" => "Diklat", "bobot" => "0.2"],
-			["namaKriteria" => "Sertifikasi", "bobot" => "0.3"],
-			["namaKriteria" => "Bahasa", "bobot" => "0.1"],
-			["namaKriteria" => "TPA", "bobot" => "0.2"],
-			["namaKriteria" => "Nilai_SKP", "bobot" => "0.2"],
+			["namaKriteria" => "diklat", "bobot" => "0.2"],
+			["namaKriteria" => "sertifikasi", "bobot" => "0.3"],
+			["namaKriteria" => "bahasa", "bobot" => "0.1"],
+			["namaKriteria" => "tpa", "bobot" => "0.2"],
+			["namaKriteria" => "nilai_skp", "bobot" => "0.2"],
 		
 		];
+		
 		$csvData = $this->csvreader->parse_csv($_FILES['userfile']['tmp_name']);
 		if(!empty($csvData)){
 			$arrayDataPegawai = array();
 			foreach($csvData as $row){ 
-				$memData = array(
-					'Pegawai' => $row['pegawai'],
-					'pegawai_pendidikan' => $row['pegawai_pendidikan'],
-					'pegawai_perwakilan' => $row['perwakilan'],
-					'jabatan_nama' => $row['jabatan_nama'],
-					'Diklat' => $row['diklat'],
-					'Sertifikasi' => $row['sertifikasi'],
-					'Bahasa' => $row['bahasa'],
-					'TPA' => $row['tpa'],
-					'Nilai_SKP' => $row['nilai_skp'],
-					'Tahun' => $row['tahun'],
-				);
-				array_push($arrayDataPegawai,$memData);
+				foreach($kriteria as $k){
+					$row[$k['namaKriteria']] = $row[$k['namaKriteria']];
+				}
+				array_push($arrayDataPegawai,$row);
 			}
+			// dd($arrayDataPegawai);
 			
 			  //hasil max setiap kriteria dalam bentuk array
 			  $hasilMaxDariSetiapKriteria = array();
@@ -59,61 +62,61 @@ class CDashboard extends CI_Controller{
                     'hasil' => $max,
                 ));
 			  }
-		
+			  	$row = $nilaitotal = 0;
 			  	// Hitung Normalisasi Benefit dan assign ke setiap pegawai
 				foreach ($arrayDataPegawai as $n) {
-					$c = array();
 					foreach ($hasilMaxDariSetiapKriteria as $hmdsk) {
-						array_push($c, array(
-							'nama_kriteria' => $hmdsk['nama_kriteria'],
-							'hasil' => $n[$hmdsk['nama_kriteria']] / $hmdsk['hasil'],
-						));
+						$arrayDataPegawai[$row][$hmdsk['nama_kriteria']] = $arrayDataPegawai[$row][$hmdsk['nama_kriteria']] / $hmdsk['hasil'];
+					
+						
 					}
-					array_push($nilaiHasilBagiAntaraNilaiKriteriaDanNilaiMaxKriteria, array(
-						'Pegawai' => $n['Pegawai'],
-						'pegawai_pendidikan' => $n['pegawai_pendidikan'],
-						'pegawai_perwakilan' => $n['pegawai_perwakilan'],
-						'jabatan_nama' => $n['jabatan_nama'],
-						'tahun' => $n['Tahun'],
-						'hasil_akhir' => $c,
-					));
+					foreach($kriteria as $k){
+						$arrayDataPegawai[$row][$k['namaKriteria']] = $arrayDataPegawai[$row][$k['namaKriteria']] * $k['bobot'];
+						$nilaitotal +=  $arrayDataPegawai[$row][$k['namaKriteria']];
+					}
+					$arrayDataPegawai[$row]['total_nilai'] = $nilaitotal;
+					
+					$nilaitotal = 0;
+					$row++;
 				}
 
-				// Dibobotin dan nambah nilai akhir
-				foreach ($nilaiHasilBagiAntaraNilaiKriteriaDanNilaiMaxKriteria as $n) {
-				$val = array(
-					'Pegawai' => $n['Pegawai'],
-					'Pendidikan' => $n['pegawai_pendidikan'],
-					'Jabatan' => $n['jabatan_nama'],
-					'Tahun' => $n['tahun'],
-					'Pegawai Perwakilan' => $n['pegawai_perwakilan'],
+				// dd($arrayDataPegawai);
+
+				// // Dibobotin dan nambah nilai akhir
+				// foreach ($nilaiHasilBagiAntaraNilaiKriteriaDanNilaiMaxKriteria as $n) {
+				// $val = array(
+				// 	'pegawai_nama' => $n['pegawai_nama'],
+				// 	'Pendidikan' => $n['pegawai_pendidikan'],
+				// 	'Jabatan' => $n['jabatan_nama'],
+				// 	'Tahun' => $n['tahun'],
+				// 	'Pegawai Perwakilan' => $n['pegawai_perwakilan'],
 				
-					'Diklat' => ($n['hasil_akhir'][0]['hasil'] * $kriteria[0]['bobot']),
-					'Sertifikasi' => ($n['hasil_akhir'][1]['hasil'] * $kriteria[1]['bobot']),
-					'Bahasa' => ($n['hasil_akhir'][2]['hasil'] * $kriteria[2]['bobot']),
-					'TPA' => ($n['hasil_akhir'][2]['hasil'] * $kriteria[3]['bobot']),
-					'Nilai_Skp' => ($n['hasil_akhir'][2]['hasil'] * $kriteria[4]['bobot']),
-					'total_nilai' => ($n['hasil_akhir'][0]['hasil'] * $kriteria[0]['bobot']) +
-					($n['hasil_akhir'][1]['hasil'] * $kriteria[1]['bobot']) +
-					($n['hasil_akhir'][2]['hasil'] * $kriteria[2]['bobot']) +
-					($n['hasil_akhir'][3]['hasil'] * $kriteria[3]['bobot']) +
-					($n['hasil_akhir'][4]['hasil'] * $kriteria[4]['bobot']),
+				// 	'Diklat' => ($n['hasil_akhir'][0]['hasil'] * $kriteria[0]['bobot']),
+				// 	'Sertifikasi' => ($n['hasil_akhir'][1]['hasil'] * $kriteria[1]['bobot']),
+				// 	'Bahasa' => ($n['hasil_akhir'][2]['hasil'] * $kriteria[2]['bobot']),
+				// 	'TPA' => ($n['hasil_akhir'][2]['hasil'] * $kriteria[3]['bobot']),
+				// 	'Nilai_Skp' => ($n['hasil_akhir'][2]['hasil'] * $kriteria[4]['bobot']),
+				// 	'total_nilai' => ($n['hasil_akhir'][0]['hasil'] * $kriteria[0]['bobot']) +
+				// 	($n['hasil_akhir'][1]['hasil'] * $kriteria[1]['bobot']) +
+				// 	($n['hasil_akhir'][2]['hasil'] * $kriteria[2]['bobot']) +
+				// 	($n['hasil_akhir'][3]['hasil'] * $kriteria[3]['bobot']) +
+				// 	($n['hasil_akhir'][4]['hasil'] * $kriteria[4]['bobot']),
 		
-				);
-				array_push($nilaiFinal,$val);
-				}
+				// );
+				// array_push($nilaiFinal,$val);
+				// }
 
 				//   EXPORT TO CSV
 				  $delimiter = ","; 
 				  $filename = "SAW_" . date('Y-m-d') . ".csv"; 
 				  $f = fopen('php://memory', 'w'); 
 				  $fields = array();
-				  foreach ($nilaiFinal[0] as $k => $a){
+				  foreach ($arrayDataPegawai[0] as $k => $a){
 					array_push($fields,$k);
 					
 				  };
 				  fputcsv($f, $fields, $delimiter); 
-				  foreach($nilaiFinal as $n){
+				  foreach($arrayDataPegawai as $n){
 					fputcsv($f, $n, $delimiter); 
 				  }
 
