@@ -1,0 +1,5 @@
+"id","name","username","email","email_verified_at","password","remember_token","created_at","updated_at","is_admin"
+"1","Syahri Ramadhani","syahriramadhani","syahri.ramadhani@gmail.com",NULL,"$2y$10$u/HussaJkOL9MKllO5kuV.ZliN4gHhfqvNq5ozsePm37Ee/ZcH9n.",NULL,"2022-06-15 02:07:17","2022-06-15 02:07:17","1"
+"2","Uchita Maria Lailasari","wasita.yono","testing@gmail.com","2022-06-15 02:07:17","$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi","7qcY0uRTGgJJJimwwiHwDltiZUt9gAAWUyiRb2wzetzaXjwQhDL4xK4QWgE7","2022-06-15 02:07:17","2022-06-15 02:07:17","0"
+"3","Fitria Fujiati","tpratama","fitriani35@example.com","2022-06-15 02:07:17","$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi","X0WPywfciM","2022-06-15 02:07:17","2022-06-15 02:07:17","0"
+"4","Mutia Oktaviani","slestari","halimah.vinsen@example.com","2022-06-15 02:07:17","$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi","BvJFQruHAG","2022-06-15 02:07:17","2022-06-15 02:07:17","0"
