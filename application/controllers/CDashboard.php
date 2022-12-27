@@ -29,15 +29,6 @@ class CDashboard extends CI_Controller{
 			array_push($kriteria,$tempKriteria);
 	
 		}
-		// dd($kriteria);
-		// $kriteria = [
-		// 	["namaKriteria" => "diklat", "bobot" => "0.2"],
-		// 	["namaKriteria" => "sertifikasi", "bobot" => "0.3"],
-		// 	["namaKriteria" => "bahasa", "bobot" => "0.1"],
-		// 	["namaKriteria" => "tpa", "bobot" => "0.2"],
-		// 	["namaKriteria" => "nilai_skp", "bobot" => "0.2"],
-		
-		// ];
 		
 		$csvData = $this->csvreader->parse_csv($_FILES['userfile']['tmp_name']);
 		if(!empty($csvData)){
@@ -48,14 +39,11 @@ class CDashboard extends CI_Controller{
 				}
 				array_push($arrayDataPegawai,$row);
 			}
-			// dd($arrayDataPegawai);
-			
+
 			  //hasil max setiap kriteria dalam bentuk array
 			  $hasilMaxDariSetiapKriteria = array();
-			  $nilaiFinal = array();
                 
 			  //hasil pembagian antara nilai kriteria dan nilai max kriteria
-			  $nilaiHasilBagiAntaraNilaiKriteriaDanNilaiMaxKriteria = array();
 
 				//   Cari nilai max disetiap kriteria
 			  foreach ($kriteria as $k) {
@@ -70,7 +58,6 @@ class CDashboard extends CI_Controller{
 				foreach ($arrayDataPegawai as $n) {
 					foreach ($hasilMaxDariSetiapKriteria as $hmdsk) {
 						$arrayDataPegawai[$row][$hmdsk['nama_kriteria']] = $arrayDataPegawai[$row][$hmdsk['nama_kriteria']] / $hmdsk['hasil'];
-					
 						
 					}
 					foreach($kriteria as $k){
@@ -82,9 +69,6 @@ class CDashboard extends CI_Controller{
 					$nilaitotal = 0;
 					$row++;
 				}
-
-				dd($arrayDataPegawai);
-				
 
 				//   EXPORT TO CSV
 				  $delimiter = ","; 

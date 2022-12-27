@@ -35,24 +35,13 @@
 
 					<li class="sidebar-item active">
 						<a class="sidebar-link" href="index.html">
-              <i class="align-middle" data-feather="sliders"></i> <span class="align-middle">Dashboard</span>
+              <i class="align-middle" data-feather="sliders"></i> <span class="align-middle">Tools</span>
             </a>
 					</li>
 
 				
 				</ul>
 
-				<!-- <div class="sidebar-cta">
-					<div class="sidebar-cta-content">
-						<strong class="d-inline-block mb-2">Upgrade to Pro</strong>
-						<div class="mb-3 text-sm">
-							Are you looking for more components? Check out our premium version.
-						</div>
-						<div class="d-grid">
-							<a href="upgrade-to-pro.html" class="btn btn-primary">Upgrade to Pro</a>
-						</div>
-					</div>
-				</div> -->
 			</div>
 		</nav>
 
@@ -64,56 +53,49 @@
 
 				<div class="navbar-collapse collapse">
 					<ul class="navbar-nav navbar-align">
-						<!-- <li class="nav-item dropdown">
-							<a class="nav-icon dropdown-toggle" href="#" id="alertsDropdown" data-bs-toggle="dropdown">
-								<div class="position-relative">
-									<i class="align-middle" data-feather="bell"></i>
-									<span class="indicator">4</span>
-								</div>
-							</a>
-							
-						</li>
-						<li class="nav-item dropdown">
-							<a class="nav-icon dropdown-toggle" href="#" id="messagesDropdown" data-bs-toggle="dropdown">
-								<div class="position-relative">
-									<i class="align-middle" data-feather="message-square"></i>
-								</div>
-							</a>
-							
-						</li> -->
-						<!-- <li class="nav-item dropdown">
-							<a class="nav-icon dropdown-toggle d-inline-block d-sm-none" href="#" data-bs-toggle="dropdown">
-                <i class="align-middle" data-feather="settings"></i>
-              </a>
-
-							<a class="nav-link dropdown-toggle d-none d-sm-inline-block" href="#" data-bs-toggle="dropdown">
-                <span class="text-dark">Charles Hall</span>
-              </a>
-							<div class="dropdown-menu dropdown-menu-end">
-								<a class="dropdown-item" href="pages-profile.html"><i class="align-middle me-1" data-feather="user"></i> Profile</a>
-								<a class="dropdown-item" href="#"><i class="align-middle me-1" data-feather="pie-chart"></i> Analytics</a>
-								<div class="dropdown-divider"></div>
-								<a class="dropdown-item" href="index.html"><i class="align-middle me-1" data-feather="settings"></i> Settings & Privacy</a>
-								<a class="dropdown-item" href="#"><i class="align-middle me-1" data-feather="help-circle"></i> Help Center</a>
-								<div class="dropdown-divider"></div>
-								<a class="dropdown-item" href="#">Log out</a>
-							</div>
-						</li> -->
 					</ul>
 				</div>
 			</nav>
 
 			<main class="content">
 				<div class="container-fluid p-0">
-
-					<h1 class="h3 mb-3"><strong>Tools</strong> Perhitungan SAW </h1>
-
-									<div class="row">
+					<div class="row">
+					<div class="col-md-4">
+							<div class="card">
+								<div class="card-body">
+								
+								<h1 class="h3 mb-3" style=""><strong>Tim Kmeans</strong> Tool Perhitungan SAW </h1>
+								<p>Kami Menyediakan Tool Perhitungan Dinamis yang dapat mempermudah penggunaan metode SAW untuk Kepentingan Instansi </p>
+								<img src="http://nadyafriska.000webhostapp.com/logo-bpk-kaltara.png" style="display: block; width: 150px; margin:0 auto;">
+								</div>
+							</div>
+						</div>
+						<div class="col-md-8">
+						<div class="card">
+								<div class="card-body">
+								<h1 class="h3 mb-3" style=""><strong>Cara </strong>Menggunakan Tools </h1>
+									<p>
+										1. Pastikan Sudah memiliki Csv yang ingin diproses (pastikan Pemisah csv adalah koma (,)) . <br>
+										2. Isi Kolom Kriteria dan Bobot sesuai dengan keinginan anda, untuk nilai desimal harap menggunakan titik sebagai pemisah.<br>
+										3. Upload File Csv ke Form Upload, lalu pilih Hitung SAW.
+									</p>
+									<h1 class="h3 mb-3" style=""><strong>Contoh </strong></h1>
+									<p> 1. Memiliki CSV dengan Kolom Nama Pegawai, Nilai SKP, Nilai TPA , Perwakilan. <br>
+										2. Kolom Kriteria pada CSV adalah Nilai SKP dan Nilai TPA .  <br>
+										3. Saya menentukan bobot nilai SKP sebesar 0.7 dan Nilai TPA sebesar 0.3 , dan mengisi inputan tersebut di form. <br>
+										4. Saya upload file CSV saya. <br>
+										5. Saya memilih tombol Hitung SAW, maka CSV yang sudah diproses akan terdownload secara otomatis.
+										
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="row">
 						<div class="col-xl-12 col-xxl-12 d-flex">
 						<div class="card flex-fill w-100">
 								<div class="card-header">
-
-									<h5 class="card-title mb-0">Hitung SAW</h5>
+								<h1 class="h3 mb-3" style=""><strong>Form</strong> Hitung SAW </h1>
 								</div>
 								<div class="card-body py-3">
 								<?php echo form_open_multipart('CDashboard/do_upload');?>
@@ -135,18 +117,17 @@
 												<input class="form-control form-control-lg" type="file" name="userfile" >
 											</div>
 											<div class="text-center mb-3" style="width:100% ;float:right;">
-											<input type="submit" class="btn btn-primary w-50 float-right" style="float:right" name="importSubmit" value="Hitung SAW">
+											<input type="submit" class="btn btn-primary w-100 float-right" style="float:right" name="importSubmit" value="Hitung SAW">
 											</div>
 										</div>
 									</form>
 								</div>
 							</div>
 						</div>
+						
 
 					</div>
-
-				
-
+					
 				</div>
 			</main>
 
