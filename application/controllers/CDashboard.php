@@ -21,7 +21,12 @@ class CDashboard extends CI_Controller{
 							 },
 							 $array));
 	} 
-	
+	function min_attribute_in_array($array, $prop) {
+		return min(array_map(function($o) use($prop) {
+								return $o[$prop];
+							 },
+							 $array));
+	} 
     function do_upload_old(){
 		// dd($_POST);
 		
@@ -51,20 +56,40 @@ class CDashboard extends CI_Controller{
 			  $hasilMaxDariSetiapKriteria = array();
                 
 			  //hasil pembagian antara nilai kriteria dan nilai max kriteria
-
+		
 				//   Cari nilai max disetiap kriteria
 			  foreach ($kriteria as $k) {
-				$max = $this -> max_attribute_in_array($arrayDataPegawai, $k['namaKriteria']);
-				array_push($hasilMaxDariSetiapKriteria, array(
+				if($k['jenis'] == "cost"){
+					$min = $this -> min_attribute_in_array($arrayDataPegawai, $k['namaKriteria']);
+				array_push($hasilMaxMinDariSetiapKriteria, array(
                     'nama_kriteria' => $k['namaKriteria'],
-                    'hasil' => $max,
-                ));
+                    'hasil' => $min,
+					'jenis' => 'cost'
+				));
+				
+				} else {
+					$max = $this -> max_attribute_in_array($arrayDataPegawai, $k['namaKriteria']);
+					array_push($hasilMaxDariSetiapKriteria, array(
+						'nama_kriteria' => $k['namaKriteria'],
+						'hasil' => $max,
+						'jenis' => 'benefit'
+					));
+				}
 			  }
 			  	$row = $nilaitotal = 0;
 			  	// Hitung Normalisasi Benefit dan assign ke setiap pegawai
 				foreach ($arrayDataPegawai as $n) {
 					foreach ($hasilMaxDariSetiapKriteria as $hmdsk) {
-						$arrayDataPegawai[$row][$hmdsk['nama_kriteria']] = $arrayDataPegawai[$row][$hmdsk['nama_kriteria']] / $hmdsk['hasil'];
+						if($hmdsk['jenis'] = "cost"){
+							if($hmdsk['hasil'] == 0){
+								$arrayDataPegawai[$row][$hmdsk['nama_kriteria']] = 1;
+							} else {
+							$arrayDataPegawai[$row][$hmdsk['nama_kriteria']] =$hmdsk['hasil'] /  $arrayDataPegawai[$row][$hmdsk['nama_kriteria']] ;
+							}
+							
+						}else {
+							$arrayDataPegawai[$row][$hmdsk['nama_kriteria']] = $arrayDataPegawai[$row][$hmdsk['nama_kriteria']] / $hmdsk['hasil'];
+						}
 						
 					}
 					foreach($kriteria as $k){
@@ -127,53 +152,63 @@ class CDashboard extends CI_Controller{
             // jagain barangkali tidak ada header
             $rows_header = $rows[0];
             
-            $arr_kriteria = array();
+            $kriteria = array();
 
             // ini untuk arrPegawai
             $kriteria_header = array();
 
             // bisa buat input
-            $idx_start_kriteria = 5 ;
-
-            for ($i=0; $i < $idx_start_kriteria ; $i++) { 
-                array_push($kriteria_header, $rows_header[$i]) ;
-            }
-
+			
+			
+			// dd($kriteria_header);
+			// for ($i=0; $i < $idx_start_kriteria ; $i++) { 
+            //     array_push($kriteria_header, $rows_header[$i]) ;
+            // }
             foreach ($rows_header as $head) {
-                
-                if(preg_match("/kriteria/i", strtolower($head))) {
-                    $temp = $this->multiexplode(array("_","="),$head);
-                    
+                // dd($head);
+				if(!preg_match("/kriteria+_+[a-zA-Z0-9._-]+[=]/", strtolower($head))){
+					array_push($kriteria_header,$head);
+				} 
+            	   else if(preg_match("/kriteria+_+[a-zA-Z0-9._-]+[=]/", strtolower($head))) {
+                    $temp = $this->multiexplode(array("kriteria_","="),$head);
                     $k = null;
                     if((int)$temp[2] < 0) {
                         $k = array('namaKriteria' => strtolower($temp[1]), 'bobot' => ($temp[2]  * -1), 'jenis' => 'cost');
                     } else {
                         $k = array('namaKriteria' => strtolower($temp[1]), 'bobot' => $temp[2], 'jenis' => 'benefit');
                     }
-
-                    array_push($arr_kriteria, $k);
+					
+                    array_push($kriteria, $k);
 
                     array_push($kriteria_header, $temp[1]);
                 }
+			
             }
+
+			
 
             $arrayDataPegawai = array();
 
             foreach ($rows as $k => $r) {
                 if ($k < 1) continue;     
-
+			
                 $temp_each = array(); 
                 
                 foreach ($kriteria_header as $key => $kh) {
-                    
+				
                     $kh = strtolower($kh);
                     $temp_each[$kh] = $r[$key];
+				
+
                 }  
+			
                 
                 array_push($arrayDataPegawai, $temp_each);
             }
 
-            print_r($arrayDataPegawai);die('abc');
+			
+
+         
             /*
             foreach($csvData as $row){ 
                 foreach($kriteria as $k){
@@ -188,22 +223,42 @@ class CDashboard extends CI_Controller{
               $hasilMaxDariSetiapKriteria = array();
                 
               //hasil pembagian antara nilai kriteria dan nilai max kriteria
-
+				
                 //   Cari nilai max disetiap kriteria
               foreach ($kriteria as $k) {
-                $max = $this -> max_attribute_in_array($arrayDataPegawai, $k['namaKriteria']);
-                array_push($hasilMaxDariSetiapKriteria, array(
+				if($k['jenis'] == "cost"){
+					$min = $this -> min_attribute_in_array($arrayDataPegawai, $k['namaKriteria']);
+				array_push($hasilMaxDariSetiapKriteria, array(
                     'nama_kriteria' => $k['namaKriteria'],
-                    'hasil' => $max,
-                ));
+                    'hasil' => $min,
+					'jenis' => 'cost'
+				));
+				
+				} else {
+					$max = $this -> max_attribute_in_array($arrayDataPegawai, $k['namaKriteria']);
+					array_push($hasilMaxDariSetiapKriteria, array(
+						'nama_kriteria' => $k['namaKriteria'],
+						'hasil' => $max,
+						'jenis' => 'benefit'
+					));
+				}
               }
                 $row = $nilaitotal = 0;
                 // Hitung Normalisasi Benefit dan assign ke setiap pegawai
                 foreach ($arrayDataPegawai as $n) {
-                    foreach ($hasilMaxDariSetiapKriteria as $hmdsk) {
-                        $arrayDataPegawai[$row][$hmdsk['nama_kriteria']] = $arrayDataPegawai[$row][$hmdsk['nama_kriteria']] / $hmdsk['hasil'];
-                        
-                    }
+					foreach ($hasilMaxDariSetiapKriteria as $hmdsk) {
+						if($hmdsk['jenis'] == "cost"){
+							if($hmdsk['hasil'] == 0){
+								$arrayDataPegawai[$row][$hmdsk['nama_kriteria']] = 1;
+							} else {
+							$arrayDataPegawai[$row][$hmdsk['nama_kriteria']] = $hmdsk['hasil'] /  $arrayDataPegawai[$row][$hmdsk['nama_kriteria']] ;
+							}
+							
+						}else {
+							$arrayDataPegawai[$row][$hmdsk['nama_kriteria']] = $arrayDataPegawai[$row][$hmdsk['nama_kriteria']] / $hmdsk['hasil'];
+						}
+						
+					}
                     foreach($kriteria as $k){
                         $arrayDataPegawai[$row][$k['namaKriteria']] = $arrayDataPegawai[$row][$k['namaKriteria']] * $k['bobot'];
                         $nilaitotal +=  $arrayDataPegawai[$row][$k['namaKriteria']];
@@ -213,6 +268,7 @@ class CDashboard extends CI_Controller{
                     $nilaitotal = 0;
                     $row++;
                 }
+			
 
                 //   EXPORT TO CSV
                   $delimiter = ","; 

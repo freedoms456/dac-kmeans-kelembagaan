@@ -73,20 +73,30 @@
 						<div class="col-md-8">
 						<div class="card">
 								<div class="card-body">
+
 								<h1 class="h3 mb-3" style=""><strong>Cara </strong>Menggunakan Tools </h1>
-									<p>
-										1. Pastikan Sudah memiliki Csv yang ingin diproses (pastikan Pemisah csv adalah koma (,)) . <br>
-										2. Isi Kolom Kriteria dan Bobot sesuai dengan keinginan anda, untuk nilai desimal harap menggunakan titik sebagai pemisah.<br>
-										3. Upload File Csv ke Form Upload, lalu pilih Hitung SAW.
+								<a href="<?= base_url() ?>/uploads/sampleData.xlsx"><input type="submit" class="btn btn-success float-right"  name="template" value="Download Template" /></a>
+								<p>
+									<br>
+										1. Silahkan Download Template yang disediakan . <br>
+										2. Silahkan ubah baris atas sesuai kebutuhan.<br>
+										3. Jika salah satu kolom merupakan kriteria yang ingin dihitung, silahkan isi dengan format: <br>kriteria_<strong>Nama Kriteria</strong>=<strong>jumlah bobot</strong>.
+										<br>
+										4. Jika Kriteria Berjenis Cost, silahkan tambahkan tanda <strong> - </strong> sebelum jumlah bobot. Contoh: <br></p>
+										<div style="padding:5px 10px; border: 1px solid black" >
+										a. Terdapat kolom <strong>kriteria_Usia=-20</strong> <br>
+										Maka kolom Usia merupakan Sebuah Kriteria . berjenis cost dan memiliki bobot 20 <br>
+										b. Terdapat kolom <strong>kriteria_Nilai_Tes=30</strong> <br>
+										Maka kolom Nilai Tes merupakan Sebuah Kriteria . berjenis Benefit dan memiliki bobot 30 <br>
+										c. Terdapat kolom <strong>Pegawai</strong> <br>
+										Maka kolom Pegawai bukan merupakan Sebuah Kriteria (hanya kolom keterangan)
+										</div> <br>
+										<p>
+										5. Pada Baris Selanjutnya, isilah data sesuai keinginan.<br>
+										6. Upload File ke Form Yang disediakan, lalu pilih Hitung SAW.<br>
+										7. File Akan terunduh dengan format csv.
 									</p>
-									<h1 class="h3 mb-3" style=""><strong>Contoh </strong></h1>
-									<p> 1. Memiliki CSV dengan Kolom Nama Pegawai, Nilai SKP, Nilai TPA , Perwakilan. <br>
-										2. Kolom Kriteria pada CSV adalah Nilai SKP dan Nilai TPA .  <br>
-										3. Saya menentukan bobot nilai SKP sebesar 0.7 dan Nilai TPA sebesar 0.3 , dan mengisi inputan tersebut di form. <br>
-										4. Saya upload file CSV saya. <br>
-										5. Saya memilih tombol Hitung SAW, maka CSV yang sudah diproses akan terdownload secara otomatis.
-										
-									</p>
+									
 								</div>
 							</div>
 						</div>
@@ -99,7 +109,7 @@
 								</div>
 								<div class="card-body py-3">
 								<?php echo form_open_multipart('CDashboard/do_upload');?>
-									<div class="row">
+									<!-- <div class="row">
 										<div class="table-responsive">  
 										<label class="form-label">Kriteria</label>
 											<table class="table table-bordered" id="dynamic_field">  
@@ -110,7 +120,7 @@
 												</tr>  
 											</table>  
 										</div>
-									</div>
+									</div> -->
 									<label class="form-label">Upload File</label>
 										<div class="row">
 											<div class="mb-3" style="width:100% ;">
