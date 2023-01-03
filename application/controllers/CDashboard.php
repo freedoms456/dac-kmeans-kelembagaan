@@ -170,8 +170,7 @@ class CDashboard extends CI_Controller{
 					array_push($kriteria_header,$head);
 				} 
             	   else if(preg_match("/kriteria+_+[a-zA-Z0-9._-]+[=]/", strtolower($head))) {
-                    $temp = $this->multiexplode(array("kriteria_","="),$head);
-                    $temp = $this->multiexplode(array("Kriteria_","="),$head);
+                    $temp = $this->multiexplode(array("riteria_","="),$head);
                     $k = null;
                     if((int)$temp[2] < 0) {
                         $k = array('namaKriteria' => strtolower($temp[1]), 'bobot' => ($temp[2]  * -1), 'jenis' => 'cost');
